@@ -1,0 +1,71 @@
+Job Details
+Job Summary:
+We are seeking a motivated and talented Junior Developer with hands-on experience in React JS and .NET Core to join our development team. The ideal candidate should have a passion for coding, an eagerness to learn, and the ability to work in a collaborative environment. This role involves working on both front-end and back-end components of our web applications, ensuring they are scalable, maintainable, and performant.
+Key Responsibilities:
+•
+Develop and maintain front-end applications using React JS.
+•
+Build and integrate back-end services and APIs using .NET Core.
+•
+Collaborate with senior developers to design, implement, and optimize new features.
+•
+Debug and troubleshoot issues in both the front-end and back-end environments.
+•
+Write clean, well-structured, and maintainable code following best practices.
+•
+Participate in code reviews and provide constructive feedback to peers.
+•
+Work closely with designers and other team members to deliver high-quality software products.
+•
+Assist in the development of technical documentation for new and existing features.
+•
+Stay up to date with the latest industry trends and technologies.
+Requirements:
+•
+Educational Background: Bachelor’s degree in Computer Science, Information Technology, or a related field (or equivalent experience).
+•
+Experience: 0-2 years of hands-on experience in software development, with a focus on React JS and .NET Core.
+Technical Skills:
+•
+Proficiency in React JS for building user interfaces.
+•
+Familiarity with Redux or other state management libraries.
+•
+Experience with HTML5, CSS3, and JavaScript/TypeScript.
+•
+Knowledge of .NET Core and C# for building RESTful APIs and backend services.
+•
+Familiarity with database technologies such as SQL Server, Entity Framework, or PostgreSQL.
+•
+Basic understanding of version control systems like Git.
+•
+Exposure to Agile/Scrum development methodologies.
+Bonus Skills (Nice to Have):
+•
+Experience with CI/CD pipelines and deployment automation.
+•
+Knowledge of cloud platforms such as Azure or AWS.
+•
+Understanding of unit testing frameworks such as XUnit or Jest.
+•
+Exposure to containerization technologies like Docker.
+•
+Familiarity with WebSockets, SignalR, or similar real-time communication libraries.
+Soft Skills:
+•
+Strong problem-solving abilities.
+•
+Ability to work both independently and as part of a team.
+•
+Eagerness to learn new technologies and take on new challenges.
+•
+Strong communication skills, both verbal and written.
+•
+Attention to detail and a focus on delivering high-quality work.
+Place of posting
+Accomodation details
+Thane
+None
+Bond applicable
+Yes
+24 months

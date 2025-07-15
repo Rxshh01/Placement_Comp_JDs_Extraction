@@ -1,0 +1,26 @@
+Job Details
+Key Responsibilities:
+- Assist in the development and testing of firmware for biometric sensors to ensure high performance and reliability.
+- Collaborate with hardware engineers to integrate and enhance sensor performance.
+- Participate in the testing and validation of firmware to maintain product quality.
+- Help identify and troubleshoot firmware issues to ensure smooth product functionality.
+- Contribute to the documentation of firmware development processes and testing outcomes.
+Requirements:
+- A bachelor's degree in Electronics, Electrical Engineering, Computer Engineering, or a related field.
+- Solid understanding of C/C++ programming and a willingness to develop problem-solving skills.
+- Basic knowledge of communication protocols such as I2C, SPI, and BLE, with an interest in gaining hands-on experience.
+- Familiarity with ARM Cortex M4 and M3 microcontrollers (coursework or projects).
+- Foundational knowledge of debugging tools such as oscilloscopes, logic analyzers, or JTAG.
+- Understanding of Real-Time Operating Systems (RTOS) (academic or project-based experience).
+- Familiarity with FLASH memory device drivers and low power device concepts is a plus.
+- Willingness to learn and work with embedded debuggers and quality control tools.
+- Interest or prior project experience related to firmware development for sensors (biometric or otherwise).
+Nice to Have:
+- Coursework or projects involving additional sensor integration.
+- Knowledge of power management techniques.
+Place of posting
+Accomodation details
+Bengaluru
+None
+Bond applicable
+No

@@ -1,0 +1,246 @@
+Job Details
+Your responsibilities will include:
+·
+Credit
+Risk Modelling such as PD,
+LGD, EAD
+under
+IRB/IFRS9 regulation.
+Time
+Series
+analysis and
+forecasting
+·
+Development/Validation of market risk
+pricing/risk-based models for treasury products of a bank such as FX forwards,
+swaps, options, Interest rate swaps,
+cross
+currency
+swaps,
+etc.
+·
+End
+to
+End
+Model
+development
+including
+Exploratory
+data
+analysis,
+Target
+variable
+definitions,
+factor
+selections, selection of various model technique including assumptions
+and limitations, model
+calibration
+·
+Independent
+Model
+Validation
+including
+Data
+preparation
+and
+analysis,
+validation
+tests,
+back
+testing,
+scenario
+analysis, sensitivity
+analysis, model
+robustness
+·
+Risk
+governance,
+Regulatory
+risk assessment
+under
+various
+regulations
+·
+Consistently
+deliver
+quality
+client
+services
+and
+take
+charge of the assigned
+project
+area
+·
+Demonstrate in-depth
+technical capabilities and professional
+knowledge.
+·
+Possess good business
+acumen. Remain
+current
+on
+new
+developments in risk advisory
+services
+industry
+knowledge
+The job would
+require
+travel
+to
+client
+locations anywhere within India and
+abroad
+The
+  Individual
+·
+Understanding of various
+credit
+risk
+concepts
+such as PD, LGD, EAD
+etc.
+·
+Understanding of duration,
+  modified duration, DV01,
+CS01,
+options
+Greeks,
+Taylor
+series
+expansion,
+VaR
+etc.
+·
+Good
+to
+have
+  knowledge of various
+pricing
+models
+  for treasury products of Bank such as FX forwards, swaps, options, Interest
+  rate swaps,
+cross
+currency
+swaps,
+etc.
+·
+Understanding of banking /
+  treasury operations. Knowledge of
+Murex,
+Calypso,
+  FIS will be an
+advantage.
+·
+Strong
+statistical
+analytics
+skills
+and
+knowledge
+of
+advanced
+statistical
+analytical
+tools
+(like
+SAS,
+R,
+Python,
+Alteryx,
+Power BI etc.) will be an
+advantage
+·
+Innovative,
+strategic,
+and
+pragmatic
+thinking
+and
+an
+eye
+for detail
+and
+ability
+to
+add
+value
+in
+complex
+analysis
+·
+Business writing and
+  presentation skills both oral and written
+with
+clarity and
+present
+persuasive
+options.
+·
+High
+level
+of
+computer
+literacy
+with
+specific
+knowledge
+of
+spreadsheets
+and
+MS-Office
+–
+power
+point
+in
+particular
+·
+Strong interpersonal
+  skills and communication skills - both
+verbal
+and
+written
+·
+Ability
+to
+build
+collaborative
+and
+inclusive
+relationships
+within
+and
+outside
+of
+the
+firm,
+Commercial
+acumen
+and market
+alertness
+·
+Resilience
+and
+agility
+especially
+during
+stringent
+deadlines,
+fast-changing
+environments,
+processes,
+and
+structures
+·
+Willingness
+to
+have extensive travel, both domestic
+  and
+international
+Place of posting
+Accomodation details
+Gurgaon/Mumbai/Bangalore
+None
+Bond applicable
+No

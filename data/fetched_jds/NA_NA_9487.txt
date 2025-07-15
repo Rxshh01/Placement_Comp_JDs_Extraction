@@ -1,0 +1,15 @@
+Job Details
+Building world-class factory infrastructure at record speed and ramping to high-volume production is key to enabling TSMC to scale worldwide. We are seeking a highly motivated Senior Global Systems Development Engineer to join our dynamic team supporting TSMC factories globally. The ideal candidate will possess a highly technical, multi-disciplinary engineering skillset capable of pushing the limits of complex system design at large scales.
+Key Responsibilities:
+Develop State-of-the-Art Code: Design and implement cutting-edge software solutions that meet the high standards of TSMC's global operations.
+Refactor Existing Applications: Continuously improve and optimize existing software applications to enhance performance and maintainability.
+Ensure Software Quality: Write and maintain comprehensive tests to ensure the reliability and quality of software products.
+Apply Software Design Principles: Utilize best practices in software design to ensure the sustainability and efficiency of applications.
+Collaborate and Review: Work closely with colleagues in design and code reviews to share knowledge, identify improvements, and ensure the highest quality standards.
+Support devops for cloud native platform and cooperate service implementation.
+Place of posting
+Accomodation details
+Hsinchu, Taiwan
+Temporary
+Bond applicable
+No

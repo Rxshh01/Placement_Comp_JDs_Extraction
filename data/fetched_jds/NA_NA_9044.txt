@@ -1,0 +1,104 @@
+Job Details
+[Responsibilities]
+・
+Research
+and development (R&D) of detection and measurement systems for industrial robots or
+industrial machinery.
+・
+Work
+on the R&D of algorithms for image/point cloud measurement
+systems used in rubber tired gantry cranes for container terminals, which
+includes actual machine testing under the guidance of a mentor employee.
+Throughout this experience, you will become proficient in our company's
+R&D
+processes and acquire skills in solving real-world
+problems using applied optics.
+・
+After
+finishing the project above, new application areas of the project, which you
+will propose, may include optical measurement technology and process control
+for industrial machinery for semiconductor industry, anomaly detection systems
+using hyperspectral cameras or advanced camera systems, factory safety
+management systems using RF (radio wave) or THz measurement, and product/part
+inspection systems using laser measurement. You will also be expected to lead
+the creation of new products/businesses and the improvement of existing ones,
+leveraging the outcome of the R&D project.
+[Required
+Qualifications]
+・
+Completed
+(or be expected to complete) the Ph.D program or have equivalent achievements.
+Specialization in optics or related research topics is desirable.
+・
+Willingness
+to pursue
+R&D
+for any of our diverse product lines, rather
+than sticking to a single specific product.
+・
+Have
+published at least two peer-reviewed papers as a first author. (Acceptance from
+journals is also included. Peer-reviewed international conference proceedings
+equivalent to journal papers are also acceptable, depending on your research
+field).
+・
+At
+least three years of experience in implementing programs, from acquisition to
+analysis of experimental data, by yourself
+・
+Experience
+in designing and adjusting optical systems by yourself, including practical
+training in class, and should have learned how to handle optical instruments,
+which includes lasers, lenses, mirrors and so on.
+[Preferred
+qualifications]
+・
+Experience
+in leading and accomplishing your own research topic and/or individual (team)
+project.
+・
+Experience
+using optical simulation software such as Zemax/Code V or experience
+implementing image/point cloud processing programs.
+・
+Experience
+using ROS/ROS2
+・
+Experience
+using Raspberry Pi or similar devices in your own research is desirable, as
+well as taking a course of mechanical engineering, control engineering, or
+electrical engineering as minor.
+・
+Experience
+in creating 3D CAD models using software such as SolidWorks is desirable.
+Experience with Unity or Blender is a plus.
+[Career
+Path]
+・
+In
+the first to third year, you will acquire practical experience and knowledge
+through on-the-job training (OJT) under the guidance of a mentor employee.
+・
+From
+the third to fifth year, you will be expected to proactively conceive R&D
+projects for our products and experience in completing these projects as a
+person in charge of practical work.
+・
+In
+the fifth to eighth year, you will be expected to take on the role of a leader
+for a specific
+R&D
+project, including responsibility for
+budget and progress management.
+・
+Following
+the path above, you will be able to experience a series of R&D steps up to
+the commercialization of the product based on the seed technology you will have
+developed, which definitely will make your career fruitful both as a researcher
+and as an engineer.
+Place of posting
+Accomodation details
+Yokosuka, Kanagawa , Japan
+Temporary
+Bond applicable
+No

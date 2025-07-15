@@ -1,0 +1,32 @@
+Job Details
+About the Team
+Our Data Science team is the Avengers to Meesho’s S.H.I.E.L.D 🛡️. And why not? We are the ones who assemble during the toughest challenges and devise creative solutions, building intelligent systems for millions of our users looking at a thousand different categories of products. We’ve barely scratched the surface, and have amazing challenges in charting the future of commerce for Bharat.
+Our typical day involves dealing with fraud detection, inventory optimisation, and platform vernacularisation.
+As a Data Scientist, you will navigate uncharted territories with us, discovering new paths to creating solutions for our users.🔍 You will be at the forefront of interesting challenges and solve unique customer problems in an untapped market.
+But wait – there’s more to us. Our team is huge on having a well-rounded personal and professional life. When we aren't nose-deep in data, you will most likely find us belting “Summer of 69” at the nearest Karaoke bar, or debating who the best Spider-Man is: Maguire, Garfield, or Holland? You tell us ☺️
+About the Role
+Love deep data? Love discussing solutions instead of problems? Then you could be our next Data Scientist.
+In a nutshell, your primary responsibility will be enhancing the productivity and utilisation of the generated data. Other things you will do include working closely with the business stakeholders, transforming scattered pieces of information into valuable data, and sharing and presenting your valuable insights with peers.
+Technical Requirements:
+Good grasp of variety of topics in Deep Learning, Machine Learning, Computer Vision, etc
+Familiarity with tools like SQL, Python, PyTorch, Tensorflow etc.
+Strong understanding of Statistics and Linear Algebra
+Strong understanding of hypothesis/model testing
+Proficiency in machine learning algorithms
+Excellent analytical skills to fetch data from reliable sources to generate accurate insights
+Experience in tech and product teams is a plus
+Bonus points for:
+Experience in working on personalization or other ML problems
+Familiarity with Big Data tech stacks like Apache Spark, Hadoop, Redshift
+Other Perks and Benefits:
+Flexible work hours and a healthy work-life balance.
+Regular team outings, fun activities, and engagement in various clubs.
+Opportunity to work with a diverse and talented team.
+Exposure to different business verticals and the chance to make a significant impact.
+Join us at Meesho and be a part of our journey to revolutionize e-commerce in India. Apply now and turn your ideas into reality!
+Place of posting
+Accomodation details
+Bangalore
+None
+Bond applicable
+No

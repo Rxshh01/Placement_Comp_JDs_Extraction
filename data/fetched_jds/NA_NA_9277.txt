@@ -1,0 +1,65 @@
+Job Details
+About
+Aura & Product:
+Position
+: Analog Design Engineer
+(across
+various levels)
+Job Overview Duties include
+As an Analog design engineer, the designer will
+     design analog/mixed signal circuits in the fields of RF, Audio, Power
+     Management, Data Converters, Clock synthesizers and Jitter Attenuators.
+Run extensive simulations on the design to
+     fully verify functionality and performance before fabrication and will
+     validate the chip in the lab.
+·
+Explore alternative design techniques to meet the chip specifications
+while minimizing device costs with ample opportunities to innovate during the
+design cycle that can lead to patentable ideas.
+·
+Detailed design cycle that spans not only circuit design and
+simulation but also layout support, test, evaluation and debugging of prototype
+ICs and design support for mass production.
+·
+Plays a lead role in product definition and be responsible for
+designing significant blocks of the chip, including chip architecture and chip
+top integration.
+Will be
+     working with small, nifty, focused, world class design team at Aura in a
+     creative role.
+ESSENTIAL
+FUNCTIONS
+Be thorough with circuit design and signal
+     processing fundamentals.
+Is a good team player and works well with
+     internal and external partners, shares knowledge with the team and always
+     eager to stay up to date with recent design practices.
+Provides guidance to layout designers for
+     sensitive custom layouts.
+Simulates for the block-level and
+     top-level specifications, design and layout.
+Be hands on in post-silicon debug, lab
+     testing, characterization and troubleshooting.
+Does project management and technical
+     sharing. (for senior candidates with 5+ yrs of exp only)
+Supports the product definition, the test
+     program development and the manufacturing/production/customer needs. (for
+     senior candidates with 5+ yrs of exp only)
+REQUIREMENTS
+Candidates preferred from premier
+     institutes for fresher and all experience levels
+Relevant background and experience in Analog/mixed-signal
+     and/or RF IC design.
+Knowledge in behavioural modelling,
+     Verilog-AMS & Matlab programming.
+Knowledge in Mixed mode simulation and SOC
+     integration.
+Advanced system knowledge is preferable.
+Excellent written and verbal presentation
+     skills.
+Place of posting
+Accomodation details
+Bangalore
+Temporary
+Bond applicable
+No

@@ -1,0 +1,50 @@
+Job Details
+We are currently seeking a qualified individual to join our esteemed Technology Group as a Software Engineering 
+Champion, responsible for leading the development of the Vector app. The role entails close collaboration with a 
+cross-functional team comprising researchers, product engineers, and designers. This collaborative effort is crucial 
+for delivering exceptional product experiences through the utilization of large language models tailored for 
+enterprise applications.
+The desired qualifications for this position encompass a robust foundation in technical, logical, and creative 
+expertise. Candidates should demonstrate proficiency in applying a "design-thinking" approach to model 
+development, emphasizing the identification of novel capabilities and evaluations that enhance the overall 
+product. Ideal candidates are expected to be self-motivated, energetic, and driven, expressing a keen interest in 
+pursuing a career within the dynamic and fast-paced market environment of a leading domain-tech firm.
+Our company places a high value on diversity, innovative ideas, and intellectual contributions. We foster a culture 
+built on principles of fairness, honesty, openness, and transparency.
+Key responsibilities for this role include taking ownership of the development and deployment of custom solutions 
+tailored for design partners and customers. This involves a comprehensive understanding of workflows, proficiency 
+in writing integrations, and skill in curating data and evaluations to ensure the successful implementation of 
+solutions.
+Key responsibilities:
+• Conduct thorough compilation and analysis of data, processes, and codes to effectively troubleshoot issues 
+and pinpoint areas for enhancement.
+• Collaborate closely with front-end developers and other team members to establish objectives and craft 
+more functional, cohesive codes aimed at elevating the overall user experience.
+• Generate innovative ideas for new programs, products, or features by actively monitoring industry 
+developments and trends.
+• Document and report gathered data to relevant parties, including clients or leadership, ensuring clear and 
+concise communication.
+• Actively participate in ongoing education and training initiatives to stay abreast of best practices, acquire 
+proficiency in new programming languages, and enhance the ability to support fellow team members.
+• Assume a leadership role on projects as needed, demonstrating the capacity to drive initiatives to successful 
+completion.
+Qualifications:
+• Possession of a bachelor's degree in computer programming, computer science, or a related field is 
+mandatory.
+• Additional education or experience may be necessary based on specific role requirements.
+• Proficiency in specific programming languages, including but not limited to Node JS, TypeScript, MONGO 
+DB, My SQL, Redis, JAVA, Docker, Python, Kubernetes, and familiarity with various operating systems may 
+be prerequisites.
+• Demonstrated strong comprehension of the web development cycle, coupled with adept programming 
+techniques and tools.
+• Emphasis on optimizing efficiency, enhancing user experience, and actively contributing to process 
+improvement initiatives.
+• Exceptional project and time management skills, ensuring effective execution and timely delivery.
+• Profound problem-solving abilities, complemented by excellent verbal and written communication skills.
+• Capable of working both independently and collaboratively within a team setting
+Place of posting
+Accomodation details
+Pune
+Temporary
+Bond applicable
+No

@@ -1,0 +1,68 @@
+Job Details
+Responsibilities
+● Leads the controller design and integration process for launch vehicle control systems
+and related components
+●Specifically, Aid in the development of Autopilot linear stability testing and analysis.
+●Design Non-linear 6DOF simulation analysis and scenario analysis.
+●Review system level and launch vehicle requirements.
+●Lead development and maintenance of software tools that predict pre-flight
+performance under nominal, off-nominal conditions.
+●
+Perform post flight verification of simulation predictions and Monte Carlo through
+multiple flight conditions.
+●
+Create hazards assessment programs and tools to understand probability of impact
+and expected damage from off-nominal and failure modes.
+●Support design reviews and milestones as necessary.
+●Assists independent sections of propulsion control systems.
+●Aid specifically, the development of some or all of the following.
+●Design of Mixture ratio control & stability analysis.
+●Integration of mixture ratio control, electric motor speed control and propellant
+utilisation loops.
+●
+Development of system level requirements for cross coupled dynamics between
+propellant utilisation algorithms and vehicle guidance / autopilot algorithms.
+●Support design reviews and milestones as necessary.
+●Supports hardware design & implementation of the vehicle across multiple control
+systems.
+●Analog and mixed signal design with focus on launch vehicle hardware.
+●Board level design for both ground checkout systems and flight hardware.
+●Support design reviews and milestones as necessary
+Basic Qualifications
+● Bachelor's Degree in Electrical engineering, Electronics & Communications or
+Mechanical engineering
+● Highly developed computer skills using EE design/analysis software
+● Good understanding of product development and Control network
+● Decent software programming skills
+Preferred Skills and Experience
+● Masters degree in Electrical engineering, Electronics & Communications engineering
+● Knowledge in spacecraft ACS hardware and software development - ACS design,
+manufacture, simulation, and test
+● KNowledge in mechanical systems and engines
+● Hands on experience using electrical/software test and analysis equipment
+● Good understanding of orbital mechanics, multi-body dynamics, and
+controls-structures interaction
+● KNowledge with static constrained optimization, calculus of variations, dynamic
+optimization, maximum principle, Riccati equations, learning and adaptation in
+controllers.
+Additional Requirements
+● Must be available to work extended hours and weekends as needed
+What you could take away?
+●
+You might have designed one of the most challenging autopilot algorithms in the
+world.
+●
+Your work will directly impact the company's (and the rocket's) trajectory.
+●
+You will learn rocket science from some of the most senior and respected minds in
+ISRO.
+●
+You will work on shaping space policy in India.
+●
+You will dirty your hands in a global supply/chain optimization problem.
+Place of posting
+Accomodation details
+CHENNAI
+None
+Bond applicable
+No

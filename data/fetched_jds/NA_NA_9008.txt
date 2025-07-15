@@ -1,0 +1,56 @@
+Job Details
+About
+the role
+Drive
+new modelling techniques and research latest data science developments/machine
+learning techniques for credit risk model development and credit stress testing
+for retail and wholesale banking portfolios
+Keep
+up to date with latest developments in statistical modelling techniques and
+apply it for credit risk modelling and credit stress testing model development
+Implement
+diverse range of credit risk modelling and methodology solutions
+Join a team that values collaboration and innovation!
+Role Location: Campus 5A, RMZ Ecoworld, Bengaluru, 560103
+Role Type: Permanent, Full-time
+As Lead Analyst, you will be responsible for analysing the credit risk on ANZ’s
+wholesale and retail customers by developing credit risk models, including the
+prediction of default risk (PD), losses (LGD), exposures as well as credit
+stress testing models, and IFRS9 provisioning models in order to have correct
+assessment of the bank’s capital and to meet business and regulatory
+requirements. You could also be involved in coming up with the methodologies
+for credit risk model development, stress testing and climate risk modelling.
+You
+will be accountable for the management and delivery of modelling projects from
+low to high degree of complexity according to the ANZ standards and in line
+with regulations applying to the various geographies of ANZ.
+Keeping up to date with the latest developments in data science techniques and
+application of the same is crucial to the successful execution of the
+responsibilities under this role.
+What
+will you bring?
+To grow
+and be successful in this role, you will ideally bring the following:
+Be one of the go-to team
+     members for queries on (and application of) data science concepts
+Able
+     to come up with appropriate (and practical) data science techniques to
+     solve analytical problems
+Keep
+     abreast of the latest development in the application of Statistical and
+     Econometric concepts, AI/ML techniques in the credit risk domain by going
+     through different published papers, e.g. by various regulatory bodies and
+     research organizations, and training
+Bring-in
+     automation and efficiency in existing model development process using
+     tools such as R, Python, SQL, SAS, VBA
+Have
+     an eye for details
+Possess good interpersonal
+     skill and communication skill
+Place of posting
+Accomodation details
+Bengaluru, Karnataka
+Temporary
+Bond applicable
+No

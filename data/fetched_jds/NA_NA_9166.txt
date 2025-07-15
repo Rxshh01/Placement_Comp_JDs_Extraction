@@ -1,0 +1,34 @@
+Job Details
+"About the company and industry
+At Honda, The Power of Dreams drives us to create intelligent products that enhance mobility and increase the joy in people’s lives. Simply put,  create cool stuff, and make customers super happy.
+We are in dramatical phase in the automotive industry that was never experienced before.
+It is an era in which cars go beyond transporting a person from A to B, they are deeply connected and provide new value to customers. Honda is also strengthening its focus on developing products and services that deliver new value to customers through connected technologies.
+About us
+We are a global team of highly motivated, engaged, and responsive professionals trying to create the future. This time, we are looking for new colleagues to help us to continue to explore new possibilities of mobility and create next-generation products and services that benefit society. Your energy is needed to spark further innovation.
+About you
+We are seeking an innovative scientist with a background in Artificial Intelligence. Honda is a huge global company with a huge amount of data flowing in from our customers. In this role, you will conduct technological research using our huge pool of vehicle and customer data to discover, develop and provide cutting edge digital services. We expect much more than a “scientist” as this needs to be eventually built and deployed as a real-world product/service. You will be a product owner, you will be a project manager, you will be a business owner and more. You will develop and release such as AI based products and services, and iteratively make improvements based on the customer and vehicle data inflow.
+We are looking for ambitious, motivated, energetic, and responsible person who has strong communication skills, is willing to learn proactively. All that said, Honda is also about the awesome philosophy created by our founder in the 50s. We expect you to synchronize with our philosophy and embody it."
+ABOUT THE DIVISION
+In the Software Defined Vehicle strategy/planning department, we are focusing to provide better user experience to our customers. We can offer you the excellent environment to research and development for the focus area. That makes us build prototypes quickly to proof the concept of our ideas. Through such activities, we continuously provide new values to the customers in the fastest speed.
+KEY RESPONSIBILITIES
+•Participate in existing projects and learn Honda's business processes, key stakeholders, philosophy to eventually become an independent project leader.
+•Actively collaborate with business, product, marketing, UX, and other internal stakeholders to create functional requirements and propose new projects that could be of value to the customers.
+•Drive R&D projects toward strategic product decisions through quick iterations of experimentation and PoC.
+•Basic project management routine including scheduling, cost management, stakeholder relationship management, service health and performance monitoring.
+•Manage all project planning and execution from the launch of the project to the delivery of the product to the customer.
+SPECIFIC GOALS
+[1st -2nd year]
+•Understand the objectives of the division and the company as an engineer. Figure out your strengths and weaknesses in a global company.
+•Decide which abilities to develop through the discussion about which project to participate.
+•Conduct technological research, build a Proof of Concept related with the selected project.
+Eg: Generative AI assistant iOS App, accessible through Apple CarPlay to solve route planning problems during a long trip based on past user data from the North America Market.
+[3rd -5th year]
+•Perform as a product owner and conduct extensive user and market research to lay foundation for a product based on Tech PoC.
+•Plan, Develop and Deploy user centric products/services (at least one product/service within the 4th year at Honda)
+•Perform as a project manager who can proactively solve issues and implement actions in an uncertain and fast changing environment.
+Place of posting
+Accomodation details
+We are open to hiring candidates to work out of one of our locations in Central Tokyo
+None
+Bond applicable
+No

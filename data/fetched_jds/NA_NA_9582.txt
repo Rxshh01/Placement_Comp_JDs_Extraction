@@ -1,0 +1,21 @@
+Job Details
+Project 1 - M.tech /PhD - Branch - CSE - Desired Skill sets - Technologies:	Java, Python, PyTorch/TensorFlow Numpy, Pandas, Scala
+Application Framework: 	Tensor Flow (Keras), Plotly
+Web Technologies: 	HTML5, JS, Jquery
+Scripting:	Python /JSP
+Databases :	PostgreSQL, MySQL, Hive, NoSQL, Mongo, DB Solar 
+Version Control:	SVN, GitLab, Git
+Web Scraper:	Scrapy, Apache Nutch
+Natural Language Processing: Toolkits	Stanford NLP, NLTK, CoreNLP, 
+BERT, indic-BERT, Spacy
+Deep Learning Tools:	Recurrent Neural Network, Convolutional Neural 
+Networks
+Machine Learning:	Classification, Clustering, Regression, Transformer
+Proposed Job profile - Research and Development in the area of Natural Language Processing, 
+Machine Translation
+Place of posting
+Accomodation details
+Pune or any other place as per requirement of the project
+None
+Bond applicable
+No

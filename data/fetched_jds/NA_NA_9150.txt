@@ -1,0 +1,105 @@
+Job Details
+Lead
+Engineer, Electronic Hardware
+About the job
+The
+candidate is expected to participate in building technologies and products for
+automotive & off-highway powertrains such that the built products and
+technologies are deployed in large numbers world-wide.
+S/he is expected build
+technology differentiators and/or well-engineered robust products and work with
+a cross functional team to execute the same.
+Major Responsibilities
+A Design Engineer in Hardware is responsible
+     for design, maintenance, troubleshooting and evolution of existing and new
+     Hardware product variants under SEDEMAC's various product lines. The
+     candidate is expected to lead a small team of Hardware engineers working
+     closely with cross functions such as Systems/Software Engineering, Product
+     Validation, Manufacturing, Product Costing etc.
+Single point of contact for cross functional
+     engineering team for product specific hardware development initiatives
+Defines and manages changes to hardware
+     product requirements
+Leads product feasibility assessment
+     activities
+Selection of major components considering
+     competing constraints such as costing, performance, reliability,
+     availability etc.
+Proactively assesses and treats high severity
+     failure modes during the design phase to achieve industry leading product
+     reliability
+Performs worst case design simulations /
+     calculations & prototype studies to ensure compliance to requirements
+Defines and communicates HW-SW, HW-Mechanical
+     interface requirements and constraints
+Assesses and communicates risks associated
+     with design trade-offs
+Defines PCB constraints
+Supports development of manufacturing SOPs,
+     EOL test rigs
+Defines hardware verification plan &amp;
+     performs V&V activities
+Leads design implementation activities working
+     closely with CAD engineers
+Represents HW team for RCA activities and
+     ensures implementation of CAPA during the complete HW product lifecycle
+Proactively identifies and implements
+     opportunities to minimize BOM cost and improve product robustness and
+     reliability
+Technically mentors junior team members
+Conducts internal product training &
+     sharing of LLBP and technical knowhow
+Technical Skills & Experience
+Requirements analysis
+Product architecture definition, Component
+     selection
+Design calculation & simulation, Worst
+     Case Analysis, Component derating
+Thermal analysis, Signal Integrity Analysis
+Functional/Piece Part FMEA, DRBFM
+PCB design, DFM, DFT, DFR aspects
+Usage of lab equipment like DSO/MSO, Function
+     generators, Power supplies etc.
+Failure root cause analysis - 8D, 3x5 Why
+     methodologies
+Experience in hands on development of
+     analog/embedded circuits, validation, industrialization, and series
+     maintenance of medium/high complexity products, preferably in Automotive /
+     Transportation / Aerospace or similar industries
+Hands on experience in reliability prediction,
+     compliance testing is preferable. Exposure to development of High Power
+     DC-DC Converters, Motor drives is an added advantage
+Managerial Skills & Experience
+Collaborative and effective teamwork
+Ownership and sense of urgency
+Good judgement and attention to details
+Good written and verbal communication
+Information on Selection Process
+The selection process will be multi-phased
+     tests plus interviews
+There will be a focus on evaluation of the
+     candidate’s understanding of Electronic Hardware Design, analytical &
+     logical skills
+Education
+PhD in Electrical/Electronics Engineering (CGPA
+     6.0+)
+About SEDEMAC
+At its
+core, SEDEMAC is the coming together of talented engineers with the zeal for
+development and large-scale deployment of innovative control technologies &
+products. Since our proposals tend to be fundamental control technology for
+large markets, our customers are large vehicle/motor/engine manufacturers with
+significant market presence. We pride ourselves on being an engineer run
+organization — responsible for creation of technologies and products that we
+offer. We have been able to institute a working environment that emphasizes
+respect for the individual, focus on what is being said as opposed to who is
+saying it, creativity, and honesty.
+Job Location –
+Baner,
+Pune
+Place of posting
+Accomodation details
+Pune
+Temporary
+Bond applicable
+No

@@ -1,0 +1,29 @@
+Job Details
+Summary
+We are seeking a highly motivated and talented Software Development Engineer to join our team in Chennai. As a Full Stack Software Development Engineer, you will be responsible for creating software using the right programming languages, platforms, and architectures. You will also be responsible for developing, testing, improving, and maintaining software by other engineers. You will work closely with other developers, designers, and product managers to create high-quality software that meets the needs of our users.
+Responsibilities
+. Create software using the right programming languages, platforms, and architectures
+. Develop, test, improve, and maintain software by other engineers
+. Work with other developers, designers, and product managers to create high-quality software that meets the needs of our users
+. Create automated test frameworks and libraries for unit, integration, and end-to-end testing
+. Design and implement test cases for front-end and back-end functionality
+. Develop and maintain test automation scripts using industry-standard tools and frameworks
+. Design and implement algorithms and flowcharts
+. Produce clean, efficient code based on specifications
+. Integrate software components and third-party programs
+. Verify and deploy programs and systems
+. Troubleshoot, debug, and upgrade existing software
+. Gather and evaluate user feedback
+Qualifications
+. Masterfs in technology in computer science engineering or a related field, like information technology
+. Strong understanding of software development principles and practices
+. In-depth knowledge of Microservices architectural style and ability to build APIs
+Experience with at least one programming language such as Java, Python, Golang or C++
+✓ Experience with software development methodologies such as Agile or Waterfall
+✓ Excellent communication and collaboration skills
+Place of posting
+Accomodation details
+Chennai
+Temporary
+Bond applicable
+No

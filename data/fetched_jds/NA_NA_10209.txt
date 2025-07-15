@@ -1,0 +1,43 @@
+Job Details
+Job Description: We are seeking a dynamic and experienced individual to join our team
+as a Senior Manager for Strategy & Innovation in the field for ICICI Lombard General
+Insurance. In this role, you will be at the forefront of driving technological advancements
+and innovation within the insurance industry. As a Senior Manager, you will play a
+pivotal role in shaping and executing our strategic initiatives, with a focus on leveraging
+cutting-edge technologies to develop insure-tech solutions
+Role & Responsibilities:
+1.Technology Innovation:
+ Lead the development and implementation of AI and ML solutions to enhance various
+aspects of insurance operations.
+ Drive the utilization of Python programming for the creation of innovative tools and
+applications.
+ Spearhead the integration of smart solutions into insurance processes like IoT, GIS,
+satellite imaging and location-based data etc. to generate insights for risk assessment and
+claims processing.
+ Evaluate and fine-tune existing processes and systems in alignment with industry
+benchmarks.
+2. Collaboration with External Ecosystem
+ Collaborate with external solution providers and partners to identify, evaluate, and
+integrate third-party technologies that align with our strategic goals.
+3. Strategic Planning:
+ Work closely with leadership to develop and execute the innovation strategy, ensuring
+alignment with business objectives.
+4. Cross-Functional Collaboration:
+ Collaborate with various departments, including IT, Data Science, and Operations, to
+ensure seamless integration of technological solutions
+Education / Additional Requirements
+Skills Required
+ Machine Learning models
+ Strong strategic thinking and analytical skills.
+ Excellent communication and interpersonal skills.
+ Ability to lead and motivate cross-functional teams.
+ Innovative mindset with a passion for staying updated on emerging technologies.
+ Experience in Full Stack Development, App Development will be valued.
+If you are excited about driving innovation in the insurance industry and have a proven
+track record in implementing transformative technologies, we encourage you to apply.
+Place of posting
+Accomodation details
+PAN India
+Temporary
+Bond applicable
+No

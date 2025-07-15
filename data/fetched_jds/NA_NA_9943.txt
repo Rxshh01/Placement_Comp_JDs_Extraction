@@ -1,0 +1,134 @@
+Job Details
+Job
+Description – Graduate Engineer Trainee – Analytics / AI / ML
+1.
+ABOUT L&T FINANCE:
+Headquartered in Mumbai,
+  L&T Finance Holdings Ltd. is one of the leading Non-Banking Financial
+  Companies in India, with a strong presence across the lending business
+  catering to the diverse financing needs of served and under-served customers.
+L&T Finance offers
+  Personal loans, Two-Wheeler loans, Home loans, Rural Business loans, Farm
+  loans, and SME loans.
+2.
+ABOUT THE JOB:
+Designation
+Graduate
+  Engineer Trainee
+Role
+Graduate
+  Engineer Trainee
+Business
+  Unit
+Analytics
+  / AI / ML
+Location
+Mumbai
+  / Bangalore
+3.
+JOB
+PURPOSE:
+The job role exists with the purpose of strengthening the
+  established Analytics and Data Science Vertical within L&T Finance
+  through application of analytics acumen to unsolved business goals. This role
+  is a unique opportunity for aspiring data analysts, data engineers, data
+  scientists and analytics leaders to be part of a FinTech@scale ecosystem.
+  Role holders will be working with multiple functions including the Business,
+  Analytics and AI, to gain expertise on the relevant business domain and apply
+  in real time their Analytics/ BI/ Data Engineering/ Data Science/ ML/AI
+  skills.
+4.
+PRINCIPAL ACCOUNTABILITIES
+The
+  principal accountabilities of the role holder are as follows –
+Model
+  Development:
+Develop and implement statistical and
+  machine learning models for predictive analytics. Build models to assess and
+  manage financial risks. The organization is working on multiple PoCs to
+  evaluate the AI evolution (like LLMs, Langchain etc) & harness the
+  benefits across all business lines while not compromising the enterprise risk
+  framework
+Data
+  Analysis and Interpretation:
+L&T Finance is on of
+  the top tier NBFCs in the country and sits on an immense data of 2.2 Cr
+  customers. The opportunity provides to work on extremely large data sets and
+  generate insights from it.
+Algorithm
+  Optimization:
+Optimize existing algorithms for performance
+  and scalability, stay updated on industry best practices and implement
+  improvements accordingly
+Usage of
+  Alternate Data:
+Use the best of industry vendor
+  partners to understand the new customers and existing customers in deep and
+  thus develop next level of Loan Underwriting models
+Data
+  Visualization:
+Create clear and insightful
+  visualizations to communicate findings to non-technical stakeholders, utilize
+  tools like Tableau or Power BI to present data-driven solutions
+Collaboration:
+Collaborate with cross-functional teams, including finance, risk management,
+  and IT. Work closely with business analysts and domain experts to understand
+  requirements
+Documentation:
+Document methodologies, models, and analysis processes. Ensure that
+  documentation is clear and accessible for other team members
+Market
+  practices:
+Stay abreast of advancements in data science
+  and financial technologies. Attend relevant
+workshops,
+  conferences, and training sessions and share the updates with the larger team
+5.
+SKILLS AND KNOWLEDGE
+Educational Qualifications
+§
+Candidates
+  must have a
+B. Tech
+degree in any discipline.
+Functional
+Skills
+§
+Proficiency
+  in programming languages such as Python or R
+§
+Knowledge
+  of machine learning libraries (e.g., scikit-learn, TensorFlow, PyTorch)
+§
+Strong SQL
+  skills for data extraction and manipulation
+§
+Understanding
+  of statistical concepts and methods for hypothesis testing and probability
+§
+Familiarity
+  with financial concepts, instruments, and markets
+§
+Familiarity
+  with data visualization tools (e.g., Tableau, Power BI,etc)
+§
+Ability to
+  translate financial questions into data-driven solutions
+§
+Excellent
+  communication skills, both verbal and written
+§
+Strong
+  analytical and problem-solving abilities
+§
+Ability to
+  work collaboratively in a team-oriented environment
+§
+Ability to
+  interpret results effectively and clearly communicate complex concepts and recommendations
+Place of posting
+Accomodation details
+Mumbai / Bangalore
+None
+Bond applicable
+No

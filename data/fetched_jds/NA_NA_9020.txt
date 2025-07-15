@@ -1,0 +1,81 @@
+Job Details
+【
+Technology
+Field
+】
+Machine Learning
+【
+Position Summary
+】
+We aim to develop groundbreaking tools and services
+through the application of AI to data science. On our team, you will gain
+hands-on experience with exploratory and challenging projects, ranging from
+research and development to the development of new services using research
+results.
+As such, you will be responsible for the research and development of
+reinforcement learning algorithms in a project that focuses on the application
+of reinforcement learning to the learning of business activities (marketing,
+promotion, development, customer service, etc.), as well as the implementation
+of developed algorithms for those systems.
+【
+Responsibilities
+】
+■
+Research, development, and evaluation of
+state-of-the-art algorithms in reinforcement learning.
+■
+Application of software engineering skills.
+■
+Presentation of performance report.
+■
+Communication with collaborators, including non-ML
+experts.
+■
+Development of libraries for the practical use of
+research results.
+■
+Writing papers about research results to be submitted
+to scientific journals and/or top international conferences.
+【
+Required qualifications
+】
+■
+Ph.D. or M.S. in Computer Science or related field.
+■
+Expertise and excellent research track record in
+reinforcement learning.
+■
+Implementation skills to advance research and
+development in Python.
+■
+Strong communication, interpersonal, and presentation
+skills.
+■
+Ability to work independently and in a team
+environment.
+【
+Preferred qualifications
+】
+■
+Broad knowledge and research experience in various areas
+of machine learning and computer science.
+■
+Skills in developing commercial software (requirement definition,
+software design, implementation, testing, project management).
+■
+Experience leading teams.
+【
+Product, Service
+】
+Our goal is to propose new services and/or new functions
+for existing products and services.
+【
+Development Environment
+】
+OS: Windows and Linux
+Place of posting
+Accomodation details
+Tokyo, Japan
+Temporary
+Bond applicable
+No

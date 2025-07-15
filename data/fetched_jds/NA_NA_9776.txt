@@ -1,0 +1,34 @@
+Job Details
+Job Advertisement: Software/Firmware Developer for UAV/UAS Systems
+Join Our Team: Building the Future of UAV/UAS Technologies
+For the third consecutive year, we are excited to visit your campus, continuing our tradition of recruiting talented minds who are eager to innovate in the field of Unmanned Aerial Vehicle (UAV) and Unmanned Aircraft Systems (UAS). Our organization, founded by IIT Bombay alumni and nurtured within IITB labs, is at the forefront of developing cutting-edge technologies that are transforming the UAV/UAS landscape.
+About Us:
+At IdeaForge, we specialize in creating world-class software and firmware solutions for UAV/UAS systems and their ecosystems. Our work is driven by innovation and excellence, and we take pride in pushing the boundaries of technology.
+Job Description:
+We are looking for passionate developers to join our team. The role involves developing software and firmware for UAV/UAS systems, with opportunities to work on a range of exciting technologies, including:
+Auto-pilot Systems
+Ground Control Stations
+Artificial Intelligence/Machine Learning (AI/ML)
+Computer Vision (3D Navigation, Scene Interpretation, Video Enhancement)
+Web Technologies
+Cloud Technologies
+UAV Simulators
+Mobile Applications (iOS/Android)
+Windows Applications
+Front-End Development
+Technology Stack:
+Programming Languages: C/C++, C#, JavaScript, Python, PHP
+Frameworks & Tools:.NET Core, React
+Databases: PostgreSQL, NoSQL
+Experience in Microservice Architecture through projects or internships is an added advantage.
+Why Join Us?
+- Work on innovative technologies that define the future of UAV/UAS.
+- Collaborate with industry experts and pioneers in the field.
+- Contribute to projects with real-world impact.
+Join us in shaping the future of UAV/UAS technology!
+Place of posting
+Accomodation details
+Navi Mumbai
+Temporary
+Bond applicable
+No

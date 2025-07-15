@@ -1,0 +1,56 @@
+Job Details
+What you'll do
+You will help clients develop risk models for credit risk, market and trading
+risk, climate risk, financial crime and compliance, and wide applications such
+as cyber risk. You will work to provide independent perspectives on models,
+assess their frameworks for model development and model risk management across
+a variety of risk functions.
+You will support and leverage an international network of experts in order to
+codify existing knowledge and even expand it. Considering our global client base,
+you will work across geographies and collaborate with and serve stakeholders
+from various regions and industries. You will also communicate complex
+analytics concepts in a clear and concise manner to key client stakeholders.
+Working with the Risk Dynamics team at McKinsey allows you the opportunity to
+research, problem solve and contribute to the knowledge base. You will get a
+chance to work with exceptional risk analytics professionals who bring deep
+industry experience. As you grow to more senior levels, your work will also
+begin to include new analytical approaches and techniques.
+Who you'll work with
+You’ll be based in our Gurugram office and will work with our Risk Dynamics
+team, part of our Global Risk practice. Risk Dynamics helps clients to create a
+sustainable modelling and analytics platform to support their business in a
+data-driven world. From core regulatory capital and risk models to business
+decision analytics and model risk management, we create value by improving
+performance across model lifecycle. Our experience team incorporates risk
+specialists, quantitative experts, and business professionals, empowering us to
+offer our clients a unique variety of skills in risk management, business and
+regulatory compliance. While we tailor every service to suit each client’s
+need, our identity is unwavering, with bedrock values including excellence, teamwork,
+integrity, and innovation
+Qualifications
+Degree in a quantitative field such as economics, mathematics,
+computational finance, statistics, engineering or physics; master's degree is
+plus 1+ years of related experience industry qualifications including CFA, FRM,
+PRM or similar is a plus Experience in advanced quantitative modeling
+techniques within a financial services related industry (e.g., banking and
+securities, asset management) Experience in predictive modeling techniques,
+benchmarking and/or model validation related to credit risk (PD, LGD, EAD)
+single and multifactor models and other modeling techniques (Merton,
+Longstaff-Schwartz, Black-Sholes, etc.) ideally within a regulatory context
+(CCAR) Understanding of financial industry regulations and practices related to
+model development, capital requirements and model validation (SR11- 07)
+Experience programming in a modern scientific language (e.g., Python, Matlab,
+R) and some experience with Java, C#, C++, or C; knowledge of SQL, SAS, and VBA
+is a plus Experience in one of the following machine learning/AI areas: natural
+language processing, deep learning, anomaly detection, graph-based techniques
+Strong problem-solving and requirement gathering skills Ability to establish
+connections between sophisticated modeling techniques and strategic
+decision-making processes Ability to facilitate discussions and conduct
+training Thoughtful and comfortable communicator in English (verbally and in
+writing) Willingness to trave
+Place of posting
+Accomodation details
+Gurugram
+Temporary
+Bond applicable
+No

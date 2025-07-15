@@ -1,0 +1,8 @@
+Job Details
+Full stack development of AI Assistant for Business Communications. We use Serverless technologies. (Next.js, React.js, Typescript, Tailwind CSS, trpc, Prisma)
+Place of posting
+Accomodation details
+Fully remote, worldwide
+None
+Bond applicable
+No

@@ -1,0 +1,86 @@
+Job Details
+Job
+Description:
+Operations
+Research
+Scientist
+I :
+OR Scientist I Should have a scientific mindset and
+interest in Operation Research algorithms like routing optimization,
+mathematical modeling, meta-heuristics, heuristics, forecasting, simulation
+model, inventory optimization. (S)he should have supply chain management
+background along with advanced analytics experience. (S)He should have strong
+interest and ability to solve mathematical modelling including LP tools like
+Cplex, Gurobi, AIIMS, GAMS, AMPL. Programming experience in Python/Java/C#/
+C++/R of the optimization algorithm is preferred including background in data
+structures, graph theory, object oriented programming. Exposure to Supply Chain
+Guru, Anylogic is preferred
+Requirement:
+ORMAE is looking for Operations Research Scientist with good
+analytics background to
+deliver
+solutions
+for
+complex
+problems
+of
+our
+clients.
+You
+will
+have
+opportunity
+for
+international
+travel
+in
+this client
+facing
+role
+to
+boost your career.
+Education:
+B.E./B.Tech./M.S./M.E./M.Tech/Dual/Ph.D.
+in
+Operations
+Research,
+Computer
+Science
+(with
+operations
+research
+experience),
+Industrial
+Engineering,
+Decision Science, Mechanical Engineering,
+Statistics,
+Mathematics,
+Business
+Analytics,
+Information Technology
+or
+any
+other Quantitative Specialization.
+Agreement:
+:
+One has to stay committed
+and work for a minimum
+of 3 years from the Date of Joining with the
+company
+Penalty Clause:
+If any new joiner leaves before completing 3 years from his/her date
+of joining with us, they will be required to pay Rs 6 Lakhs to ORMAE. This
+policy is in place because we invest significantly in their training and
+provide them the opportunity to work on an international project with a Fortune
+500 customer, which will enhance their skills and position them as top OR
+Scientists in the industry
+Learning Benefits:
+A lifetime
+opportunity to sum up in 3 years of your learning and knowledge with Operations Research, Machine Learning and Analytics.
+Place of posting
+Accomodation details
+Bangalore
+Temporary
+Bond applicable
+Yes
+36 months

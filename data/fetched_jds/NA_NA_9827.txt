@@ -1,0 +1,24 @@
+Job Details
+We are seeking dynamic and motivated Embedded system design engineer to join our 
+Software and hardware development team. In this role, you will collaborate with our foundation team to identify and pursue new areas of research, design the hardware solutions that 
+finally make it to the market as the products of company. This role offers an excellent 
+opportunity to gain hands-on experience in a fast-paced, high-growth startup environment.
+Key responsibilities are -
+1.
+Designing the hardware (circuits along with enclosures with any other associated component) that goes onsite a solar power
+plants like – Tracker, Inverter and MFM modules
+2.  Optimizing the components for maximum efficiency and 
+form factor & be able to participate in software modelling 
+of the embedded components
+3. Sensor Integration and Data Acquisition, Edge Computing
+4. Develop and optimize firmware for microcontrollers and 
+embedded processors to ensure reliable data acquisition, 
+processing, and communication with AI algorithms
+5. Conduct rigorous testing, including hardware in the loop 
+simulations, to verify systems reliability and compliance
+Place of posting
+Accomodation details
+Remote
+None
+Bond applicable
+No

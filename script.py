@@ -22,17 +22,36 @@ else:
     print("No codes list found.")
 
 # --- Configuration ---
+# === Configuration ===
+def get_credentials(file_path):
+    credentials = {}
+    with open(file_path, 'r') as file:
+        for line in file:
+            if ':' not in line:
+                continue
+            key, value = line.strip().split(':', 1)
+            key = key.strip().upper()
+            value = value.strip().strip('"').strip("'")  # remove quotes if any
+            if key in ['USERNAME', 'PASSWORD']:
+                credentials[key] = value
+                print(f"Found {key} -> {value}")
+    return credentials
+
+creds = get_credentials('user.txt')
+USERNAME = creds.get('USERNAME', 'NOT_FOUND')
+PASSWORD = creds.get('PASSWORD', 'NOT_FOUND')
+
+
 # IMPORTANT: Corrected Login URL based on your previous error message
 LOGIN_URL = "https://campus.placements.iitb.ac.in/auth/student/login" 
-USERNAME = "" # Replace with your username
-PASSWORD = "" # Replace with your password
+
 BASE_JOB_URL = "https://campus.placements.iitb.ac.in/applicant/job/{}" # Base URL for individual JDs
 
 # --- Your List of Job Codes ---
 
 # Output settings
 OUTPUT_DIR = "fetched_jds" # Directory to save individual JD text files
-OUTPUT_CSV_FILE = "raw_jds_summary.csv" # CSV file to summarize JDs and their raw text
+OUTPUT_CSV_FILE = "data/raw_jds_summary.csv" # CSV file to summarize JDs and their raw text
 
 # --- Main Script ---
 def fetch_raw_jds_by_codes():

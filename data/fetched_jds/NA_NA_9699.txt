@@ -1,0 +1,12 @@
+Job Details
+1. RF/Analog Circuit design targeted towards Design-technology co-optimization (DTCO) for specialty CMOS process.
+2. Involved in design of RF front end module circuit blocks using Spectre/ADS. Extensive use of electromagnetic simulators such as EMX, HFSS etc. for RF passive blocks  is needed.
+3. Involve in Design of experiments for Stand alone front end RF devices in specialty CMOS processes. Involve in design of experiments for novel Back end of line devices such as transformers, Inductors and capacitors using standard CMOS process metal stack.
+4. RF characterization using Spectrum analyzer, network analyzers, Pulsed and passive passive and active loadpull systems.
+5. Translate System level and DTCO block level specs into technology figure of merits for benchmarking various technology nodes.
+Place of posting
+Accomodation details
+Hsinchu, Taiwan
+Temporary
+Bond applicable
+No

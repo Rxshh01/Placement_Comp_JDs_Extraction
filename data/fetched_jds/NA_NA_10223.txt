@@ -1,0 +1,41 @@
+Job Details
+Job Responsibilities
+1. Own product development - This includes setting up and managing weekly
+sprints to deliver on product goals
+2. Work closely with product management to define project scope, priorities
+and timelines
+3. Highly technical, hands-on hacker and an effective people manager.
+4. Roll up the sleeves and code alongside the team.
+5. Primary interface for the engineering team to the business users and clients.
+6. Expand existing, and implement industry best software engineering
+practices.
+7. You will hire, manage and mentor - Retain & lead engineering talent & geeks
+to expand a cohesive and powerful team
+8. Strive for excellence in customer experience, technology, methodology, and
+execution
+9. Enjoy providing frequent and constructive feedback.
+10. Define and influence product roadmap and deployment strategy
+11. Architect and implement new features that increase engagement
+12. Ensure the technical feasibility of UI/UX designs.
+13. Collaborate with other team members and stakeholders.
+14. Review and optimize app usage by monitoring key metrics and rectifying the
+issues proactively.
+15. An ability to perform well in a fast-paced environment and bring in optimal
+flow for rapidly changing design/ technology
+Our technology stack is sane and the role requires strong demonstrated
+experience and understanding of the below technologies:
+● Python, Ruby, Javascript
+● Django, Yii, Rails
+● HTML5, CSS3
+● Backbone.js, Angular.js, Node.js, JQuery, Bootstrap
+● Mobility: Android, IOS
+● Databases: MongoDB, Google CloudSQL, Graph/NoSQL, Bigtable, MySQL,
+MSSQL
+● AWS, Google App Engine, Heroku (if absolutely required)
+● Basecamp, Fogbugz, Git, JIRA
+Place of posting
+Accomodation details
+Mumbai, Pune, Ahmedabad, Rajkot, Gurugram, Noida, Hyderabad, Bangalore, Rajkot
+None
+Bond applicable
+No

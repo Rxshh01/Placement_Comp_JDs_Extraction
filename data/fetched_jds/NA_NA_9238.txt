@@ -1,0 +1,34 @@
+Job Details
+Researcher and Research Engineer (Computing System)
+- Computing System Technology. Especially, optimization AI/ML related software for high performance computing systems or embedded computing systems, GPUs, many-core processors, ASICs
+These technologies will be applied to media and image processing, big data analytics, machine learning, deep learning, Generative AI/LLM, computational science, etc.
+And those will be prototyped as frameworkes, libraries, compiler assist tools, scheduling middleware, etc.
+Responsibilities
+• Conduct original research, generate patents and publish papers in top-tier conferences and journals.
+• Develop prototypes and proof-of-concepts for new products and services based on our research results.
+• Collaborate with other researchers, engineers, and business units within NEC and external partners.
+• Stay updated with the latest trends and developments in your field of expertise.
+• Communicate your research findings and proposals to various stakeholders.
+You will start as research staff, working in an international team with a majority of Japanese researchers.
+Future promotion towards assistant manager position and subsequent specialization towards technical expert position or towards manager position is possible depending on achievements, experience and skills, based on equal opportunity.
+Qualifications
+* PhD or Master’s degree in computer science, engineering, mathematics, or related
+* Programming experiences (over 3years) and skills for prototyping and performance evaluation.
+* Proficient in Python.
+* Previous knowledge in ML, or RL, or MARL.
+* Familiar with data analysis tools and frameworks such as TensorFlow, and PyTorch.
+* Excellent written and oral communication skills in English or Japanese.
+* Creative, self-motivated, and team-oriented.
+Encouraged:
+* Proficiency in C, C++
+* Knowledge of computer architecture, computer systems.
+* Proficiency in bash scripting and basic knowledge of programming on Linux systems.
+English: business level or above
+Japanese: not required
+*Before joining our company, Japanese language training course will be held for some months. NEC shall bear its cost.
+Place of posting
+Accomodation details
+JAPAN
+Temporary
+Bond applicable
+No

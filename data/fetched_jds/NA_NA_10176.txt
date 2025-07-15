@@ -1,0 +1,29 @@
+Job Details
+Role Overview
+As an AI Engineer, you will drive the design, development, and deployment of advanced AI solutions
+leveraging cutting-edge technologies, including Large Language Models (LLMs), Retrieval-Augmented
+Generation (RAG), and fine-tuning techniques. Your work will be instrumental in delivering scalable,
+state-of-the-art AI-driven products and services.
+Key Responsibilities:
+1. Develop and Optimize AI Models:
+• Implement and fine-tune LLMs to meet specific business objectives.
+• Design and integrate RAG pipelines to enhance knowledge retrieval capabilities.
+2. Model Customization:
+• Apply fine-tuning techniques to adapt pre-trained models to domain-specific tasks.
+• Utilize advanced techniques such as prompt engineering and parameter-efficient tuning.
+3. Research and Innovation:
+• Stay updated on emerging AI trends and technologies, ensuring best practices are incorporated.
+• Explore and evaluate new methodologies for improving performance and efficiency.
+4.Collaboration and Leadership:
+• Work closely with cross-functional teams, including data scientists, engineers, and product
+managers.
+• Mentor and lead junior team members to ensure high-quality deliverables.
+5.Deployment and Monitoring:
+• Build and deploy scalable AI systems with a focus on reliability and performance.
+• Monitor and refine deployed systems based on feedback and evolving requirements.
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+No

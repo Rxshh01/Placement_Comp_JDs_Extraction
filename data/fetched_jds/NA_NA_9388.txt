@@ -1,0 +1,57 @@
+Job Details
+RESPONSIBILITIES
+We build products that fly. We are looking for an engineer who understands how to design
+hardware that flys.
+●Work with CAD softwares
+●Perform engineering trade studies
+●Work on rapid conceptual design projects
+●Create fabrication and installation drawings
+●Understand GD&T, and tolerance/stack-up analysis.
+●Lead all 3D modelling initiatives at Agnikul starting from design for manufacturing to
+qualifying manufacturing processes
+●Optimise modelling for manufacturing with less cost, least lead time and lowest mass
+of material usage
+●Plan modelling for CNC & other machining techniques by studying & creating work
+orders, engineering plans, material specifications, drawings, locations of surfaces, and
+machining parameters;
+●Innovate on resolving real world design-for-manufacturing issues, dealing with
+solutions for nonconforming parts
+●Implement a maintainable and lasting modelling version controls system of reasonable
+and powerful requirements
+●Conceive the concepts and designs of tooling for new and existing products to
+facilitate rapid production
+●Formulate standard repair processes and procedures, including examination and
+review of requirement documents
+I●mplement standard practises, tips for troubleshooting and debugging 3D modelling
+errata.
+●Manage large CAD assemblies and associated drawings
+BASIC QUALIFICATIONS
+● Bachelor’s degree in an engineering discipline
+●Expertise in design for manufacturability and design for assembly, successfully taking
+products through development, testing, and production
+● Enowledge with welded assemblies and alloys used in the aerospace sector such as
+aluminium, titanium, stainless steels, Inconel, niobium
+● Must be able to work extended hours or weekends as needed
+PREFERRED SKILLS AND EXPERIENCE
+●A thorough understanding and real world knowledge of design, assembly and
+manufacturing processes and part integration
+●Experience and skill to read, interpret, and follow mechanical drawings
+●Able to adapt to constant changing work assignments and fast paced work
+environment
+●Extraordinary attention to detail with outstanding work efficiency and accuracy
+●Excellent oral and written communication skills
+●Ability to deliver against an aggressive schedule
+●Knowledge with ASME Y14.100, Y14.5, Y14.41 drafting standards
+●Solid understanding of common manufacturing materials, GD&T, and tolerance/stack-up analysis.
+What you could take away?
+●Your work will directly impact the company's (and the rocket's) trajectory
+●You will learn rocket science from some of the most senior and respected minds
+in ISRO
+●You will work on shaping space policy in India
+●You will dirty your hands in a global supply/chain optimization problem
+Place of posting
+Accomodation details
+CHENNAI
+None
+Bond applicable
+No

@@ -1,0 +1,125 @@
+Job Details
+Power Electronics
+Job
+Description
+If you desire to be part of something special, to be part
+of a winning team, to be part of a fun team - winning is fun.
+In Eaton, making our work exciting, engaging, meaningful;
+ensuring safety, health, wellness; and being a model of inclusion &
+diversity are already embedded in who we are - it’s in our values, part of our
+vision, and our clearly defined aspirational goals.
+Most recently, we have established the Eaton India
+Innovation Center (EIIC) in Pune, which is an integral part of Eaton’s global
+engineering and technology footprint. Eaton’s multi-disciplinary engineering
+talent with experience in cutting-edge technologies and varied domains delivers
+innovative solutions that accelerate our organic growth through technological
+innovations. EIIC is focused on augmenting Eaton’s vision of “improving the
+quality of life and environment through the use of power management technologies
+and services.”
+Making what matters work at Eaton takes the
+passion of every employee around the world. We create an environment where
+creativity, invention and discovery become reality, each and every day. It’s
+where bold, bright professionals like you can reach your full potential—and
+where you can help us reach ours.
+Eaton’s
+Research Labs
+(ERL) is a global research team and has an
+exciting and rewarding position for a
+Power
+System Engineer
+seeking a challenging career in
+Power System and Energy industry
+. This is an internship position and
+enables the person hired to assist in developing new technologies, improve
+existing products, present ideas, and projects to Eaton business leaders and
+ERL leadership. The selected candidate will be working with engineering teams
+located at EIIC Pune and collaborate with different teams and businesses at
+various locations.
+We are looking for a
+Power
+Electronics Engineer
+to enhance our team in the research area of
+inverters, converters, motor drives,
+electromechanical actuation systems
+focusing on power grid components and
+systems with high penetration of Distributed Energy Resources.
+In this role you will:
+Assist the larger team in advanced technology
+     development projects
+Work on development of advanced technology for drives, power
+     distribution and controls for energy management solutions and build prototypes.
+·
+Participate
+in brainstorming and design bursts contributing to the technology strategy.
+·
+Present
+ideas and updates on projects, contributing to the development of compelling
+value propositions and technology maturity leading to field deployments and
+customer demonstrations.
+Responsibilities
+The
+Intern is expected to support technical activities, working on multiple work
+packages for projects within the Energy Systems team.
+Perform research on power
+     components, design novel topology using Si, SiC, GaN power devices for
+     driver circuits, inverters/ converter applications, prognostics and diagnostics/
+     health monitoring of devices.
+Bring together state-of-the-art
+     reliability engineering methods, physics-of-failure understanding, data
+     acquisition and analytics, mathematical modeling, and tools for asset
+     management, to improve the reliability of mission-critical power grid
+     equipment
+Drive multidisciplinary
+     research projects in close collaboration with stake holders including
+     business units, COE’s, as well as external universities and industrial
+     partners.
+Record research findings and
+     write technical reports
+Preferred
+Qualifications/
+Background
+Pursuing master’s degree in electrical
+/Electronics/Systems/Controls Engineering / or equivalent
+     technical field from accredited institutions.
+·
+Basic understanding of
+power
+electronics
+focused on
+hardware development, simulations
+,
+topology optimization, circuit design,
+asset health management
+is desired
+.
+Basic understanding of grid
+     tied inverters, battery energy storage systems, UPS, motor drives is
+     required.
+Basic knowledge
+     of state-of-the-art diagnostics and lifetime prognostics methods, and
+     experience with data acquisition and electronics is desirable.
+Prior experience in developing preventive/predictive
+     health monitoring solutions for power electronic devices (
+converters, inverters, UPS, VFD
+) is desirable.
+Knowledge
+in developing
+mathematical
+     models, simulations,
+performing engineering analytics, system modeling and hardware-in-loop
+studies
+will be added advantage.
+·
+Hands-on
+experience with engineering tools like Matlab/Simulink,
+PLECS
+, PSPICE, PSCAD and experience in building
+experimental setups and conducting disciplined experiments would be desired.
+·
+Software development capability: python, C, C++
+Place of posting
+Accomodation details
+Pune
+Temporary
+Bond applicable
+No

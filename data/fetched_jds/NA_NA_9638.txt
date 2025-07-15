@@ -1,0 +1,255 @@
+Job Details
+CSE:
+Job Summary:
+C-DOT is seeking a highly skilled and motivated Engineer
+in Grade Scientist-B, specializing in Computer Science and Engineering. The
+candidate is expected to be proficient in core computer engineering subjects.
+The ideal candidate will be well-versed in computer networks and system
+programming, operating system concepts, and have a working knowledge of data
+structures and algorithms. Possessing excellent software development skills and
+a proactive approach to problem-solving, this role requires a sound
+understanding of computer design and architecture, with a focus on advancing our
+cutting-edge telecommunication technologies.
+Key Responsibilities:
+§
+Work
+as a developer, tester, or enabler in one of the many areas in C-DOT, namely 4G,
+5G, 6G, Security, Computer and Network Infrastructure, and other areas of
+National Importance, using the qualifications mentioned below.
+§
+Design,
+develop, test, and deploy software applications and solutions in the
+telecommunications domain.
+§
+Collaborate
+with cross-functional teams to deliver high-quality products within set
+timelines.
+§
+Utilize
+a strong foundation in computer science and engineering to solve complex
+problems related to telecommunications technologies.
+§
+Apply
+knowledge of data structures, optimal algorithms, and design patterns to
+enhance software performance and maintainability.
+§
+Continuously
+learn and adapt to new technologies and methodologies relevant to C-DOT's focus
+areas.
+Qualifications:
+Bachelor's
+or Master's degree in Computer Science Engineering.
+§
+Strong
+foundation in computer networks (with a focus on Telecom concepts), system
+programming, and software development.
+§
+Solid
+understanding of computer design and architecture principles.
+§
+Basic
+knowledge of RISC and CISC architectures, with familiarity with Intel, MIPS,
+and PowerPC processors.
+§
+In-depth
+knowledge of operating system concepts, including memory management and
+multithreading.
+§
+Proficiency
+in handling synchronization issues, semaphores, and deadlock situations.
+§
+Competent
+in database concepts, normalization techniques, and ER diagram usage.
+§
+Expertise
+in programming languages: C, C++, Python, and MEAN stack or any full-stack
+development framework.
+§
+Knowledge
+of data structures, optimal algorithms, and design patterns.
+§
+Experience
+with Objective-C and Swift is a plus.
+§
+Exposure
+to J2SE, J2EE, web technologies, Linux environments, cybersecurity, and ethical
+hacking is desirable.
+§
+Familiarity
+with Data Science, NLP, Machine Learning, and Deep Learning frameworks is
+advantageous.
+Skills and Competencies:
+§
+Excellent
+problem-solving and analytical skills.
+§
+Strong
+software development capabilities with attention to detail.
+§
+Ability
+to work independently and as part of a collaborative team.
+§
+Effective
+communication skills, both written and verbal.
+§
+Eagerness
+to learn and adapt to new technologies and methodologies.
+§
+Proactive
+and innovative mindset with a focus on continuous improvement.
+§
+Strong
+documentation skills.
+ECE:
+Job
+Summary:
+The Centre for Development of Telematics (C-DOT) is
+seeking a highly skilled and motivated Scientist B. The ideal candidate will
+play a crucial role in designing, developing, and validating advanced
+telecommunication products and solutions that meet our customers' needs.
+Key
+Responsibilities:
+·
+Product
+Requirement Analysis:
+o
+Understand product requirements
+thoroughly.
+o
+Architect suitable solutions after
+analyzing various alternatives and technologies.
+·
+Board
+Design and Testing:
+o
+Design and test electronic boards,
+including PCB design using CAD tools.
+o
+Work on microprocessor-based boards with
+diverse electrical and optical network interfaces.
+o
+Incorporate components such as RF/DSP,
+fiber-optic systems, and network processors.
+·
+FPGA/PLD
+Development:
+o
+Design, code, simulate, and test FPGA/PLD
+components to meet system specifications.
+·
+Component
+Testing:
+o
+Test and validate design-related procured
+components like optical modules, amplifiers, and couplers.
+o
+Ensure all components meet quality and
+performance standards.
+·
+Product
+Validation:
+o
+Validate products and solutions to ensure
+optimal performance in customer environments.
+o
+Collaborate with cross-functional teams to
+resolve any issues during validation.
+·
+Documentation:
+o
+Document all design aspects to facilitate
+mass production and smooth technology transfer.
+o
+Prepare technical manuals, user guides,
+and other relevant documentation.
+Qualifications:
+·
+Bachelor's
+or Master's degree in Electronics and Communication Engineering or a related
+field.
+·
+Proven
+experience in PCB design and familiarity with CAD tools (e.g., Altium Designer,
+OrCAD).
+·
+Strong
+knowledge of microprocessor-based board design and testing methodologies.
+·
+Experience
+with FPGA/PLD design, coding (VHDL/Verilog), simulation, and testing.
+·
+Familiarity
+with RF/DSP systems, fiber-optic components, and network processors.
+·
+Experience
+in testing optical modules and related electronic components.
+·
+Excellent
+analytical, problem-solving, and decision-making skills.
+·
+Strong
+communication skills and ability to work collaboratively in a team environment.
+Preferred
+Skills:
+·
+Knowledge
+of telecommunications standards and network protocols.
+·
+Experience
+with mass production processes and technology transfer.
+·
+Proficiency
+in simulation tools and software development environments.
+·
+Understanding
+of customer requirements and ability to ensure product compliance.
+Mechanical:
+Key Accountabilities:
+1. Design of Enclosures:
+o Develop sheet metal and plastic enclosures tailored for telecom products.
+2. Thermal Management:
+o Design heat sinks and select appropriate fans to ensure efficient cooling of
+electronic components.
+3. Fundamental Engineering Application:
+o Apply strong foundational knowledge in mechanical engineering, fluid
+dynamics, and thermal engineering to solve complex problems.
+4. Manufacturing Technologies:
+o Demonstrate sound understanding of mechanical production and
+manufacturing technologies suitable for rapid prototyping and mass
+production at an industrial scale.
+5. Interdisciplinary Aptitude:
+o Exhibit a keen interest and aptitude for electro-mechanical systems and
+interdisciplinary collaboration.
+6. 3D/2D Modeling Skills:
+o Acquire and utilize skill sets in M-CAD tools such as AUTODESK,
+SOLIDWORKS, and CATIA for modeling and design tasks.
+7. Thermal Simulation Expertise:
+o Develop proficiency in M-CAE tools like FLOTHERM, ICEPAK, and
+ANSYS for thermal simulations.
+8. Vendor Development Support:
+o Assist team leaders in mechanical vendor development activities to ensure
+quality and timely procurement.
+9. Documentation and Inspection:
+o Support team leaders in maintaining documentation and conducting prototype
+inspections.
+10. ERP and CMMI Practices:
+o Aid in data entry for group-specific ERP tools and implement group-specific
+Capability Maturity Model Integration (CMMI) practices.
+➢ Role Requirements:
+1. Educational Qualifications:
+o Bachelor's or Master's degree in Mechanical Engineering from a recognized
+institution.
+2. Behavioral Competencies:
+o Analytical Thinking: Ability to analyze complex engineering problems and
+develop effective solutions.
+o Learning Ability: Eagerness to continuously learn and adapt to new
+technologies and methodologies.
+o Teamwork: Strong team player with excellent collaboration skills.
+o Continuous Improvement: Commitment to personal and organizational
+growth through ongoing learning and improvement initiatives.
+Place of posting
+Accomodation details
+Delhi/ Bangalore
+Temporary
+Bond applicable
+No

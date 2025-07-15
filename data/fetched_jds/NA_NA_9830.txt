@@ -1,0 +1,39 @@
+Job Details
+At Smarttrak AI, we are pioneering the integration of advanced software solutions, deep 
+learning algorithms, and interactive game development to deliver state-of-the-art AI-driven 
+applications for the energy and manufacturing industries. We are seeking a versatile and 
+innovative Software, Deep Learning, and Game Development Engineer to join our dynamic 
+team. In this multifaceted role, you will develop sophisticated software systems, implement 
+cutting-edge deep learning models, and create immersive simulations and visualizations that 
+enhance our energy forecasting, fault prediction, and digital twin technologies
+Key Responsibilities  -
+1.   Design, develop, and maintain robust software applications 
+tailored to our AI-driven solutions
+2. Implement scalable and efficient code using modern 
+programming languages and frameworks
+3. Develop, train, and optimize deep learning models for 
+applications such as energy forecasting, fault prediction, and 
+anomaly detection
+4. Create interactive simulations and visualizations using game 
+development platforms (e.g., Unity, Unreal Engine) to 
+represent complex energy systems and industrial operations.
+5. Ensure seamless integration of software, deep learning 
+models, and simulation tools into our existing infrastructure.
+Qualifications -
+1. Bachelor’s degree in Computer Science, Software 
+Engineering, Artificial Intelligence, Game Development, or a 
+related field. A Master’s degree is preferred.
+2. Proficiency in programming languages such as Python, C++, 
+C#, or JavaScript.
+3. Familiarity with data preprocessing, feature engineering, and 
+model evaluation techniques.
+4. Experience with game development platforms (e.g., Unity, 
+Unreal Engine) and creating interactive simulations.
+5. Knowledge of cloud platforms (e.g., AWS, Azure, Google 
+Cloud) and deployment strategies for scalable applications
+Place of posting
+Accomodation details
+Remote
+None
+Bond applicable
+No

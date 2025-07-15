@@ -1,0 +1,58 @@
+Job Details
+Responsibilities:
+● Design, develop and test (space hardened) avionics hardware that will support the
+functions of our launch vehicles and spacecraft.
+●
+Will assist with prototyping, schematic capture, debugging, hardware bug tracking,
+functional verification and signal characterization.
+●Efficiently develop complex software in the LabVIEW programming environment.
+●Accurately estimate the timelines required to develop LabVIEW programs.
+●Practise effective revision control of programs that are developed.
+●Effectively troubleshoot the systems associated with the LabVIEW program, including
+not only the software but other aspects such as the host PC, sensors, electrical
+junctions, etc.
+Basic Qualifications:
+● Bachelor of Science Degree in Electrical Engineering, Computer Engineering or
+Physics.
+● Professional experience with experience in fast-paced projects (non-aerospace is
+okay); CPU-based circuit cards, consumer electronics, wireless devices, and/or low
+power platforms.
+● Professional experience with analog, digital or mixed-signal design principles
+including designs using operational amplifiers, filters, and transistors.
+Preferred Skills and Experience:
+● Masters of Science Degree in Electrical Engineering, Computer Engineering or
+equivalent area of focus.
+● Minimum certification of National Instruments CLAD, Certified LabVIEW Developer
+● Knowledge in laboratory instrumentation such as encoders, LVDTs, oscilloscopes,
+micrometers, and capacitive probes.
+● Knowledge in solid modeling or electrical CAD is desirable but not required.
+● Knowledge in designing hardware from concept through production; strong emphasis
+on full lifecycle development of new hardware systems -- not small incremental
+updates to legacy hardware.
+●
+Strong understanding of computers and programming languages (C/C++, Matlab,
+Assembly language).
+Ability to work in a fast paced, autonomously driven, and demanding start-up
+atmosphere
+Excellent communication skills both written and verbal.
+Additional Requirements:
+● Must be available to work extended hours and weekends as needed
+What you could take away?
+●
+You might have created one of the most complex ground test system architecture in
+the world
+●
+Your work will directly impact the company's (and the rocket's) trajectory.
+●
+You will learn rocket science from some of the most senior and respected minds in
+ISRO.
+●
+You will work on shaping space policy in India.
+●
+You will dirty your hands in a global supply/chain optimization problem.
+Place of posting
+Accomodation details
+CHENNAI
+None
+Bond applicable
+No

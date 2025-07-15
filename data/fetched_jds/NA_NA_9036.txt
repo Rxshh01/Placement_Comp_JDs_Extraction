@@ -1,0 +1,160 @@
+Job Details
+【
+Technology Field
+】
+Computer Graphics,
+System Software
+【
+Position Summary
+】
+We, the XR System Technology Development Department, are
+a division of the Technology Development Laboratories located in Tokyo, Japan.
+Our mission is to spearhead the development of XR (Extended Reality) core
+technologies and pave the way for launching new XR business ventures.
+At our department, we focus on three key areas that serve as the foundation for
+XR technology advancements:
+a) Developing System Technology for Downsizing and Lightening HMDs and
+Naked-Eye 3D Displays:
+We are dedicated to pushing the boundaries of XR hardware by developing
+cutting-edge system technologies that enable the downsizing and lightening of
+Head-Mounted Displays (HMDs) and naked-eye 3D displays. Our goal is to enhance
+user comfort and mobility while delivering immersive XR experiences.
+b) Developing Sensing/Rendering/Simulation Technologies for Seamlessly
+Presenting Mixed-Reality Worlds:
+Creating seamless mixed-reality experiences is a critical aspect of XR
+technology. To achieve this, we focus on the development of advanced sensing,
+rendering, and simulation technologies. By leveraging state-of-the-art
+techniques, we aim to bridge the gap between the physical and virtual worlds,
+ensuring a smooth and natural integration of the two.
+c) Developing XR (AR/VR) Content Creation Technology Assisted by AI:
+The creation of compelling XR content is crucial for captivating user
+experiences. To achieve this, we harness the power of AI technology in the
+development of XR content creation tools. By leveraging AI algorithms, we
+empower creators to generate immersive and interactive XR content, pushing the
+boundaries of creativity and engagement.
+As an XR System Engineer, you will play a crucial role in advancing the field
+of human-computer interaction by contributing to the development of XR core
+technologies. This position requires a comprehensive engineering skill set,
+encompassing both hardware and software domains. On the hardware side, you will
+work on mechanical, electronic, and optical designs. On the software side, your
+expertise will span across various areas, including computer vision, real-time
+3D graphics, physics and motion planning used in game engines, parallel
+algorithms applicable to GPU or FPGA, video/audio codecs, real-time operating
+systems, wired and wireless networking, machine learning, and more.
+Your expertise in a specific technology area, coupled with your curiosity for
+various related technologies, will be essential in driving our innovation
+forward. We encourage you to propose and develop new research themes that
+combine your expertise with Sony's unique hardware, such as CMOS image sensors.
+-Working environment:
+Main offices of Sony Corporation are located at Shinagawa, Osaki and
+Minatomirai in Japan.
+Although the offices are in Japan, you can work in an English-speaking
+environment, and you can also take Japanese lessons if needed.
+Join us in shaping the future of XR technology and redefining the way we
+interact with computers. Together, we can push the boundaries of what is
+possible in the world of XR. If you are passionate about XR technology, have a
+strong engineering background, and thrive in a collaborative and innovative
+environment, we invite you to apply for this exciting opportunity as an XR
+System Engineer.
+【
+Responsibilities
+】
+When you join our division, you will have the opportunity
+to take on one or two of the following responsibilities:
+■
+Develop vision processing
+algorithms and implement them in real-time systems, including tasks such as
+depth estimation, surface reconstruction, light estimation, and eye tracking.
+■
+Work on real-time rendering techniques, such as novel
+view synthesis and path tracing, to create immersive visual experiences.
+■
+Conduct simulations, including fluid dynamics, to
+enhance the realism of XR environments.
+■
+Optimize algorithms for specialized hardware
+platforms, such as GPUs, FPGAs, and ASICs, to achieve high-performance XR
+systems.
+■
+Design electronic circuits and program FPGAs while
+developing device drivers to ensure seamless integration of hardware and
+software components.
+■
+Contribute to the development of AI-assisted creative
+support features that will be integrated into game engines or digital content
+creation (DCC) tools.
+■
+Explore the development of digital twin construction
+services on cloud platforms.
+In addition, we encourage you to embrace the following practices:
+■
+Acquire and master the most advanced AR/VR
+technologies to become a world-class engineer in the field.
+■
+Progress towards a leadership position or become a
+core member of the development team responsible for delivering our original
+technologies as products or services in collaboration with other departments in
+R&D or business units.
+■
+Collaborate with global Sony Group companies to create
+business value as an AR/VR engineer across various industries, including
+electronics, gaming, entertainment, medical, finance, and more.
+By joining our team, you will have the opportunity to make a significant impact
+in the field of AR/VR. We encourage you to embrace continuous learning,
+leadership development, and global collaboration as you grow your career as an
+AR/VR engineer.
+【
+Required qualifications
+】
+We expect the applicant to have at least some of the
+following skills or experiences:
+■
+Experience developing
+computer vision algorithms (experience in both Python and C++ is preferred).
+■
+Experience developing realtime 3DCG rendering
+software using low-level API (e.g. DirectX/Vulkan/OpenGL).
+■
+Expertise in optimization, parallel/distributed
+processing, and acceleration, including system software and hardware
+(GPU/FPGA).
+■
+Experience creating 3D content using game engines
+(UE/Unity) and DCC tools (e.g. Blender, Houdini, etc.).
+■
+Experience developing plugins for these tools, or
+utilizing AI to generate content, is preferred.
+■
+Experience on dev/ops of cloud services.
+【
+Preferred qualifications
+】
+■
+Advanced degree in Computer Science, especially in
+Artificial Intelligence, Machine Learning, or a related technical field.
+■
+Experience deveping and implementing streaming
+protocols over wired and wireless networks.
+■
+Experience developing AI-assisted content generation
+or editing features integrated into plugins for game engines or DCC tools.
+【
+Product, Service
+】
+XR device, Game(PlayStation), Entertainment(Music, Movie)
+etc.
+【
+Development Environment
+】
+・
+PC: x86/x64 Windows compatible PC
+・
+OS: Windows and Linux
+・
+Game Engine: Unreal Engine, Unity
+Place of posting
+Accomodation details
+Tokyo, Japan
+Temporary
+Bond applicable
+No

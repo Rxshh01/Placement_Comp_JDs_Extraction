@@ -1,0 +1,35 @@
+Job Details
+About Turing
+Based in Palo Alto, California, Turing is the world’s first AI-powered tech services company. It has reimagined tech services from the ground up with AI by offering AI-vetted and matched talent, AI-accelerated development, and access to AI transformation experts who have built many of the most iconic Silicon Valley companies.
+Founded in 2018, the company has experienced tremendous growth with three million global developers on its Talent Cloud and 900+ clients. Turing has received numerous awards, including Forbes's 2022
+“One of America’s Best Startup Employers,” being ranked #1 in The Information's 2021.
+Annual List of most promising B2B Companies and
+Fast Company's
+“Annual List of the World’s Most Innovative Companies.”
+The company’s leadership team comprises both AI technologists from leading organizations including Meta, Google, Microsoft, Apple, Amazon, Twitter, Stanford, Caltech, MIT as well as tech consulting veterans from Accenture, Cognizant, Capgemini, McKinsey, Bain, and more.
+The role
+Are you looking forward to becoming part of an AI-powered IT Services company and contributing to making LLMs stronger, working on modern product engineering projects, and building enterprise GenAI solutions for top-notch Silicon Valley firms and large enterprises? A U.S.-based company, utilizing modern Artificial Intelligence technology to build a better future for coming generations, is searching for skilled engineers. Join our mission to ensure that the power of AI technology benefits all of humanity.
+Your journey at Turing will start as a Delivery Data Scientist. As your skills hone up, you have the choice of diving deeper into the AI data science space and growing within the data science job family or if you are someone who loves programming, can venture into product engineering space into our delivery department or our R&D team.
+To start with, In the Delivery Data Scientist role, you'll be tasked with designing and writing efficient code in Python to solve challenging tasks, including evaluating and ranking AI model responses to a variety of user requests. Your work will involve deep analysis and the creation of comprehensive, well-articulated explanations for your choices, demonstrating strong English skills and a high level of technical ability. We're looking for passionate individuals to help achieve our vision.
+Job Responsibilities:
+Write effective, high-quality code to train and evaluate AI models.
+Evaluate and rank AI model responses based on user requests across a wide range of CS topics, providing detailed rationales for your decisions.
+Craft perfect responses and articulate what constitutes an ideal response content-wise.
+Explain your reasoning and logic comprehensively for your actions.
+Conduct peer code reviews, offering constructive feedback and criticism.
+Requirements:
+Bachelor’s or Master’s Degree in Engineering or Computer Science (BE, B.Tech, MCA, M.Tech, or MSC CS) from a top-tier university.
+Exceptional critical thinking and problem-solving skills (including, but not limited to, good knowledge of algorithms and data structures, system design, coding practices, etc.).
+Excellent English communication skills, with the ability to articulate ideas clearly and comprehensively. Strong ability to write technical documentation/explanations.
+Additional Details:
+Must have a 4-hour overlap with US time zones.
+Full-time position: 40 hours per week.
+Must have a laptop and remote work setup.
+Don't miss this opportunity to join a mission-driven company at the forefront of AI technology.
+Apply now and help us make a positive impact on the world.
+Place of posting
+Accomodation details
+Remote
+None
+Bond applicable
+No

@@ -1,0 +1,45 @@
+Job Details
+Gan.ai 
+About Us: 
+Generate millions of hyper-customized videos with the help of our studio-quality AI video 
+personalization software. Delight your customers using our generative AI video 
+personalization platform — record once, and generate millions of hyper-customized videos 
+for every user across each step of the customer journey with perfect voice and lip-sync. 
+About the role: 
+We are looking for a DL/ML Engineer in the field of Natural/Spoken Language 
+Understanding (NLU/SLU) to lead product development at Gan. This person will be working 
+on problems related to spoken dialog systems. The tech involves using LLMs, ASRs, TTS, 
+etc. to handle complex goal-directed conversations. 
+Responsibilities: 
+You will be working with Product Managers and Engineers to design, build, and deliver ML 
+models and capabilities for our voice bot product. 
+● Formulate and design ML capabilities of our stack with a particular focus on SLU. 
+● Lead teams, engineers, and scientists to envision and build new conversational 
+capabilities and ensure delivery of our product roadmap. 
+● Organize regular reviews and discussions. 
+● Keep the team up-to-date with the latest industrial and research updates. 
+Experience: 
+● 2+ years of product development experience in the industry, preferably in NLP and 
+SLU. 
+● Knowledge of and ability to use tools from theoretical and practical aspects of 
+computer science. This includes, but is not limited to, probability, statistics, learning 
+theory, algorithms, software architecture, programming languages, etc. 
+● Good programming skills and ability to work with programs at all levels of a finished 
+Machine Learning product. We prefer language agnosticism since that exemplifies 
+this point. 
+● Git portfolios and blogs are helpful as they let us better evaluate your work. 
+Qualifications: 
+● Bachelor's or Master’s degree in CS or other technical fields. 
+● 2+ years of experience in DL/ML positions in industry or academia 
+Why should you join us?  
+● Working very closely with the founding team, you also have the chance to influence 
+and drive the direction of the company significantly. 
+● Starting with coding/engineering solutions, you’ll have the opportunity to grow with 
+the team and lead it. 
+● Thrill of an early-stage startup growing rapidly
+Place of posting
+Accomodation details
+Noida
+None
+Bond applicable
+No

@@ -1,0 +1,32 @@
+Job Details
+Augnito is the next gen Voice AI powering the healthcare industry. Augnito empowers medical professionals and streamlined clinical workflows with cloud-based, AI speech recognition that offers ergonomic data entry with 99% accuracy, without the need for voice profile training, from any device, anywhere. From the outset, Augnito was built in close partnership with clinicians, using human-centered design, to create an AI natural language processing engine to fit your needs – not the other way around. As a result, Augnito offers excellent support for a wide variety of clinical vocabulary and workflows and can halve your clinical reporting and admin time, increase revenue, prevent physician burnout, eliminate transcription waiting delays, and enable you to focus your energy on patient care – not documentation. Augnito is currently deployed at 300+ hospitals and health systems and has a growing presence in 20+ countries, including the US, UK and Canada About the role: As a Speech Engineer at Augnito you will play a pivotal role in you will play a pivotal role in the development of our AI-driven speech recognition and language understanding systems. You will be responsible for designing, implementing, and optimizing speech-related algorithms and technologies that power our products. This position requires a deep understanding of speech processing, machine learning, and natural language understanding, as well as the ability to work in a collaborative, fast-paced, and dynamic startup environment.
+Responsibilities:
+• Design and implement Hybrid and/or End-to-End speech and language processing system using machine learning and deep learning techniques.
+• Preprocess, annotate, and manage large datasets of speech and text for training and testing purposes.
+• Develop data augmentation techniques to improve model robustness and generalization.
+• Train and fine-tune speech recognition and language understanding models.
+• Implement and experiment with state-of-the-art algorithms to optimize model performance.
+• Conduct rigorous evaluation of speech models and provide insights for model improvement.
+• Collaborate with product managers and engineers to understand user requirements and provide technical solutions.
+• Ensure compliance with data privacy and security regulations in projects.
+• Stay updated with state-of-the-art techniques in the Speech Recognition field and exchange knowledge with colleagues.
+• Coordinate with internal teams to translate business challenges into data pipelines and model frameworks.
+• Document research findings, methodologies, and implementation details.
+• Communicate progress and results to the team and stakeholders effectively.
+Qualifications:
+• A Bachelor’s or Master’s in Computer Science, Electrical Engineering, or a related field from leading research institutes.
+• Knowledge with speech technologies like Automatic Speech Recognition (ASR), Multilingual Speech Recognition, Diarization, Language Model, Pronunciation Model, Audio classification.
+• Hands-on experience in building Hybrid speech recognition systems like GMM-HMM, DNN-HMM
+• Hands-on experience in building end-to-end speech recognition systems using the latest architectures like wav2vec2, HuBERT, Whisper, LAS.
+• Familiarity with machine learning and deep learning libraries such as Scikit Learn, TensorFlow, or PyTorch.
+• Strong programming experience in languages like Python, C/C++, Shell scripting etc.
+• Experience contributing to research communities, including publications at conferences and/or journals (a plus)
+“Augnito India Pvt. Ltd. is an equal opportunities employer .We are committed to providing equal opportunities throughout employment including in the recruitment, training and development of employees (including promotion, transfers, assignments and beliefs). Augnito will not tolerate any act of discrimination in the workplace including but not limited to:
+Gender, Gender identity, National or ethnic origins, Marital or Domestic Partnership status, Pregnancy Status, Carer’s responsibilities, Sexual orientation, Race, Color, Religious belief, Disability, Age, Any other grounds of discrimination
+In order to provide equal employment and advancement opportunities to all individuals, employment decisions at Augnito will be based on merit, qualifications, and abilities. Our objective is to attract job applications and applications for development from the best possible candidates and to retain the best people.”
+Place of posting
+Accomodation details
+Mumbai/Bangalore
+None
+Bond applicable
+No

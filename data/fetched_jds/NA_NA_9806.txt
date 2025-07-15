@@ -1,0 +1,83 @@
+Job Details
+Software Engineer
+The areas where the CS/IT engineers can get work in
+Cloud Engineer: (Identity, Data Hosting, Operating System)
+Data Engineer
+Software Engineer (Integration)
+AI Machine Learning Engineer
+Network Engineering
+We are looking for motivated individuals to
+deliver innovative digital solutions through design, development, deployment,
+and support.
+You will work on key projects and digital innovation initiatives
+following agile principals, collaborating with product teams to develop
+reusable software components and services.
+Successful candidates will develop digital
+solutions according to best practices and utilize standard tools
+to
+ensure
+quality
+and
+maintenance
+–
+excelling in modularity, scalability, observability, and
+integration.
+This role provides opportunities to work across multiple areas, including web
+application development, system, and security design/development.
+Software Engineer
+Key responsibilities
+Hands-on coding to deliver functional, innovative software
+      solutions.
+Utilize CI/CD tooling to deploy software and iterate on
+      solutions.
+Design and develop
+data
+integration
+      and
+data
+management practices and tools.
+Maintain working knowledge of the latest tools and practices
+      for continuous integration, unit tests, static and dynamic profiling,
+      code coverage, code analysis, and automated tests.
+Frequently work with
+global
+teams across time zones and provide support to
+      application/solutions.
+Hands-on development for integrating existing solutions with
+      enterprise ecosystem (e.g., API development, Azure Data Factory)
+Utilize CI/CD tooling to deploy software and iterate on
+      solutions
+Design and develop
+data
+integration
+      and
+data
+management practices and tools
+Understand technical requirements to maintain & support
+      applications
+Deploy, configure, support and enhance vendor software
+      packages
+Experience building solutions in one of the following:
+C#, C++, Angular, Node.js, SQL, Ansible, R, Java, Python
+Strong familiarity with
+Gitflow
+and
+source
+control management methodologies
+Experience with software development lifecycle (plan, design,
+      develop, test, release, maintain and support, decommission)
+Preferred skills / competencies
+Hands-on experience with Azure Cloud, Service Now, Ansible,
+      and Azure DevOps
+Experience working on agile teams, utilizing methodologies
+      such as
+SAFe, Scrum, Kanban
+Strong written and verbal communication
+Demonstrated business negotiation skills, influence, conflict
+      resolution, and resolving technical stalemates
+Place of posting
+Accomodation details
+Bengaluru
+None
+Bond applicable
+No

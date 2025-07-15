@@ -1,0 +1,31 @@
+Job Details
+<Software Defined Mobility Development Supervisory Unit, Advanced Safety and Intelligent Solution Development Division>
+Honda's Software Defined Mobility Development Supervisory Unit is committed to pursuing innovative development and creation of “value” in mobility and life. We aim for “Zero traffic collision fatalities” involving Honda motorcycles or automobiles worldwide in 2050. The AD/ADAS division is responsible for the development of safety functions such as Honda Sensing Elite and Honda sensing 360 for this purpose. In this division, the engineers who realized the world's first LV3 automated driving system are constantly researching and commercializing the latest technologies.
+Advanced Safety System Software Development Department's role is to develop in-house AI algorithm for Honda’s unique AD/ADAS features. Computer vision researchers in our division are responsible for conducting cutting-edge research to develop new algorithms, models, and techniques for analyzing and processing visual data. Responsibilities also include model optimization and getting a prospect for implementation of the model to the target HW, so that it can eventually meet our target requirements.
+Algorithm development usually starts with data collection and annotation techniques, SOTA model reproducibility and analysis, and existing model, which we have already developed through our past projects, CV researchers also needs to publish their research findings in conferences or internal exhibition in Honda to show the presence of the department. We are collaborating with suppliers, alliance partners and other departments in Honda. CV researcher needs to provide technical support in order to accelerate these collaborations.
+The successful candidate must have the ability to develop AI perception model based on the previous SOTA algorithms and target requirements. On top of that, the ability to meet tight deadlines and strong communication, interpersonal skills to work with team members are also needed.
+<Responsibilities>
+- Identify both existing and new research problems by interacting with Honda team members.
+- Help in refining research methodology by sharing research trends and best practices within the community.
+- Develop new algorithms for recognizing the world both outside and inside of the car with various sensors.
+- Define the data structure, framework, design and evaluation metrics for research solution development and implementation.
+- Contribute to conducting experiments based on the research question and help in collaborating with alliance partners and subcontractors of Honda by providing technical support.
+- Implement research prototypes and simulations within given hardware and software requirements.
+- Author research papers and apply patents to share and generate impact of research results across the team and in the research community.
+- Review code developed by other team members and provide feedback to ensure best practices in terms of coding style, accuracy, testability and efficiency.
+- Identify timelines and meet development milestones in the team.
+<Specific Goals>
+[1st -2nd year]
+- Understand existing research problems and workflows of the team.
+- Develop at least one research prototype every year and demonstrate it in the team.
+- Author at least one research paper and/or apply a patent every year by identifying new research problems
+[3rd -5th year]
+- Lead research prototypes and experiments based on the research question.
+- Get a prospect for implementing research prototypes on our target HW by optimizing the performance
+- Author and publish a research paper in one of the top international conferences (ex. CVPR, ICCV) to show the presence of Honda in the AI research community.
+Place of posting
+Accomodation details
+Midtown Tower 38F, 9-7-1 Akasaka, Minato-ku Tokyo, Japan
+None
+Bond applicable
+No

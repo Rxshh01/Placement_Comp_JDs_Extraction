@@ -1,0 +1,13 @@
+Job Details
+Job Title RF/Analog IC Design Engineer
+Company - Division Qualcomm Technologies, Inc.
+Job Area RF/Analog IC Design
+Location Bangalore
+Educational Requirements Master’s in electrical engineering (RF/Analog IC Design areas) Ph.D. in Electrical Engineering (RF/Analog IC Design areas)
+Overview Qualcomm's Radio Frequency Integrated Circuit (RFIC) design center in Bangalore designs advanced cellular RFIC's and RF Front Ends (RFFE) which enable 2G, 3G, 4G and 5G NR solutions for the world-wide cellular chipset market. We are looking for engineers specializing in the areas of RF/Analog IC Design who develop innovative solutions related to problems in the area of Transceiver Design and RF Front Ends. Individuals in this role will actively participate and contribute to Qualcomm's Transceivers/RF Front End Solutions intended to be used for 2G, 3G, 4G, and 5G-NR technologies towards ever improving Key Performance Indicators (Area/Power/Performance). They will be required to gain thorough understanding of Transceiver and RF Front End design specifications and will be responsible for designing and simulating block level circuits as well as characterize them in the lab against the specifications. The work would include theoretical analysis, CAD simulations, regular active participation in design and review sessions, contribution to QUALCOMM's IP portfolio, and close collaboration with multiple Qualcomm teams (Layout, Digital Design/Verification, RF systems, Product and Test Engineering). Individuals who possess skills/experience in one or more of the following are requested to apply: • Receiver Circuits: LNA, Down conversion Mixers and Base band Filters, Auxiliary Receivers • Transmitter Circuits: Transmit Base-Band Filters, Up-conversion Mixers, Driver / Power Amplifiers • Synthesizer Circuits: VCO, PLL, Reference Clock Processing, DLL and Clock Multipliers, Clock & Data Recovery • Data Converters: ADC, DAC • Power Management Circuits: Bandgap, LDO, Reference Current Generation. • RF Calibrations & Implementation • Radio floor planning, Frequency planning & Packaging • Digital Communication Basics including modulation, noise and linearity
+Place of posting
+Accomodation details
+Banglore
+Temporary
+Bond applicable
+No

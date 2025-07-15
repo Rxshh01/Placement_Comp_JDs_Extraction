@@ -1,0 +1,20 @@
+Job Details
+Company Overview
+Abacus.AI is the world's first AI super-assistant tailored for enterprises and professionals. We believe that the future of work will be AI-assisted in the beginning and AI-first in a few years.
+Abacus is at the forefront of this revolution. We make it super simple to use AI to automate your work and business processes and generate ROI for businesses.
+It’s an all-in-one AI platform that professionals and enterprises can use for all their needs. Major Fortune 500 companies, including Dell, American Eagle, AutoDesk, and Pioneer, use us
+We are also leaders in Gen AI open-source research and add to the models available on our Super Assistant.  Our goal is to achieve open-source in parallel to closed-source AGI, and we have previously topped open-source leaderboards with our fine tunes.
+We have a uniquely different culture. We believe in giving everyone autonomy and ownership and don’t believe in over-management. We are flatter than any other company in our segment and offer an opportunity for every individual to change the world. We are a group of people who enjoy building and engineering hard things. We have a hands-off work-from-home environment where each individual has personal responsibility.
+We are changing the world and making it AI-first, and we are super excited to be on the bleeding edge and creating the future.
+Job Description
+Will work on various parts of a ML and GenAI platform which aims to let users build useful AI systems without programming or data science knowledge. Areas include data processing, scalable cloud infrastructure, Generative AI features and infrastructure running AI and user generated code.
+Prerequisites
+Strong programming skills
+Resourcefulness, ability to navigate large code bases and learn how to do things
+Ability to work independently and make decisions
+Place of posting
+Accomodation details
+Remote
+None
+Bond applicable
+No

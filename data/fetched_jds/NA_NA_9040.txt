@@ -1,0 +1,23 @@
+Job Details
+Requirements:
+Excellent knowledge of computer vision concepts, including but not limited to Image Classification, Object Detection, and Semantic Segmentation, developed using state-of-the-art deep learning algorithms.
+Hands-on experience developing efficient and real-time convolutional neural network (CNN) models for computer vision tasks.
+Strong proficiency in at least one of the deep learning frameworks, such as PyTorch, TensorFlow, or Caffe, with the ability to apply them to computer vision problems.
+Quick prototyping skills in Python and coding and debugging proficiency in C++.
+Good communication and collaboration skills to work effectively in a team and communicate complex technical concepts.
+Qualifications:
+A Ph.D. degree (including candidates at various stages of their Ph.D., such as thesis submission, thesis submitted, degree awaited, synopsis seminar completed, defense completed) in Deep Learning with hands-on coding skills and a passion for an industrial career will be preferred.
+Master's or Bachelor's degree with thorough industrial work experience in developing computer vision applications using deep learning.
+Postgraduates or Undergraduates with a strong academic background in Deep Learning, Computer Vision, or related fields, and demonstrated coding skills, are also encouraged to apply.
+Preferred:
+Publications in top-tier computer vision conferences like CVPR, ICCV, ECCV, or major AI conferences like NeurIPS.
+Knowledge of computer vision libraries and tools, including OpenCV and DLib, and a solid understanding of image processing and computer vision fundamentals.
+Hands-on experience with model compression and pruning techniques in deep learning.
+Good exposure to various deep learning architectures, such as Artificial Neural Networks (ANN), Deep Neural Networks (DNN), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Long Short-Term Memory (LSTM) networks.
+Familiarity with GPU programming (e.g., CUDA, OpenCL) for efficient deep-learning computations.
+Place of posting
+Accomodation details
+Gurugram
+Temporary
+Bond applicable
+No

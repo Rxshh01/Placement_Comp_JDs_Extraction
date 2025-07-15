@@ -1,0 +1,30 @@
+Job Details
+# Full Stack Developer (Next.js + Python)
+## Position Overview
+We are seeking a skilled Full Stack Developer with expertise in Next.js and Python to join our team. The ideal candidate will be responsible for both maintenance and development of applications, with a special focus on using LLM-based tools for code generation and review.
+## Key Responsibilities
+- Develop and maintain web applications using Next.js frontend and Python backend
+- Implement and integrate Large Language Models (LLMs) into existing applications
+- Write clean, maintainable, and efficient code following best practices
+- Collaborate with cross-functional teams to define and implement new features
+- Perform system maintenance and troubleshooting
+- Participate in code reviews and contribute to technical documentation
+## Required Skills & Qualifications
+- Strong proficiency in Next.js and React ecosystem
+- Advanced Python programming skills
+- Experience with Flask framework
+- Practical experience implementing and working with LLMs
+- Proficient in version control using Git
+- Strong problem-solving abilities and attention to detail
+- Experience with RESTful APIs and microservices architecture
+## Preferred Qualifications
+- Experience with cloud platforms (AWS/GCP/Azure)
+- Knowledge of containerization and deployment tools
+- Background in machine learning or AI implementations
+- Experience with automated testing and CI/CD pipelines
+Place of posting
+Accomodation details
+Pune
+Temporary
+Bond applicable
+No

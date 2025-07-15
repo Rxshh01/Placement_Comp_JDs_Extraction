@@ -1,0 +1,22 @@
+Job Details
+Brief Introduction of Department: - The Technology infrastructure department is responsible
+for the design, implementation, and maintenance of the organization's IT infrastructure. This
+includes the physical components of the IT environment, such as servers, storage devices,
+and networking, security equipment. The IT infrastructure department also manages the
+software that runs on these devices, such as operating systems, applications, and security
+software.
+The Technology infrastructure department plays a critical role in ensuring the availability,
+performance, and security of the organization's IT systems. They work closely with other IT
+departments, such as the Application and the Operations, to ensure that the organization's
+Technology infrastructure is reliable and secure.
+Technology Infrastructure department is also responsible to design, develop, planning and
+implementing changes to the IT infrastructure and maintain scripts to automate IT
+infrastructure that involves tasks such as provisioning servers, configuring network devices,
+deploying applications, upgrading hardware and software, and migrating to new
+technologies.
+Place of posting
+Accomodation details
+Mumbai
+Temporary
+Bond applicable
+No

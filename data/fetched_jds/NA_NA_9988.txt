@@ -1,0 +1,44 @@
+Job Details
+Job Responsibilities
+Design,
+     develop and implement scalable software that drives our software-defined
+     robotic platform and make it accessible to anyone to build applications
+     easily.
+Rapidly
+     experiment and iterate on user interface and interaction concepts – create
+     graphic design, wireframes, storyboards, and mockups.
+Assist
+     with overall software architecture and help define standards and best
+     practices for development of distributed software.
+Collaborate
+     with engineers from other disciplines to communicate design priorities and
+     support with quick prototypes and transition successful prototypes to
+     production code.
+Assist
+     with high-level analysis, design, and code reviews.
+Required Skills and Experience
+Knowledge in developing full-stack software.
+Proficiency
+     in programming languages such as JavaScript, Python, C/C++ and Linux OS.
+Knowledge with frameworks such as JQuery, node.js, ReactJs, Express.
+Working
+     with chart libraries and 3D would be plus.
+Knowledge designing and developing HTML5/CSS3 web and mobile applications.
+Knowledge
+     of web standards, cross-browser compatibility, responsive design, and
+     building in accessibility from the ground up.
+Knowledge
+with cloud platforms as AWS is a plus.
+Knowledge
+with real-time browser technologies, interactive single-page applications
+     and API constraints.
+Ability
+     to work in a fast-paced, collaborative, and iterative development
+     environment (Agile-SCRUM) and have experience with software engineering
+     tools (Git, CMake, Cl etc.).
+Place of posting
+Accomodation details
+Hyderabad
+None
+Bond applicable
+No

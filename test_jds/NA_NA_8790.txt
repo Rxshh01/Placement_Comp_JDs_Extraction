@@ -1,5 +1,0 @@
-Company: Tech Innovations
-Role: Junior Software Engineer
-Location: Remote
-Eligibility: B.Tech in CS.
-Skills: Python, Java, APIs.

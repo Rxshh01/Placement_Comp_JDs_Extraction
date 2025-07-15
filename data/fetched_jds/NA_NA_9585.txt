@@ -1,0 +1,70 @@
+Job Details
+Project 2 (2) - BE/B. Tech in Computer/IT/ 
+Electronics/ Electronics & 
+Telecommunication/ 
+Communication / Electrical/ 
+Electrical & Electronics/ 
+Mechanical / Aerospace / 
+Computational Science
+OR
+ME/M. Tech in Computer/IT/ 
+Electronics/ Electronics & 
+Telecommunication/ 
+Communication / Electrical/ 
+Electrical & Electronics/ 
+Mechanical / Aerospace / 
+Computational Science
+OR
+First Class PG Degree in Science or 
+HPC relevant Discipline
+OR
+Ph D. in HPC relevant Discipline - Branch - BE/B. Tech in Computer/IT/ 
+Electronics/ Electronics & 
+Telecommunication/ 
+Communication / Electrical/ 
+Electrical & Electronics/ 
+Mechanical / Aerospace / 
+Computational Science
+OR
+ME/M. Tech in Computer/IT/ 
+Electronics/ Electronics & 
+Telecommunication/ 
+Communication / Electrical/ 
+Electrical & Electronics/ 
+Mechanical / Aerospace / 
+Computational Science
+OR
+First Class PG Degree in Science or 
+HPC relevant Discipline
+OR
+Ph D. in HPC relevant Discipline - Desired Skill sets - •	Working knowledge of Linux, C/C++, Fortran, Python
+•	Knowledge of Assembly level programming
+•	Expertise on of Parallel Computing, HPC architectures
+•	Knowledge of accelerator /GPGPU computing
+•	Expertise on application benchmarks, micro-benchmarks, 
+compilers, performance libraries
+•	Optimization of codes, parallel programming
+•	Scaling and benchmarking of applications
+•	Development of parallel code using MPI/OpenMP etc.
+•	Experience on scientific/engineering computational domains, 
+mathematical/scientific libraries.
+. Knowledge of code debugging
+Technical Writing
+Good communication and interpersonal skills - Proposed Job profile - 1. Parallelization of users on CPUs and GPUs conducting of hackathons and 
+bootcamps
+2. Porting, optimization, Tuning, Scaling of HPC applications, libraries on 
+different HPC architecture
+3. Performance evaluation of HPC architctures through benchmark suites / 
+programs / kernels etc.
+4. Development of parallel codes, performance analysis through tools and 
+techniques, code debugging
+5. Exploration and use case development of performance tools, programming 
+models etc.
+6. Delivering technology training
+Providing user support
+Place of posting
+Accomodation details
+Pune or any other place as per requirement of the project
+None
+Bond applicable
+No

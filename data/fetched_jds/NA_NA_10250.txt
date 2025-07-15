@@ -1,0 +1,37 @@
+Job Details
+About Swiggy
+Swiggy is India’s leading on-demand delivery platform with a tech-first approach to logistics and a solution-first approach to consumer demands. With a presence in 500+ cities across India, partnerships with hundreds of thousands of restaurants, an employee base of over 5000, a 2 lakh+ strong independent fleet of Delivery Executives, we deliver unparalleled convenience driven by continuous innovation. Built on the back of robust ML technology and fueled by terabytes of data processed every day, Swiggy offers a fast, seamless and reliable delivery experience for millions of customers across India.
+From starting out as a hyperlocal food delivery service in 2014, to becoming India’s leading on-demand convenience platform today, our capabilities result not only in lightning-fast delivery for customers, but also in a productive and fulfilling experience for our employees.
+Data Science at Swiggy
+Data Science and applied ML is ingrained deeply in decision making and product development at Swiggy. Our data scientists work closely with cross-functional teams to ship end-to-end data products, from formulating the business problem in mathematical/ML terms to iterating on ML/DL methods to taking them to production. We own or co-own several initiatives with a direct line of sight to impact on customer experience as well as business metrics. We also encourage open sharing of ideas and publishing in internal and external avenues.
+What you will do
+●
+You will leverage your strong ML/DL/Statistics background to build new and next generation of ML based solutions to improve the quality of ads recommendation and leverage various optimization techniques to improve the campaign performance.
+●
+You will mine and extract relevant information from Swiggy's massive historical data to help ideate and identify solutions to business and CX problems.
+●
+You will work closely with engineers/PMs/analysts on detailed requirements, technical designs, and implementation of end-to-end inference solutions at Swiggy scale.
+●
+You will stay abreast with the latest in ML research for Ads Bidding algorithms, Recommendation Systems related areas and help adapt it to Swiggy's problem statements.
+●
+You will publish and talk about your work in internal and external forums to both technical and layman audiences.
+Qualifications
+●
+Bachelors or Masters degree
+●
+Required: Excellent problem solving skills, ability to deconstruct and formulate solutions from first-principles
+●
+Preferred: Experience working with ‘big data’ and shipping ML/DL models to production
+●
+Preferred: Strong proficiency in Python, SQL, Spark, Tensorflow
+●
+Required: Strong spoken and written communication skills
+●
+Big plus: Experience in the space of ecommerce and logistics.
+“We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regards to race, color, religion, sex, disability status, or any other characteristic protected by the law".
+Place of posting
+Accomodation details
+Bangalore
+None
+Bond applicable
+No

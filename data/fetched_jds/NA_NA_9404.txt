@@ -1,0 +1,33 @@
+Job Details
+We are seeking a
+Design Implementation Engineer
+with experience to own the backend implementation of RISC-V cores and uncore blocks. The ideal candidate will be responsible for owning the Backend Convergence from synthesis to timing closure, and will work closely with RTL designers to ensure design closure.
+Key Responsibilities:
+Backend Implementation of RISC-V Cores and Uncore Blocks:
+Implement the design through Synthesis, Place and Route, and Clock Tree Synthesis (CTS).
+UPF-based low-power design implementation.
+Scan insertion and timing closure to meet design requirements.
+Collaborate closely with RTL designers to address design gaps and ensure convergence.
+Analyze and resolve CDC, LINT, and Formality issues.
+Design Understanding and Backend Convergence:
+Develop a strong understanding of the design micro-architecture.
+Approach backend convergence with a focus on performance, power, and area (PPA) optimization.
+Minimum Qualifications:
+Bachelor/Masters degree in Electrical or Computer Engineering
+Experience in backend design implementation, including synthesis, place and route, and CTS.
+Proficiency in UPF-based low-power design techniques.
+Familiarity with scan insertion, timing closure, and validation methods such as CDC, LINT, and Formality.
+Preferred Qualifications:
+Strong collaboration skills to work with RTL designers and cross-functional teams.
+Understanding of microarchitecture and its influence on backend design convergence.
+Experience with low-power design methodologies.
+Why Join Us:
+You will join a dynamic team dedicated to advancing high-performance RISC-V processors. This is a great opportunity to grow and contribute to cutting-edge semiconductor technology in a collaborative and innovative environment. We offer a competitive benefits package, including medical, dental, vision, retirement savings, and paid leave.
+About MIPS:
+MIPS has been a leader in RISC-based computing for over three decades, driving innovations in power-efficient semiconductors. Today, we are accelerating the development of RISC-V architecture for high-performance applications, leveraging our deep engineering expertise and industry-leading technology. Join us as we push the boundaries of what's possible in RISC-V computing.
+Place of posting
+Accomodation details
+Bangalore
+Temporary
+Bond applicable
+No

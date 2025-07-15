@@ -1,0 +1,59 @@
+Job Details
+WHAT YOU’LL DO:
+Contribute
+     to constant innovation by identifying and implement new solutions and
+     tools to improve infrastructure and application automation, availability,
+     and security
+Work
+     with product and development teams on releases and production
+     readiness
+Identify/Implement
+     approaches to automate and improve development and release processes
+Develop
+     testing and health check monitors with automated resolutions
+Participate
+     in project and scrum planning prioritization
+Design
+     procedures for system troubleshooting and maintenance
+Deploy
+     updates and fixes, and provide Level 2 technical support
+Manage/Implement
+     periodic reporting KPI’s on platform performance, availability and
+     efficiency
+Participate
+     in product release cycles by performing/automating regression testing and
+     quality checks
+WHO YOU ARE:
+Bachelor's
+     degree in Computer Science, Engineering, Data Science or a related
+     field
+Working
+     knowledge cloud infrastructure such as AWS, GCP or Microsoft Azure
+Foundational
+     knowledge in Linux, Containerization, and Kubernetes
+Fundamental
+     understanding of basic networking concepts including: DNS, Routing,
+     Firewalls, and Load-Balancing
+Proven
+     experience and/or course work with Continuous Integration and Deployment
+     (CI/CD)
+Must
+     have a passion for learning and strong desire to understand enterprise
+     architecture and infrastructure design fundamentals
+Working
+     knowledge of security concepts including access control, directory
+     services, and authentication/integration (OAuth, SAML, and OpenID)
+Experience
+     with database systems, such as SQL Server, MySQL, PostgreSQL, Snowflake,
+     etc.
+Strong
+     problem-solving skills, attention to detail, and self-learning initiative
+Excellent
+     communication skills and ability to work collaboratively in a team
+     environment.
+Place of posting
+Accomodation details
+Pune Maharashtra
+None
+Bond applicable
+No

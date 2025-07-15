@@ -1,0 +1,23 @@
+Job Details
+1. Job Summary
+Murata is No.1 RFFE module supplier with competitive advantages in integrated RF solutions, system engineering, process technology, application engineering and package technology etc.
+This job is responsible for IC design & software development leveraging Digital Envelope Tracking Technology to improve transmission efficiency & reduce power consumption for 5G & next generation communications.
+Your team will collaborate and work closely with global Murata engineering team & Eta Wireless team in USA & Sweden, Europe.
+2. Roles & Responsibilities
+This position has responsibility for:
+・CMOS analog circuit design, digital circuit design (FPGA, Verilog, etc.), IC layout design
+・Software technology development using programming languages such as C# and Python and MATLAB.
+・Circuit and electromagnetic field simulation using Cadence, ADS, HFSS, etc.
+・Development of verification tools (emulators and simulators) assuming the usage status of developed modules (circuits)
+・Development of combination evaluation, selection and cooperative design techniques with various RF key devices (SAW, semiconductor) constituting the RF front-end module
+3. Career Plan
+1st Year:  Support electrical evaluation work and Design IC circuits
+2nd Year:  Design IC circuits & software and Verify your design
+3rd Year:  Design product and reliability evaluation work for mass production products
+Please kindly note that there will be overseas business trip opportunities to USA & Europe for technical engineering support and meetings.
+Place of posting
+Accomodation details
+Japan
+None
+Bond applicable
+No

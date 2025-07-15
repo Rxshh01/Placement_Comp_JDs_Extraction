@@ -1,0 +1,64 @@
+Job Details
+Job Description for Software Engineer 2
+Job Description for System Software Development Unit (FTI_FSAS)
+Job Title: of System Software Development Unit
+Role Purpose
+A software engineering designs and develop software applications  for Composable Disaggregated Infrastructure (CDI) which help solve real-world challenges facing society and businesses across different industries.
+The Software Engineer responsible for project/department milestones/goals and services to support business outcomes.
+Responsibilities
+?
+In consultation with the Japanese team and take responsibility for implementation and quality of the software you develop.
+?
+Design, enhance, utilize, quality control and maintain software applications
+?
+Enable and optimize OSS/ISV applications for CDI
+?
+Make efforts to improve your skills and knowledge as software engineer
+?
+Identify problems in development and propose new approaches to possibly solve the problems
+?
+Working and communicating well with product directors/managers, OSS communities, and other software developers to collaborate, review and deliver high quality applications
+?
+Collaborate with Hardware teams, industry stakeholders, OSS communities.
+?
+Contribute software and proposals to OSS communities and OSS events to push forward our strategies and improve our presence
+?
+Report to managers
+Key Performance Indicators
+?
+Number of software applications enabled and optimized for CDI
+?
+Number of software applications with improved performance
+?
+Development of new software algorithms and technologies
+?
+Number of software contributions and presentations to OSS communities
+Experience
+You will be able to demonstrate that you have:
+?
+Master’s degree in computer science or relevant field
+?
+Experience in software development in agile approach
+?
+Excellent writing, verbal communication, and teamwork skills
+Preferred Experience
+You will be able to demonstrate that you have:
+?
+Experience of development in OSS communities
+Experience of OS and/or device driver development
+?
+Communication skills to negotiate with Japanese companiesengineers
+?
+Knowledge and experience in Cloud service (Azure/AWS) features such as Functions, VM, Container, DevOps (CI/CD)
+?
+Proficiency with fundamental back-end server-side languages such as Python, go, C/C++, etc. (especially Python)
+?
+Skills in  hardware and firmware technologies
+?
+Skills in network and system management/monitoring technologies
+Place of posting
+Accomodation details
+Bangalore
+Permanent
+Bond applicable
+No

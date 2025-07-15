@@ -1,0 +1,31 @@
+Job Details
+What will you do:
+The roles and responsibilities of Analyst 2 - Data Science will include the below:
+We expect you to work on complex, cross-functional analytical and research-oriented projects using advanced
+computational, machine learning and deep learning algorithms
+Develop proprietary algorithms for solving complex business problems while handling large amount
+of structured and unstructured data
+Learn and use relevant knowledge of computer science fundamentals, distributed computing and
+machine learning to help build scalable analytical solutions
+Leverage expertise in advanced analytics and work closely with our technical team and core
+
+business teams for design and development of the analytical solutions
+Combine business knowledge with statistical and computational techniques to provide actionable
+business solutions for our clients.
+Ideally, you have:
+Interested in working for a dynamic and high-growth startup where your analysis drives important
+decisions for clients
+Ability to use business judgement and a structured approach towards solving complex analytical
+problems
+Willingness to learn and apply concepts in Data Science, Machine Learning, Algorithm development,
+Advanced Computing or Statistical Modeling to solve real-world problems
+A drive to develop programming and modelling skills required to build practical models using
+advanced algorithms such as Random Forests, SVM, Neural Networks
+Familiarity with algorithms in recommendation systems, NLP or big data frameworks such as
+Hadoop/Spark is a bonus.
+Place of posting
+Accomodation details
+Hyderabad
+None
+Bond applicable
+No

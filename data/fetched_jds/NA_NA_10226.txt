@@ -1,0 +1,22 @@
+Job Details
+Will need to make various design basis of new projects
+2. Will need to do thermal modelling of battery cell
+3. Will need to do simulation of battery cell property using software like phyton, Ansys, GT Auto lion.
+4. Will need to generate understanding of all the cell child parts and their quality control processes.
+5. Will need to plan a localization plan for cell child parts with supply chain team
+6. Will need to understand the execution of manufacturing execution system in the cell factory
+• Production Oversight: Manage daily operations and meet production targets.
+• Quality Supervision: Implement procedures to ensure that finished products meet required specifications and industry standards.
+• Process Optimization: Continuously evaluate and improve production processes to enhance efficiency, reduce costs, and increase product quality.
+• Team Management: Supervise and coordinate with production staff
+• Safety Compliance: Ensure that all operations adhere to safety regulations and environmental standards
+• Maintenance Coordination: Oversee the maintenance and repair of equipment to minimize downtime
+• Inventory Management: Manage inventory levels of raw materials and finished products
+• Troubleshooting: Identify and resolve production issues or inefficiencies
+• Reporting and Documentation: Maintain records of production metrics, and other relevant documentation.
+Place of posting
+Accomodation details
+Mumbai/Bangalore/Jamnagar
+None
+Bond applicable
+No

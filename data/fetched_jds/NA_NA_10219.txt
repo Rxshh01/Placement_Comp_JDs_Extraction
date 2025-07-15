@@ -1,0 +1,31 @@
+Job Details
+Manufacturing Execution System (MES) Development Lead for Cell & Module Manufacturing, shall be responsible for designing, developing, and deploying MES solutions to optimize & streamline manufacturing processes. This role shall play a vital part in enhancing production efficiency, data integration, and real-time monitoring within the cell & module manufacturing environment. Previous experience in developing MES for discrete manufacturing, particularly in industries like solar, or semiconductor, pharma, automotive, is highly desirable.
+Roles & Responsibilities:
+1. Collaborate with cross-functional teams, including operations, quality, warehousing / logistics, enterprise platforms teams, to understand business requirements and identify interfaces & capabilities required for MES implementation.
+2. Design & develop MES applications and modules tailored to the specific needs of cell and module manufacturing processes.
+3. Implement data integration solutions to ensure seamless flow of information between MES, ERP, and other manufacturing systems.
+4. Develop real-time monitoring and reporting functionalities to provide actionable insights and performance metrics to stakeholders.
+5. Customize and configure MES solution to align with the manufacturing workflows and standard operating procedures (SOPs).
+6. Integrate PLCs, equipment, automation systems, robotics, and storage with MES to enhance manufacturing automation and data capture capabilities.
+7. Perform system testing, validation, and commissioning of MES applications to ensure reliability, accuracy, and adherence to quality standards.
+8. Manage system upgrades, patches, and integrations while minimizing disruptions to manufacturing operations.
+9. Provide user training and support during MES implementation and ensure smooth adoption by operations teams.
+10. Stay updated on emerging technologies and industry trends related to MES and manufacturing automation to drive continuous improvement initiatives.
+?
+Key Skills and Competencies:
+1. Strong technical proficiency in developing MES applications, including customization, configuration, and development of interfaces for integration with ERP & other systems.
+2. In-depth knowledge of discrete manufacturing processes, ideally in industries such as pharma, automotive, solar, or semiconductor.
+3. Familiarity with manufacturing automation, robotics, and equipment interfacing with MES.
+4. Experience in data integration and real-time monitoring solutions for manufacturing environments.
+5. Knowledge of industry standards and best practices related to MES design and development.
+6. Proficiency in programming languages and software development methodologies related to MES development (e.g., Java, .NET).
+7. Problem-solving skills to identify and resolve issues during MES implementation and operation.
+8. Ability to work collaboratively with cross-functional teams and adapt to a dynamic manufacturing environment.
+9. Effective communication & documentation skills to convey technical concepts and project details.
+10. Project management skills to plan and execute MES development projects within specified timelines.
+Place of posting
+Accomodation details
+Mumbai/Jamnagar/Bangalore
+None
+Bond applicable
+No

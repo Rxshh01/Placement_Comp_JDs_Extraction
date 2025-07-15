@@ -1,0 +1,45 @@
+Job Details
+The ideal candidate should have very strong C / C++ and Python programming
+skills, especially in data structures and algorithms.
+Skills and
+Qualifications
+·
+Strong C++ and Python programming
+skills
+·
+Excellent knowledge of working
+in the Linux environment is essential
+·
+Excellent knowledge of data
+structures, algorithms and design patterns
+·
+Excellent understanding of OS,
+networks, multi-threading and synchronization primitives
+·
+Profound insight of C++
+internals (Class loading, Memory Management, STL/Collections, Transaction
+management etc.)
+·
+Proficient in code versioning
+tools such as GIT, SVN etc.
+·
+Understanding of the working of
+the Equity markets / exchanges is a big plus but not essential.
+Responsibilities
+·
+Design, develop, enhance &
+maintain low latency automated electronic trading platform(s).
+·
+Understand the business
+requirements from the traders / other stakeholders and help them code their
+strategies / logic in C++
+·
+Writing fast, robust, reusable,
+testable, scalable and efficient code.
+Place of posting
+Accomodation details
+Delhi
+None
+Bond applicable
+Yes
+18 months

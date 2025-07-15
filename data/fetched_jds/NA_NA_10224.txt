@@ -1,0 +1,51 @@
+Job Details
+Job Responsibilities
+1. Understanding business objectives and developing models that help to achieve
+them, along with metrics to track their progress
+2. Managing available resources such as hardware, data, and personnel so that
+deadlines are met
+3. Analyzing the ML algorithms that could be used to solve a given problem and
+ranking them by their success probability
+4. Exploring and visualizing data to gain an understanding of it, then identifying
+differences in data distribution that could affect performance when deploying
+the model in the real world
+5. Verifying data quality, and/or ensuring it via data cleaning
+6. Supervising the data acquisition process if more data is needed
+7. Finding available datasets online that could be used for training
+8. Defining validation strategies
+9. Defining the preprocessing or feature engineering to be done on a given
+dataset
+10. Defining data augmentation pipelines
+11. Training models and tuning their hyperparameters
+12. Analyzing the errors of the model and designing strategies to overcome them
+13. Deploying models to production
+14. Knowledge and understanding of GCP Ecosystem
+Qualification
+1. BE/B.Tech/Masters in a quantitative field such as CS, EE, Information sciences,
+Statistics, Mathematics, Economics, Operations Research, or related, with focus
+on applied and foundational Machine Learning , AI , NLP and/or / data-driven
+statistical analysis & modelling
+2. 0-1 years of Experience majorly in applying AI/ML/ NLP / deep learning /
+data-driven statistical analysis & modelling solutions to multiple domains,
+including financial engineering, financial processes a plus
+3. Strong, proven programming skills and with machine learning and deep learning
+and Big data frameworks including TensorFlow, Caffe, Spark, Hadoop.
+4. Experience with writing complex programs and implementing custom
+algorithms in these and other environments
+5. Experience beyond using open source tools as-is, and writing custom code on
+top of, or in addition to, existing open source frameworks
+6. Proven capability in demonstrating successful advanced technology solutions
+(either prototypes, POCs, well-cited research publications, and/or products)
+using ML/AI/NLP/data science in one or more domains
+7. Research and implement novel machine learning and statistical approaches
+8. Experience in data management, data analytics middleware, platforms and
+infrastructure, cloud and fog computing is a plus
+9. Excellent communication skills (oral and written) to explain complex algorithms,
+solutions to stakeholders across multiple disciplines, and ability to work in a
+diverse team
+Place of posting
+Accomodation details
+Mumbai, Pune, Ahmedabad, Rajkot, Gurugram, Noida, Hyderabad, Bangalore, Coimbatore
+None
+Bond applicable
+No

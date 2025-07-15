@@ -1,0 +1,48 @@
+Job Details
+Company overview:
+Google is not a conventional company, and we don’t intend to become one. True, we share attributes
+with the world’s most successful organizations – a focus on innovation and smart business practices
+comes to mind – but even as we continue to grow, we’re committed to retaining a small-company feel.
+At Google, we know that every employee has something important to say, and that every employee is
+integral to our success. Googlers thrive in small, focused teams and high-energy environments, believe
+in the ability of technology to change the world, and are as passionate about their lives as they are about
+their work. For more information, visit www.google.com/careers.
+The areas:
+Engineering & Operations: Google is and always will be an engineering company. We hire people with a
+broad set of technical skills who are ready to tackle some of technology's greatest challenges and make
+an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they
+routinely work on massive scalability and storage solutions, large-scale applications and entirely new
+platforms for developers around the world. From AdWords to Chrome, Android to YouTube, Social to
+Local, Google engineers are changing the world one technological achievement after another.
+The role:
+Google's software engineers develop the next-generation technologies that change how millions of
+users connect, explore, and interact with information and one another. Our ambitions reach far beyond
+just Search. Our products need to handle information at the scale of the web. We're looking for ideas
+from every area of computer science, including information retrieval, artificial intelligence, natural
+language processing, distributed computing, large-scale system design, networking, security, data
+compression, and user interface design; the list goes on and is growing every day. As a software
+engineer, you work on a small team and can switch teams and projects as our fast-paced business
+grows and evolves. We need our engineers to be versatile and passionate to tackle new problems as we
+continue to push technology forward. As a key member of a small and versatile team, you design, test,
+deploy and maintain software solutions. Responsibilities:
+● Research, conceive and develop software applications to extend and improve on Google's
+product offering
+● Contribute to a wide variety of projects utilizing natural language processing, artificial
+intelligence, data compression, machine learning and search technologies
+● Collaborate on scalability issues involving access to massive amounts of data and information
+● Work with and support a productive and innovative team
+● Solve all problems that come your way
+Minimum qualifications:
+● Bachelors degree or equivalent practical experience
+● Completed projects or classes focused on data structures and algorithms
+● Ability to select and implement an algorithm, using appropriate data structures to efficiently
+solve a problem; interpreting algorithms and contributing ideas to their development
+● Experience with Unix/Linux or Windows and/or Mac environments, distributed systems, machine
+learning, information retrieval and TCP/IP
+● Experience with programming in C, C++, Java and/or Python
+Place of posting
+Accomodation details
+Bangalore, Hyderabad, Gurgaon, Pune
+None
+Bond applicable
+No

@@ -1,0 +1,38 @@
+Job Details
+Introduction
+Games24x7 is India’s leading and most valuable multi-gaming unicorn. We’re a full-stack gaming company, offering awesome game playing experiences to over 100 million players through our products - RummyCircle, India’s first and largest online rummy platform, My11Circle, the country’s fastest growing fantasy sports platform
+A pioneer in the online skill gaming industry in India, Games24x7 was founded in 2006 when two New York University trained economists Bhavin Pandya, and Trivikraman Thampy met at the computer lab and discovered their shared passion for online games. We’ve always been a technology company at heart, and over the last decade and a half, we’ve built the organisation on a strong foundation of ‘the science of gaming’, leveraging behavioural science, artificial intelligence, and machine learning to provide immersive and hyper-personalised gaming experiences to each of our players.
+Backed by marquee investors including Tiger Global Management, The Raine Group, and Malabar Investment Advisors, Games24x7 is leading the charge in India’s gaming revolution, constantly innovating and offering novel entertainment to players!
+Our 800 passionate teammates create their magic from our offices in Mumbai, Bengaluru, New Delhi, Miami, and Philadelphia.
+For more information and career opportunities you may visit
+www.games24*7.com.
+Summary of Role
+We are seeking an energetic and detail-oriented Data Analyst to join our  growing team. The successful candidate will play a crucial role ianalyzing and interpreting complex datasets, providing valuable insights to support strategic decision-making.
+Responsibilities include
+:
+Requirement Gathering & Prioritization
+: Collaborate with stakeholders to gather, manage, and prioritize diverse requirements effectively.
+Data Insights & Execution
+: Analyze player behavior, derive actionable insights, and convert them into projects while working with Product, Marketing, and Tech teams.
+Visualization & Reporting
+: Develop high-quality dashboards, reports, and BI solutions to automate reporting, reduce manual tasks, and enable data-driven decision-making.
+Coding & Data Quality
+: Write efficient code (SQL/PySpark/Python), ensure data accuracy, and maintain standards for reliability, reuse, and optimization.
+Experimentation & Problem-Solving
+: Use A/B testing and statistical techniques to draw conclusions, debug issues, and brainstorm innovative solutions.
+Job requirements
+:
+Strong knowledge of statistics, including testing ideas (hypothesis testing), analyzing trends (regression and time series analysis).
+Familiar with Large Language Models (LLMs) and natural language processing (NLP) techniques.
+Excellent logical thinking, problem-solving, and attention to detail.
+Good at explaining complex technical ideas in simple ways to non-technical people.
+Basic knowledge of programming languages like Python, R, and SQL.
+Familiarity with data warehousing and handling large datasets.
+Location:
+Bangalore
+Place of posting
+Accomodation details
+Bangalore
+Temporary
+Bond applicable
+No

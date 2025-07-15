@@ -1,0 +1,132 @@
+Job Details
+About Micron:
+Over 40 years, Micron’s
+memory and storage solutions have been foundational to innovations that have
+transformed the world in countless ways. Our technology and expertise are core
+to computers that boot up in an instant and work harder and faster; mobile
+phones with brilliant screen resolution and longer battery life; and new
+business models that are disrupting entire industries faster than ever — such
+as entertainment, manufacturing, and finance. As a global leader in memory and
+storage solutions, we are transforming how the world uses information to enrich
+life by enabling technologies to collect, store and manage data with
+unprecedented speed and efficiency.
+Culture at Micron:
+From a four-person semiconductor
+design company in the basement of a Boise, Idaho, dental office in 1978 to a
+global, multicultural organization — advocating for social justice and striving
+to tip the scales toward a more equitable and sustainable world, Micron’s
+culture is what drives its innovation and market leadership.  Our diversity, equality and inclusion (DEI)
+programs are globally recognized and locally designed. Likewise, we also offer
+a diverse set of learning options — from self-directed, winding pathways of
+knowledge to rigorous academic sprints. We nurture a culture that is fair,
+fearless and fun that works to enhance personal and professional development at
+every level.
+About profile – Global AT-PDE
+Do you believe that data provides groundbreaking insight? Do you see data as an asset that builds a competitive advantage? Do you accept the challenges of working with in-memory technologies to construct and deploy data assets delivering insights for business value? Great…so do we!
+Micron Technology operates in a
+highly competitive industry where innovation depends on forward-thinking minds
+extracting fresh insights from an ever-expanding data universe. We operate in a
+diverse, collaborative space where problem solving is a team sport and creative
+solutions are recognized and rewarded. Does this sound like the right team for
+you? Good news. We’re hiring!
+As the leader in innovative memory
+solutions, Micron is helping the world make sense of data by delivering
+technology that is redefining how the world uses information. Through our
+global brands — Micron, Crucial and Ballistix — we offer the industry’s broadest
+portfolio. We are the only company manufacturing today’s major memory and
+storage technologies: DRAM, NAND, and
+NOR . Our
+solutions are purpose built to leverage the value of data to unlock financial
+insights, accelerate scientific breakthroughs and improve communication around
+the world.
+Job Description:
+To conduct detailed Thermal, Mechanical
+simulations using state-of-the-art software tools. This job involves conducting
+feasibility study & technical risk assessment to identify potential areas
+for improvement and innovation in new product launches. Perform process
+simulations and digital twins for backend manufacturing processes. This
+position also involves performing model correlation & validation with
+empirical data and refine existing modeling methodology for prediction accuracy
+enhancement.  The team develops validated
+simulation methodologies and Digital Twins to help in cycle time reduction and
+quality/yield improvements.
+Roles
+& responsibilities can include but are not limited to:
+·
+Solid knowledge through coursework,
+or experience in solid mechanics, structural dynamics, finite element methods
+or
+·
+A strong background in mechanical and thermal sciences with
+emphasis on both analytical and measurement methods.
+·
+Partner with process engineering teams to understand the
+packaging process, develop analysis models.
+.       Guide test vehicle development to improve simulation correlation to empirical data.
+·
+Develop test plan wherever necessary to verify the
+simulation models and validate analysis approach in correlation with test
+outcomes.
+·
+Participates in development of
+simulation modeling methodologies in Structural, Thermal, Thermo-Structural and
+Multiphysics domain.
+·
+Deploys developed simulation
+methodologies to strengthen “Analysis First” strategy and develop Digital
+Twins.
+·
+Communicate FEA analysis results and
+provide technical and/or design recommendations.
+·
+Ability to draw free body diagrams
+and perform hand calculations.
+·
+Experience or knowledge through
+coursework on modeling non linearities, material properties and material
+property test methods
+·
+Hands on experience of software
+tools such as ANSYS (APDL Scripting & Workbench), Abaqus, COMSOL and
+Simcenter.
+·
+A good understanding of
+semiconductor packaging processes and materials and technology and trends such
+as PCB design and manufacturing, molding, wire-bonding, die attach, etc.
+·
+A good understanding of
+semiconductor package and SSD system reliability and defects; solder-joint
+reliability, warpage, etc.
+·
+Strong oral and written
+communication skills.
+Education Requirement &
+eligibility:
+·
+M.Tech
+in Mechanical Engg/ Aerospace Engg / Applied Mechanics
+.       CGPA requirements = 7.0 CGPA & Above
+·
+Location:
+Hyderabad
+Micron by Numbers:
+·
+$25.11B FY24 annual revenue
+·
+264 on the 2024 Fortune 500
+·
+57,000 patents granted and growing
+·
+Operations in 18 countries
+·
+11 manufacturing sites and 12 customer labs
+·
+21 design center locations
+·
+~ 48,000 team members
+Place of posting
+Accomodation details
+Hyderabad
+Temporary
+Bond applicable
+No

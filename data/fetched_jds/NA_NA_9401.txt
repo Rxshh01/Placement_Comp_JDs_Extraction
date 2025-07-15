@@ -1,0 +1,40 @@
+Job Details
+We are seeking a Performance Architecture Engineer for Workload Analysis, Correlation, and Performance Modeling work.
+This position requires a candidate with knowledge and interest in techniques and methodologies for workload analysis and characterization, performance modeling, and performance correlation between models and RTL implementations. The candidate will contribute to the MIPS high-performance designs providing learnings from detailed analysis of workloads running on MIPS RISC-V ISA based designs in simulation, emulation, and/or silicon environments.
+You will:
+Build and run workloads on various platforms and develop workflows for workload analysis and correlation.
+Use tools like performance and functional models to aid with workload analysis and develop flows for scaling workload analysis.
+Deep-dive performance discrepancies between the C++ cycle-approximate models and RTL simulation results, to find sources of miscorrelation, and work with modelers and designers to improve both implementations.
+Develop performance-centric tests using C/C++ or assembly for finding opportunities for performance improvements.
+Develop tools and flows to scale out correlation work and automate detection of performance regressions.
+Contribute to development of performance models written in C++.
+Use and enhance instruction trace generation and workload reduction (e.g. SimPoint) methods.
+Develop new tools to find patterns in the workloads that can be used to improve performance and efficiency with hardware and/or software changes.
+Ideally, you have:
+B.Tech/M.Tech/MS degree in Electrical or Computer Engineering
+Hands-on experience building, running, and analyzing workloads/benchmarks.
+Hands-on experience developing and improving workload analysis tools and flows.
+Hands-on experience setting up and improving automation frameworks.
+Have worked with tools like QEMU, Spike, or similar functional models.
+Experience with processor architecture concepts.
+Written performance models for characterizing performance.
+Experience in writing performance-centric tests using C/C++ or assembly.
+Experience deploying workloads running under Linux on emulation and/or silicon platforms.
+A plus if you have:
+Experience with RISC-V and/or MIPS CPU architecture
+A background in performance analysis
+Familiarity with the Sparta Modeling Framework, STF tracing tools and libraries, System-C, or similar C++ frameworks
+Linux Kernel experience
+Compiler toolchain experience
+Here’s what you can expect from us:
+At MIPS, you’ll be a member of a fast-growing team of technologists that are creating the industry’s highest performance RISC-V processors.  Small teams that are part of a non-compartmentalized structure – you’ll be able to understand and have an impact on the bigger picture. A great deal of autonomy, with support from some of the industry’s most experienced CPU engineers. An unlimited growth path – with the right skills, you can decide where you want to expand and grow in your role at MIPS. The opportunity to learn a great deal about the blossoming RISC-V architecture in cutting edge applications with industry leading customers.
+At MIPS we provide meaningful benefits programs and products to our associates and their families. MIPS offers a competitive benefits package that includes medical, dental, vision, retirement savings, and paid leave!
+More about us:
+MIPS is well-known as a microprocessor pioneer, having led the way in RISC-based computing to enable faster and more power efficient semiconductors for a wide range of applications from consumer electronics to networking and communications. More than 30 years after the introduction of the original MIPS RISC architecture, MIPS processors have shipped into billions of consumer and enterprise products.
+Today, MIPS is once again leading a RISC revolution as we build on our deep roots to accelerate the RISC-V architecture for high-performance applications. We are focused on delivering our first RISC-V products: the MIPS eVocore processors, which provide a new level of scalability for high-performance heterogeneous computing. Because of our RISC heritage, deep engineering expertise, and proven technologies, MIPS can accelerate development and deployment of RISC-V based solutions.
+Place of posting
+Accomodation details
+Bangalore
+Temporary
+Bond applicable
+No

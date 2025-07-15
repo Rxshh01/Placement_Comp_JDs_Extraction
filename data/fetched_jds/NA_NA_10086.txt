@@ -1,0 +1,48 @@
+Job Details
+Role 11- Machine Learning/Deep Learning General AI (GenAI)
+Job Summary:
+We are seeking
+an experienced Machine Learning/Deep Learning General AI (GenAI) to join our
+team and drive the development of cutting-edge AI solutions. As a GenAI
+developer, you will be responsible for the design, development, and deployment
+of scalable and efficient AI models using machine learning and deep learning
+techniques. You will work closely with cross-functional teams to ensure the
+successful delivery of GenAI-powered projects.
+Essential Skills:
+·
+GenAI Strategy: Develop and implement a
+GenAI strategy that aligns with business objectives and drives innovation.
+·
+Machine Learning/Deep Learning Development:
+Design, develop, and deploy machine learning and deep learning models using
+various techniques such as supervised, unsupervised, and reinforcement
+learning.
+·
+Collaborate with Cross-Functional Teams: Work
+closely with data scientists, DevOps engineers, and QA engineers to ensure
+seamless integration of GenAI models into larger systems.
+·
+Staying Up to Date with Industry Trends: Keep up
+to date with the latest developments in machine learning, deep learning, and
+GenAI, applying this knowledge to drive innovation and improvement.
+·
+Evaluate and Implement Emerging Technologies:
+Evaluate and implement emerging technologies such as transformer-based models,
+graph neural networks, and other advanced techniques to stay ahead of the
+competition.
+Soft Skills:
+·
+Problem-Solving: Efficiently resolve
+technical issues.
+·
+Communication: Strong verbal and written
+communication skills.
+·
+Continuous Learning: Passion for learning new
+technologies and frameworks.
+Place of posting
+Accomodation details
+Pune, Bangalore, Kochi
+None
+Bond applicable
+No

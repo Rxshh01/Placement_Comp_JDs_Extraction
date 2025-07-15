@@ -1,0 +1,38 @@
+Job Details
+Overview - Shaadi is the world’s #1 social networking site specialized in matchmaking. We currently are a team of 100+
+engineers headquartered in South Mumbai. We are proud that more than 6 million people found their love for life, through
+us. Our daily work is around solving challenging and exciting problems against high engineering standards.
+Shaadi.com has been running as a product for more than two decades, with a lot of legacy code.
+Currently, we are
+refactoring/rewriting and migrating some of these to the upcoming tech stack.
+- Event-driven Architecture
+- Product and Payment service
+- Profile Search service
+- Containerizing the entire infra
+- SEO pages
+- Crons (more than 1000 crons)
+- Tracking
+If learning is what you aspire for, you must know that you will be learning a lot about full-stack development. We are
+currently building a kick-ass team of engineers who are self-starters, display the highest levels of ownership, take pride in
+their jobs and have each other’s back.
+At Shaadi, you would be meeting people who will help you learn and grow – personally and professionally. Lastly, we hope
+you are a person who loves programming as much as we do & has fun while doing it.
+We will be training you on :
+- Basics of large-scale distributed architecture
+- Node.js, JavaScript and Golang
+- Frontend technologies like HTML, CSS, SASS, React.js, Redux
+What you will be doing in this role :
+-Developing a modern user interface with dynamic content
+- Integrating backend API’s on the frontend
+- Implementing techniques like Server-side rendering for Single Page Application
+- Creating lightweight AMP web pages for SEO
+- Implementing authentication and authorization on the frontend
+- Handling deployment on Amazon Web Services using Continuous Integration and Deployment
+- Working with version control tools like Git
+- Working with Application Performance Monitoring tools like Datadog, Rollbar, etc.
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+No

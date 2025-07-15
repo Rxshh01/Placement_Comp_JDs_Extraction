@@ -1,0 +1,122 @@
+Job Details
+【
+Technology
+Field
+】
+System Software,
+Software Engineering
+【
+Position Summary
+】
+We at Sony have endeavored to not only create
+groundbreaking products, but also change lifestyles by applying our
+cutting-edge technologies to movies, music, games, and electronics. Today, we
+are tackling new challenges in the realm of robotics and mobility. As such, we
+are seeking exceptional and passionate individuals who are ready to captivate
+hearts and minds through their contributions to the development of our diverse
+range of products, content, and services.
+Within Sony R&D, we foster innovation across a broad spectrum, developing
+products and services not only for electronic devices, but also for application
+to other areas such as entertainment and finance. Our R&D Software
+Engineers therefore regularly produce deliverables that reach a wide range of
+customers worldwide.
+As an Embedded Linux Software Engineer, you will develop in-house Linux OS
+through the integration of proprietary technologies, while maximizing the use
+of open source software. It is likely that your output will ultimately be
+integrated into a variety of products, such as our cameras, medical devices,
+and robotics. As a team, we cover multiple components, including bootloader,
+Linux kernel, userland, and toolchain/development environments. Finally, also
+note that some of our achievements and advancements are shared throughout the
+OSS community.
+【
+Responsibilities
+】
+■
+Work on a team aimed at developing system software for
+commercial electronic devices, robotics and mobility products, through design,
+implementation, optimization, technical support, and analysis.
+*Note: System software includes Linux
+kernel, device drivers, application runtimes, containers, sensor/media
+processing frameworks, security, etc.
+■
+Be responsible for multiple technological areas.
+■
+Development, integration, and provision of in-house
+Linux distribution.
+■
+Improvement and operation of software development
+flows through the use of DevOps, CI, auto test, etc.
+■
+Development and provision of cross-software
+development environments for embedded platforms.
+■
+Active contribution to the open source software
+community.
+【
+Required qualifications
+】
+■
+Bachelor`s Degree (graduated or currently pursuing) in
+computer science or related technical field, OR equivalent practical
+experience.
+■
+3 years of experience with general purpose
+programming languages such as C/C++.
+■
+1 year of experience with Linux OS
+【
+Preferred qualifications
+】
+■
+Experience with one or more general purpose script
+languages including, but not limited to, shell and Python.
+■
+Experience with BSP porting of Linux kernels,
+performance tuning (throughput on the order of <100 microseconds of
+latency), low-level software debugging caused by issues with HW errata, cache
+coherency issues, memory corruption, etc.
+■
+Expertise with virtualization, containers, and other
+computer systems/software.
+■
+1 year of experience with Linux OS especially Linux
+kernel or device driver development.
+■
+Knowledge, experience, and interest in the
+acceleration and optimization of OSS (such as Linux kernel and ROS).
+■
+Willingness to incorporate, combine, and customize
+leading-edge software technologies to develop novel technologies and
+applications.
+■
+Interest in the process of incorporating new
+technologies into commercial products (including various SCM/CI tools such as
+Git, Jenkins, and GitLab).
+■
+Willingness to learn Japanese.
+■
+Willingness to quickly learn and adapt to new
+technologies and market trends.
+【
+Product, Service
+】
+Alpha Digital Cameras, Vlog and compact camera,
+camcorders, professional cameras, security cameras, projectors, medical
+equipment, robotics and mobility.
+【
+Development Environment
+】
+Embedded Board (target board): Linux on x86_64, ARMv7 and
+ARMv8 architectures
+Host: Linux on PC
+Place of posting
+Accomodation details
+Tokyo, Japan
+Temporary
+Bond applicable
+No
+
+
+
+
+

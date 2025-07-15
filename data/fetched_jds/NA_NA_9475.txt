@@ -1,0 +1,38 @@
+Job Details
+Data Scientist
+About Credit Saison India
+Established in 2019, CS India is one of the country’s fastest growing Non-Bank Financial Company (NBFC) lenders, with verticals in wholesale, direct lending and tech-enabled partnerships with Non-Bank Financial Companies (NBFCs) and fintechs. Its tech-enabled model coupled with underwriting capability facilitates lending at scale, meeting India’s huge gap for credit, especially with underserved and under penetrated segments of the population.
+Credit Saison India is committed to growing as a lender and evolving its offerings in India for the long-term for MSMEs, households, individuals and more. CS India is registered with the Reserve Bank of India (RBI) and has an AAA rating from CRISIL (a subsidiary of S&P Global) and CARE Ratings.
+Currently, CS India has a branch network of 45 physical offices, 1.2 million active loans, an AUM of over US$1.5B and an employee base of about 1,000 people.
+Credit Saison India (CS India) is part of Saison International, a global financial company with a mission to bring people, partners and technology together, creating resilient and innovative financial solutions for positive impact.
+Across its business arms of lending and corporate venture capital, Saison International is committed to being a transformative partner in creating opportunities and enabling the dreams of people.
+Based in Singapore, over 1,000 employees work across Saison’s global operations spanning Singapore, India, Indonesia, Thailand, Vietnam, Mexico, Brazil.
+Saison International is the international headquarters (IHQ) of Credit Saison Company Limited, founded in 1951 and one of Japan’s largest lending conglomerates with over 70 years of history and listed on the Tokyo Stock Exchange. The Company has evolved from a credit-card issuer to a diversified financial services provider across payments, leasing, finance, real estate and entertainment.
+Roles & Responsibilities:
+Work with stakeholders throughout the organisation to identify opportunities for leveraging internal/external data to drive business solutions.
+Mine and analyse data from company databases to drive optimization and improvement of product.
+Work as the data strategist, identifying and integrating new datasets that can be leveraged through our product capabilities and work closely with the engineering team to strategize and execute the development of data products
+.
+Enhance data collection procedures. Processing, cleansing, and verifying the integrity of data used for analysis.
+Run data exploration to understand relationships and patterns within the data, develop data visualization to represent the relationships identified from data exploration.
+Data mining using state-of-the-art methods. Selecting features, building and optimizing classifiers using machine learning techniques.
+Refine and deepen understanding of the algorithmic and inferential aspects of statistical analysis. Evaluate new algorithms from latest research and develop intuition about the problems for which they are likely to improve the state of the practice.
+Build training pipelines for the production environment. Develop and execute on a plan for continuous iteration and refinement of a new model.
+Provide inputs for design, quality assurance parameters and support implementation for the model in an online environment.
+Lead debugging of data pipelines and model behavior in production environment. Develop dashboards to enable easy tracking and communication of model impact.
+Required skills & Qualifications:
+Bachelor's degree in Computer Science, Engineering or related field from top tier (IIT/IIIT/NIT/BITS)
+Strong problem solving skills with an emphasis on product development.
+Excellent written and verbal communication skills for coordinating across teams.
+Good applied statistics skills such as distributions, statistical testing, regression.
+Good scripting and programming skills in Python and SQL.
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, artificial neural networks and their real-world advantages or drawbacks. Knowledge of deep learning techniques is a plus.
+Experience with common data science toolkits such as R, NumPy, MatLab, Pandas, Scikit-learn, TensorFlow, Keras etc.
+Experience with NoSQL databases such as MongoDB, Cassandra, HBase is desired.
+Experience with distributed data/computing tools like Map/Reduce, Hadoop, Hive, Spark is a big plus.
+Place of posting
+Accomodation details
+Bangalore
+None
+Bond applicable
+No

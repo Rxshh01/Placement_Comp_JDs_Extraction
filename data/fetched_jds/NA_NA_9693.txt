@@ -1,0 +1,158 @@
+Job Details
+About Micron:
+We are an industry
+leader in innovative memory and storage solutions transforming how the world
+uses information to enrich life for all. With a relentless focus on our
+customers, technology leadership, and manufacturing and operational excellence,
+Micron delivers a rich portfolio of high-performance DRAM, NAND and NOR memory
+and storage products through our Micron® and Crucial® brands. At Micron India,
+you will be a part of one of the fastest ramps in Indian semiconductor history.
+We are ranked among Top 50 organizations for India's Best Workplaces in
+Manufacturing 2024 rankings by Great Place to Work Institute. In about five
+years, we have built an operations footprint with 20 centres of excellence and
+grown to over 3500 team members. We nurture a culture that is fair, fearless
+and fun that works to enhance personal and professional development at every
+level.
+Culture and Values at Micron:
+As a leader in memory
+solutions our team members, partners, customers, and leadership work closely
+together to deliver — setting a high bar for ourselves and our industry. We
+believe transformation always starts within and our core values are driven by the
+following 5 pillars, namely:
+·
+People -
+We care about each other.
+·
+Innovation
+- We develop solutions that shape the world's future.
+·
+Tenacity
+- Nothing shakes our resolve.
+·
+Collaboration
+- We work as one team.
+·
+Customer
+Focus - We win by knowing our customers
+About profile – Device Development, Technology Development Engineer
+Be a part of highly challenging
+and fulfilling team involved in various aspects of Device Technology.  Will be an opportunity to apply process &
+device expertise during technology development to enable best in class devices
+in the advanced DRAM and NAND memory technology nodes
+Roles & responsibilities can
+include but are not limited to:
+Be involved in one or more aspects of CMOS device development, modeling
+and characterization used in the next generation NAND and DRAM technologies:
+·
+CMOS
+device architecture development and optimization
+·
+Develop
+tcad models that predict the behavior of semiconductor devices.
+·
+Characterizing
+advanced test structures in the in-house state of the art lab
+·
+Interpret
+measurements (electrical characterizations, param, probe data)
+·
+Characterization
+of next generation NAND arrays
+·
+Study,
+measure and qualify reliability of devices
+·
+Build and
+validate compact models for the advanced CMOS devices
+·
+ESD and
+Latchup protection device and rules development and validation
+·
+Design
+enablement of the different device technology components as applied to product
+design
+·
+Be an
+integral part of global device technology development.
+Must have Expertise :
+·
+Strong
+conceptual and applied knowledge of semiconductor and mos device physics
+·
+Exposure
+to one or more of the following:
+Ø
+TCAD modeling
+(validation with silicon will be examined)
+Ø
+Device
+characterization
+Ø
+Reliability
+characterization and/or modeling
+Ø
+ESD
+device and design development
+Strongly Preferred:
+·
+Programming
+skills (scripting, python, c, c++, etc)
+·
+AI/ML
+approaches to physics problems solving
+·
+Exposure
+to DRAM or NAND memories
+Personality traits that will be a strong
+expectation as a part of all the job profiles :
+·
+Team
+player with a strong sense of collaboration
+·
+A strong
+sense of urgency in completing assignments
+·
+Approach
+assignments and problems with creative thinking and tenacity leading to novel
+solutions
+·
+Ability
+to communicate clearly - both written and oral
+·
+Communicate
+key information via presentations and group discussion and influence informed
+decisions through management and peers locally and globally.
+·
+Demonstrate
+a strong work ethic with integrity and be highly motivated by the domain
+Education Requirement & eligibility:
+·
+M.Tech/ M.E/
+MS/ PhD: Electronics
+·
+CGPA requirements = 7.0 CGPA & Above
+Location:
+Hyderabad/
+Bangalore
+Micron by Numbers:
+·
+$25.11B FY24 annual revenue
+·
+264 on the 2024 Fortune 500
+·
+57,000 patents granted and growing
+·
+Operations in 18 countries
+·
+11 manufacturing sites and 12 customer
+labs
+·
+21 design center locations
+·
+~ 48,000 team members
+Place of posting
+Accomodation details
+Hyderabad
+Temporary
+Bond applicable
+No

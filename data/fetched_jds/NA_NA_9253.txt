@@ -1,0 +1,29 @@
+Job Details
+Quadric is building a full-stack system that is designed to meet the requirements of next-generation edge & edge-cloud computing products. In order to leverage the tsunami of data generated at the Edge, the next generation of computing innovation is happening outside the data center. Quadric has created a solution that is specifically optimized not only for Artificial Intelligence (AI) workloads, but also for Image Processing, Data Analytics, and more.
+If making an impact and having a seat at the table is important to you, this is the opportunity for you. Join our small, rapidly-growing team at Quadric to develop supercomputer technology designed for the Edge. In this position, you will be a core member of our team, and will have an opportunity to grow in the company of expert technologists who also happen to be good people you’ll want to spend time with.
+What We Value:
+Integrity, Humility, Happiness
+What We Expect:
+Initiative, Collaboration, Completion
+Role:
+As a member of our Compiler team, you will be tasked with implementing support for new processor architecture features as well as optimizing the performance of code running on the Quadric processor. You will collaborate with other teams within Quadric and external customers to enable best-in-class compiler tools.
+Responsibilities:
+Enhance the development of Quadric’s compiler toolchain
+Collaborate with the hardware design team to co-optimize compiler strategy with hardware architecture
+Build custom front-end and back-end optimizers
+Requirements:
+BS in Computer Science or related field with background in compiler technology. MS or PhD preferred.
+Proficiency in C++ > 11
+Strong background in graphs and related algorithms
+Nice to haves:
+Experience in compiler strategies for data parallel processors such as GPUs, DSPs
+Exposure to LLVM, GCC or production compiler codebase
+Knowledge of end-to-end toolchain, including compilers, linkers & debuggers
+Founded in 2016 and based in downtown Burlingame, California, Quadric is building the world’s first supercomputer designed for the real-time needs of edge devices. Quadric aims to empower developers in every industry with superpowers to create tomorrow’s technology, today. The company was co-founded by technologists from MIT and Carnegie Mellon, who were previously the technical co-founders of the Bitcoin computing company 21.
+Quadric is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, religion, sex, national origin, sexual orientation, age, citizenship, marital status, or disability.
+Place of posting
+Accomodation details
+Pune
+Temporary
+Bond applicable
+No

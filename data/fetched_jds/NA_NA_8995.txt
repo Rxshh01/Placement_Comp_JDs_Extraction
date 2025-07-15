@@ -1,0 +1,49 @@
+Job Details
+Job Title:
+SDE 1
+Location:
+Bangalore
+Job Title: Software Engineer - Application Performance
+Location:
+Bangalore
+Company:
+OLA- Consumer Business
+Job Summary:
+As an entry-level Software Engineer in the Application Performance team, you will be responsible for analyzing, optimizing, and enhancing the performance of our software applications. You will work closely with cross-functional teams to identify bottlenecks, develop solutions, and ensure our applications run efficiently at scale.
+Key Responsibilities:
+Performance Analysis:
+Monitor and analyze application performance metrics to identify potential issues and areas for improvement.
+Optimization:
+Implement performance enhancements by optimizing code, algorithms, and system configurations.
+Troubleshooting:
+Debug performance issues, resolve bottlenecks, and collaborate with development teams to implement fixes.
+Testing:
+Develop and execute performance test cases to validate the effectiveness of optimizations.
+Code Review:
+Participate in code reviews to ensure that performance best practices are followed during the development process.
+Documentation:
+Maintain comprehensive documentation of performance metrics, findings, and optimizations.
+Collaboration:
+Work with cross-functional teams, including software developers, QA engineers, and system administrators, to ensure optimal application performance.
+Qualifications:
+Education:
+Bachelor’s degree in Computer Science, Software Engineering, or a related field.
+Skills:
+Proficiency in programming languages such as Java, C++, or Python.
+Understanding of performance profiling tools and techniques.
+Familiarity with database performance tuning, network optimization, and memory management.
+Strong problem-solving and analytical skills.
+Excellent communication and teamwork abilities.
+Experience:
+Internship or coursework in software performance, system optimization, or related areas is preferred but not required.
+What We Offer:
+A collaborative and innovative work environment.
+Opportunities for professional growth and development.
+Exposure to challenging projects with real-world impact.
+Competitive salary and benefits package.
+Place of posting
+Accomodation details
+Bangalore
+Temporary
+Bond applicable
+No

@@ -1,0 +1,108 @@
+Job Details
+The AI &
+Computational Sciences (AICS)
+is the dedicated AI team at Novartis Biomedical Research (BR)
+whose mission is to apply AI to accelerate discoveries of transformative
+medicines for patients worldwide.
+AICS is seeking a highly motivated junior
+level AI engineers and researchers to help us in the transformation. At AICS,
+you will take on a hands-on a role at the intersection of AI, computer science,
+and biological and chemical sciences using extensive internal and external data
+for realistic applications. You will have the opportunity to be a part of the
+next wave of disease understanding and drug discovery, combining insights from
+a wealth of data modalities including diverse omics types like genomics,
+transcriptomics (such as single-cell RNA sequence data), proteomics, compound
+structures, compound activity, protein structures, measurements from cellular
+experiments and safety studies, histopathology, clinical imaging, and clinical
+readouts. You will be a part of a unique organization made up of accomplished
+scientists who are at the forefront of various AI disciplines and will benefit
+from on-the-job learning where there are gaps. We are primarily hiring three
+focus areas: NLP and Generative AI, Image processing, and application of AI to
+design of biologics.
+Your Responsibilities:
+-
+Hands-on role developing and implementing
+innovative AI methods (use of an AI model on a specific dataset for a specific
+purpose) under supervision as well as independently to deliver on highly
+visible projects
+-
+Advanced development skills in Python and the
+ability to understand and internalizing AI models from published papers and
+repositories
+-
+Train, test, and evaluate AI models on realistic
+internal and external data, and present results in an organized manner for team
+evaluation and input
+-
+Develop and deliver various biological and
+chemical insights and outcomes from applying AI models for broader
+communication
+-
+Stay up to date in the latest developments of
+the AI methodology and novel evolving AI methods through self-learning and
+using on-the-job opportunities
+-
+Understand and manage run time requirements of
+AI models, visualizations, and cloud-based computation to increase efficiency and
+quality of AI approaches
+-
+Develop new AI models from scratch using
+TensorFlow or PyTorch, understanding and modifying learning objectives and
+training methods of the models
+What you will bring to the role:
+-
+Extensive classroom learning as well as
+on-the-job, hands-on experience of advanced AI models, selecting and applying suitable
+AI models for a given purpose.
+-
+Experience with AI is expected not just at the
+level of running the code but deep understanding models, their purpose, and the
+ability to interpret functioning of a model on given data
+-
+Demonstrable deep experience in one or more of
+specific AI focus areas we are hiring: NLP and Generative Models (LLMs), Image
+Processing, and/or application to Biologics design, as related to problems and
+data in life sciences and drug discovery
+-
+Strong skills in Python, relevant Deep Learning
+frameworks such Transformers, advanced AI model training methods
+-
+Experience with high performance computing
+systems and cloud-based services involving large and diverse biomedical data
+-
+Running AI model using GPU is a must and the
+ability to scale a model to multi-GPUs is big plus
+-
+Strong communication skills to explain technical
+details, decisions, consequences, and results to senior researchers and non-data
+science communities
+-
+Deep understanding of biological and chemical datasets,
+knowledge repositories in the areas such Gene Ontology
+-
+A humble and curious mind that can continuously
+learn while recognizing and applying internal resources to the overall vision
+and purpose of the team
+Minimum Requirements:
+-
+Bachelor’s degree (master’s or PhD is desirable)
+in a computational field including, but not limited to: Computer Science,
+Applied Mathematics, Computational Biology/Chemistry, Engineering, Statistics, and
+Physics
+-
+1 - 3 years of deep, hands-on experience working
+on AI projects and either clear evidence of significant projects personally
+developed and delivered and/or publication track record
+-
+1 - 3 years of experience in working with large
+scale, realistic data sets and analyzing results towards specific
+business/scientific outcomes
+-
+Experience in pharma, biotech, or healthcare is a
+big plus but strong tech background with the willingness to adapt to pharma
+Place of posting
+Accomodation details
+Hyderabad
+Temporary
+Bond applicable
+No

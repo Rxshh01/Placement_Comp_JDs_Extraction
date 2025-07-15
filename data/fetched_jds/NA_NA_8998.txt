@@ -1,0 +1,31 @@
+Job Details
+Experience in developing AI
+solutions using Azure AI services.
+Proficiency in programming languages
+such as Python, R, or C#.
+Strong understanding of machine
+learning algorithms and techniques.
+Experience with Azure services
+including Azure ML, Azure Cognitive Services, , and Azure Functions and other
+Azure services .
+Excellent problem-solving skills and
+attention to detail.
+Strong communication and
+collaboration skills.
+Worked on generative AI model
+encompassing text, image, video. " Prior experience in developing AI
+models, analyzing data, collaborating with cross functional teams required.
+Leading the development and
+implementation of AI-driven solutions, managing the entire AI project
+lifecycle, including data collection, model training, deployment, and
+monitoring.
+Experience in integration of AI
+solutions into business processes.
+Experience in Azure, including
+proficiency in .NET, C#, OR Python
+Place of posting
+Accomodation details
+pune/Hybrid
+None
+Bond applicable
+No

@@ -1,0 +1,109 @@
+Job Details
+About Micron:
+Over
+40 years, Micron’s memory and storage solutions have been foundational to
+innovations that have transformed the world in countless ways. Our technology
+and expertise are core to computers that boot up in an instant and work harder
+and faster; mobile phones with brilliant screen resolution and longer battery
+life; and new business models that are disrupting entire industries faster than
+ever — such as entertainment, manufacturing, and finance. As a global leader in
+memory and storage solutions, we are transforming how the world uses
+information to enrich life by enabling technologies to collect, store and
+manage data with unprecedented speed and efficiency.
+Culture of Micron:
+From
+a four-person semiconductor design company in the basement of a Boise, Idaho,
+dental office in 1978 to a global, multicultural organization — advocating for
+social justice and striving to tip the scales toward a more equitable and
+sustainable world, Micron’s culture is what drives its innovation and market
+leadership.  Our diversity, equality and
+inclusion (DEI) programs are globally recognized and locally designed.
+Likewise, we also offer a diverse set of learning options — from self-directed,
+winding pathways of knowledge to rigorous academic sprints. We nurture a
+culture that is fair, fearless and fun that works to enhance personal and
+professional development at every level.
+About profile – Global AT-PDE (GDSS)
+Do you believe that data provides groundbreaking insight? Do you see data as an asset that builds a competitive advantage? Do you accept the challenges of working with in-memory technologies to construct and deploy data assets delivering insights for business value? Great…so do we!
+Micron Technology operates in a highly competitive industry
+where innovation depends on forward-thinking minds extracting fresh insights
+from an ever-expanding data universe. We operate in a diverse, collaborative
+space where problem solving is a team sport and creative solutions are
+recognized and rewarded. Does this sound like the right team for you? Good
+news. We’re hiring!
+As the leader in innovative memory solutions, Micron is
+helping the world make sense of data by delivering technology that is
+redefining how the world uses information. Through our global brands — Micron,
+Crucial and Ballistix — we offer the industry’s broadest portfolio. We are the
+only company manufacturing today’s major memory and storage technologies: DRAM, NAND, and NOR. Our solutions are purpose built to
+leverage the value of data to unlock financial insights, accelerate scientific
+breakthroughs and improve communication around the world.
+Job Description:
+This role is for a Package design Engineer within Package
+Development Engineering (PDE) team.
+You will be involved with the design of package
+design/substrate layout for cutting edge mobile, consumer, and high-performance
+applications. You will be tasked with the layout and design of effective
+package layouts that meet outstanding technical standards. You will own and
+drive advanced package design and layout in a timely manner – and have ultimate
+responsibility for package/SIP layout, optimization, layout verification and
+taping out
+. The team develops package and substate designs and helps
+in cycle time reduction and quality/yield improvements.
+Roles
+& responsibilities can include but are not limited to:
+·
+Responsible the package design integration
+activities by working with cross-functional team and partners for package
+technology development, including material development, process development,
+DOEs, and related activities.
+·
+Work with a cross-functional team across
+several geographies to create package design databases such as package
+stack-up, wire-bond fanout, route-study, substrate layout, wire bond/Die
+placement diagrams, and other design documentation.
+·
+Work with Substrate and PCB (Printed Circuit
+Board) suppliers, OSATs (Outsourced Semiconductor Assembly and Test), and other
+ecosystem partners to meet their requirements in Design for manufacturing
+(DFM)/ Design for Assembly (DFA)
+·
+Design complex package layout keeping in mind
+signal integrity, power integrity, thermal and mechanical requirements.
+·
+Contributing to cross group communication to work
+towards standardization and group success.
+·
+Strong oral and written communication skills
+.
+Preferred
+Qualifications:
+.
+Experience in electrical and physical design of high-speed interface systems in packages is a plus
+·
+Experience in electrical
+modeling, mechanical simulation and characterization of high-speed serial
+interface interconnects
+·
+Experience using 2D and
+3D CAD tools, Ansys and other mechanical engineering tools is a plus.
+Micron by Numbers:
+·
+$25.11B FY24 annual revenue
+·
+264 on the 2024 Fortune 500
+·
+57,000 patents granted and growing
+·
+Operations in 18 countries
+·
+11 manufacturing sites and 12 customer labs
+·
+21 design center locations
+·
+~ 48,000 team members
+Place of posting
+Accomodation details
+Hyderabad
+Temporary
+Bond applicable
+No

@@ -1,0 +1,23 @@
+Job Details
+Bachelor's/Master's degree in Electronics/Electrical Engineering. Specialization in VLSI/Micro-electronics is preferred.
+Strong fundamentals on Analog, Analog Mixed Signal design techniques and circuit architecture
+Exposure to Serdes, DDR, HBM technologies
+Should have knowledge on all aspects of Mixed Signal IP design.
+Hands-on experience on block,level circuit design.
+Excellent communication and interpersonal skills, demonstrate teamwork and collaboration skills.
+1+ years of Analog Mixed Signal design experience
+Sound knowledge on AMS design techniques and circuit architecture
+Strong experience on high-speed circuits like Tx, Rx, CTLE, Amplifiers, Samplers
+Exposure to Serdes, DDR, HBM technologies
+Should have knowledge on all aspects of Mixed Signal IP design.
+Experience on working with AMS verification and logic designers to achieve AMS circuit requirements
+Hands-on experience on block, IP and system level design.
+Should have involved in designing multiple IPs from Specification to Productization
+Experienced in lab debugs on AMS IPs
+Excellent communication and interpersonal skills, demonstrate teamwork and collaboration skills.
+Place of posting
+Accomodation details
+Bangalore
+Temporary
+Bond applicable
+No

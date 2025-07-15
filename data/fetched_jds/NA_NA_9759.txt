@@ -1,0 +1,39 @@
+Job Details
+We are seeking 4 highly skilled Software Engineers and Web Developers to join our team at
+ Fischer Jordan. As a SWE at Fischer Jordan you will work in a dynamic, client-first, solution-oriented
+ environment. Our tech team is exposed to a large spectrum of real-world problems and expected to
+ deliver world-class solutions on a timeline. We’re keen on using newer, faster technologies and
+ facilitate an open engineering culture of learning and skill development.
+ In this role, you will also be expected to effectively communicate with business stakeholders to problem
+ solve and automate a variety of business practices. You should also be able to work effectively in a team
+ environment and have excellent communication skills.
+Backend Web Developer (Extensive experience with Django and building REST APIs, used multiple DB
+stacks, experience with AWS and infrastructure setup, docker)
+Responsibilities:
+• Design, develop, and maintain software
+solutions
+• Collaborate with business stakeholders to
+identify and solve problems, and automate
+business processes
+• Use data analytics skills to draw insights
+and inform decision-making
+• Ensure the quality and reliability of
+software solutions
+• Participate in regular team meetings and
+code reviews
+Requirements:
+• Fluency and extensive experience with your tech
+stack
+• Strong problem-solving and communication skills,
+including the ability to effectively communicate
+with business stakeholders
+• Familiarity with Git and version control
+• Experience with data analytics (preferred, but not
+required)
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+Yes
+18 months

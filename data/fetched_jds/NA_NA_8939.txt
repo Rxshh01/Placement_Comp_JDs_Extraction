@@ -1,0 +1,13 @@
+Job Details
+• You will be tasked with developing features for the Mercari marketplace app in Japan, the Merpay mobile payment service. Successful candidates will join a team of software engineers, who come from diverse backgrounds and hold various expertise, and work as a member of their team.
+• The specific content of your work will involve projects to improve the UX and specifications of our products and make them more friendly for Mercari, Merpay, and Mercari Shops users. Currently, Mercari is implementing various initiatives including improving the search screen to enhance the listing and purchasing experience, and therefore you will be requested to actually handle our technology and data to produce output. At Merpay, we engage not only in B2B service development but also B2C service development, and you will have the opportunity to be involved in both.
+• Mercari is a C2C marketplace where individuals can enjoy buying and selling items. Through our unique payment deposit system and our use of AI to monitor for fraud, anyone can enjoy safe and secure transactions.
+• Merpay is a mobile payment service within the Mercari app. With Merpay, users can use their sales proceeds on Mercari or money loaded via their bank account to shop at countless places.
+• https://about.mercari.com/en/
+Go, PHP, gRPC, Java, Scala, GraphQL, Python, TypeScript, Node.js, NestJS,Swift,Kotlin
+Place of posting
+Accomodation details
+JAPAN
+Temporary
+Bond applicable
+No

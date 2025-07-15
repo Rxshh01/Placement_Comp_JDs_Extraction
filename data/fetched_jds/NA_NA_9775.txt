@@ -1,0 +1,12 @@
+Job Details
+We are a startup developing a disruptive innovation in Microarchitecture/Logic verification which is expected to substantially impact chip design schedules/cost across the industry. For those who relish being creative and are looking for an opportunity to contribute towards changing the industry standard verification methodologies, we offer a very positive environment to work with a talented, technically very strong and creative team. Being a startup, strong result orientation is the only criteria for advancement and rewards.
+We are looking for strongly motivated candidates with strong CPU  microarchitecture background through academic courses and projects, deep understanding of fundamentals and with a proven track record of devising creative/out of the box strategies/solutions and who work well with similarly talented peers in a high trust environment. The job will involve ramping up quickly to complex CPU architectures, superscalar/Out of Order architectures and working with the team in devising and testing proprietary techniques for rapid verification.
+Must have good knowledge of design & verification environment/flows and excellent hands-on debug skills with Strong Verilog, System Verilog,  C/C++, Perl/Python/shell script programming skills
+Role will require good communication/technical influencing skills and the ability and desire to foster a team environment
+Place of posting
+Accomodation details
+Bangalore
+None
+Bond applicable
+Yes
+12 months

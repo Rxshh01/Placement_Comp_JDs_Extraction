@@ -1,0 +1,96 @@
+Job Details
+【
+Technology Field
+】
+Security,
+Computer Vision
+【
+Position Summary
+】
+We are developing security related technology in the
+fields of applied cryptograpy and watermarking which are utilized to protect
+user's privacy and ensure authenticity of creative works such as image, video
+etc. By collaborating with teams throughout Sony Group working in diverse
+business domains including music, movie, finance, consumer electronics and new
+Web3 businesses, there are a lot of opportunities to develop unique
+technologies with actual applications. We are therefore seeking a Security Engineer
+with experience and expertise in the technolog fields to innovate with us and
+push our work forward.
+【
+Responsibilities
+】
+■
+Research and development in the technology fields of
+applied cryptography or watermarking.
+■
+Collaborative research and development with
+laboratories and universities overseas.
+■
+Close collaboration with global Sony Group companies
+with actual use-cases, to provide solutions for their data and product needs.
+■
+Identify real-world problems that may exist within
+Sony Group companies, and provide solutions to ultimately realize business
+value.
+■
+As a core member of the team, you will also be a
+candidate for leadership, and may eventually lead the research, development,
+and execution of various projects.
+■
+Plan our team's midrange/yearly activities and
+create/deliver progress reports.
+【
+Required qualifications
+】
+■
+2 years of experience with one or more general purpose
+programming languages including, but not limited to, C/C++, Rust, Python,
+JavaScript/TypeScript, and Solidity.
+■
+2 years of experience in applied cryptography (e.g.
+zero-knowledge proofs) or DNN-based watermarking technology
+■
+Fluent in spoken and written English.
+【
+Preferred qualifications
+】
+■
+Advanced degree in Computer Science specialized for
+applied crytography or DNN-based watermarking.
+■
+Publication(s) at top-tier conferences (IEEE S&P,
+ACM CCS, USENIX Security, NDSS, NeurIPS, ICLR, ICML, CVPR etc.) in the
+requisite technology areas
+■
+Experience in software development for projects with
+real-world applications.
+■
+Experience in the development of cloud services.
+■
+Rapid Learning: Ability to quickly grasp new
+concepts, learn new technologies, and adapt to changing requirements.
+■
+Problem Solving and Analytical Thinking: Strong
+problem-solving skills and be able to think analytically. Analyze complex
+systems, identify potential vulnerabilities, and propose effective solutions
+【
+Product, Service
+】
+Entertainment businesses including music and movie,
+financial services, consumer electronics and new businesses in Web3.
+【
+Development Environment
+】
+■
+OS: Windows and Linux
+■
+Programming Languages: C/C++, Rust, Python,
+JavaScript/TypeScript, Solidity, etc.
+■
+Blockchain, Cloud Computing
+Place of posting
+Accomodation details
+Tokyo,Japan
+Temporary
+Bond applicable
+No

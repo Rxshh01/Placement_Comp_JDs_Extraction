@@ -1,0 +1,52 @@
+Job Details
+Role
+Description
+Risk
+Hedging and Special Projects
+: Provide cost-effective hedging solutions for FX and Rates exposures in
+Apollo Credit, PE, Real Estate and Infra funds, & Apollo’s Portfolio
+companies by analyzing and actively tracking the underlying FX and Interest
+Rate exposures.
+Risk
+Management
+: Monitor
+investment risks of portfolios; present findings to PMs and senior leadership
+to ensure their full understanding of risk drivers and facilitate the
+appropriate scaling consistent with client objectives by conducting detailed
+reviews of portfolio's risk and performance drivers and proactively highlight
+areas of concern.
+Financial
+Institutions Group
+:
+Work on Asset optimization/strategic asset Allocation models for insurance
+balance sheets and other multi credit accounts managed by Apollo. Work on
+valuation
+of complex M&A involving liabilities of insurance companies, Monitor and
+measure ALM mismatches, work on cash flow modeling of illiquid assets, work on
+other aspects of insurance M&A deals etc
+.
+Risk
+Analytics and Modeling
+: Create proprietary risk systems to generate portfolio exposures,
+stress testing, risk, and performance attribution post assessment of
+mathematical foundation of the pricing model, correctness of the model
+equations and theory. Work on Apollo Analytics to implement derivative models
+in conjunction with Risk Technology team.
+Qualifications/Skills/Requirements
+Financial,
+economics, Mathematics/Engineering or business related studies preferred.
+Understanding
+of the financial markets.
+Fluency in
+English and strong verbal/written communication skills
+Candidates
+should be analytical, insightful, quick learners, team players, multi-taskers,
+with a positive attitude.
+Coding
+experience in C/C++/Python /SQL would be valuable
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+No

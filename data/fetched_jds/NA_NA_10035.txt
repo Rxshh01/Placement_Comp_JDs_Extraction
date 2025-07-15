@@ -1,0 +1,17 @@
+Job Details
+Responsibilities:
+Collaborate with cross-functional teams to design, develop, and implement machine learning models and algorithms in the audio domain.
+Contribute to the research, prototyping, and deployment of speech-to-text, speaker separation, and diarization solutions.
+Explore and experiment with various techniques to improve the accuracy and efficiency of audio processing models.
+Work closely with senior engineers to optimize and integrate machine learning components into our products.
+Participate in code reviews, provide constructive feedback, and adhere to coding standards and best practices.
+Communicate effectively with team members, sharing insights and progress updates.
+Stay updated with the latest developments in machine learning, AI, NLP, and signal processing, and apply relevant advancements to our projects.
+Collaborate on the development of end-to-end systems that involve speech and language technologies.
+Assist in building and training large-scale language models like chatGPT, LLAMA, Falcon, etc., leveraging their capabilities as required.
+Place of posting
+Accomodation details
+Bengaluru
+None
+Bond applicable
+No

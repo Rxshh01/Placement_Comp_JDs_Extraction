@@ -1,0 +1,45 @@
+Job Details
+Responsibilities:
+Linux Performance Monitoring Tools
+: Administer, monitor, and deploy performance tracking utilities to ensure that the HPC is working efficiently. Apply optimization at OS and hardware levels to maximize performance.
+Hardware Optimization
+: Push the limits by overclocking memory and processors to achieve peak performance while ensuring stability. Implement optimizations for low-latency networks and storage to boost overall throughput.
+BIOS, Kernel, and OS Tuning
+: Fine-tune and optimize BIOS settings, kernel parameters, and operating systems to extract maximum hardware performance.
+Development of High-Performance Computing Clusters
+: Lead the design and construction of in-house high-performance computing clusters. Explore and evaluate high-bandwidth networks and storage solutions to amplify cluster performance.
+Research and Development of Bleeding-Edge Hardware
+: Drive initiatives in developing and researching state-of-the-art hardware components. Remain abreast of the latest technological advancements, contributing innovative hardware solutions.
+Additional Responsibilities:
+Collaborate cross-functionally with software developers, and researchers.
+Conduct comprehensive performance analysis, benchmarks, and hardware system testing.
+Document findings, designs, and optimization strategies in clear and concise reports.
+Stay updated on industry trends, emerging technologies, and hardware development best practices.
+Qualifications:
+A degree in Computer Science, Mathematics, or Engineering from top-tier institutions
+Working knowledge of C++ and Python
+Strong background in Linux and Shell scripting
+Keen interest in problem-solving and figuring out how things work
+Keen interest in bleeding-edge hardware, new technologies, and hardware tuning
+Good communication skills
+A work ethic that emphasizes both discipline and consistency
+A genuine interest in research and development
+Benefits:
+At NK Securities Research, we believe in rewarding outstanding performance. We offer compensation above industry standards, with a variable bonus going beyond 100% of the fixed compensation for exceptional performers. We provide a platform for continuous growth, with no ceiling on career trajectory. Our focus is on a premium quality of life, and we encourage everyone in the firm to thrive in all aspects of their lives. At NK Securities Research, we take mentorship seriously and are committed to training and preparing freshers for future leadership responsibilities.
+Perks:
+Monthly after-work parties
+Catered meals
+Domestic and international team outings
+Cost to Company:
+CTC: 54L+Bonus
+Package Details:
+Base: 36L
+Joining Bonus: 2L
+Fixed Bonus: 16L
+Variable: Upto 36L (or beyond)
+Place of posting
+Accomodation details
+Gurugram
+Temporary
+Bond applicable
+No

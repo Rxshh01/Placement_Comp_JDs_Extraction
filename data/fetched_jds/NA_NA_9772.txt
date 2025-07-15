@@ -1,0 +1,64 @@
+Job Details
+We are seeking 4 highly skilled Software Engineers and Web Developers to join our team at
+ Fischer Jordan. As a SWE at Fischer Jordan you will work in a dynamic, client-first, solution-oriented
+ environment. Our tech team is exposed to a large spectrum of real-world problems and expected to
+ deliver world-class solutions on a timeline. We’re keen on using newer, faster technologies and
+ facilitate an open engineering culture of learning and skill development.
+ In this role, you will also be expected to effectively communicate with business stakeholders to problem
+ solve and automate a variety of business practices. You should also be able to work effectively in a team
+ environment and have excellent communication skills.
+Requirements:
+• Strong programming skills (DA)
+• Strong work ethic and ability and willingness to work in US hours
+• Competitive attitude and commitment to achieving results
+• A Bachelor's degree or higher in math, science or engineering (DA)
+• Strong analytical skills and attention to detail
+• Hunger to keep up with the latest trends in consulting and business space
+• Strong written and oral communication skills
+• High levels of motivation, professionalism, integrity and entrepreneurial spirit
+• Ability to handle multiple work streams concurrently
+• This position comes with a 3 years contract
+• Preference will be given to candidates who can do a part-time internship during the
+school year
+• Work hours-55-60 hours/week for full-time employees
+Job description-
+• Working closely with US-based clients on US hours
+• Working directly with clients and FJ team members on a day-to-day basis to identify
+business needs,
+frame a solution approach, seek and obtain the data to solve the problem, run the
+analysis, present
+actionable recommendations to clients, and partner with them on implementation
+• Using LLMs and other generative AI tools to solve cutting-edge business problems and
+redefine existing
+business models
+• Employing a diverse set of programming methodologies in Python and SQL including
+data analysis and
+modelling, workflow systems, screen scrapers, APIs and others in order to solve business
+problems for FJ
+and clients
+• Identifying information sources, understanding database structures and data
+dictionaries to develop
+the optimal approach for data extraction, validation, and combination
+• Engaging in data extraction, preparation, validation, and manipulation using statistical
+analysis tools
+such as Python, R and SQL
+• Conducting quantitative and qualitative analyses. This will include reviewing
+publications and
+interviewing appropriate industry experts. It may also involve developing predictive
+models under the
+supervision of a senior modeler
+• Delivering clear, actionable solutions to clients’ business problems and measuring their
+results
+• Creating strong client presentations and delivering them effectively
+• Developing and maintaining complex Excel and Google Sheets models (financial and
+other)
+• Building and maintaining long-term client relationships
+FJ will sponsor H1B Visa if you wish to apply for lottery that you can do once you complete 2 years
+in FJ.
+Place of posting
+Accomodation details
+Remote
+None
+Bond applicable
+Yes
+18 months

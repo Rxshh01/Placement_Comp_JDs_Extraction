@@ -1,0 +1,68 @@
+Job Details
+Job Description:
+We are seeking a
+highly skilled and motivated specialist in computational modelling and simulation
+field, to join our R&D team for supporting aluminium smelter design and
+process optimization activities. In this role, he/she would develop advanced
+models, perform simulations and analysis to solve complex engineering problems to
+improve smelting process & its performance.
+Key Responsibilities:
+Develop and Execute
+     Computational Models:
+Build multi-physics,
+     CFD, FEA models to analyse new design concepts and process operational performance.
+     Also, create scripts, workflows or tools to streamline simulations and
+     automate repetitive tasks.
+Measurement & Analysis:
+Perform experiments / measurements in representative
+     process at plant for model calibration and validation, also analyse data
+     to extract meaningful insights.
+Design and Process Optimization:
+Use simulation-driven techniques to
+     identify optimal solutions for performance, productivity enhancement,
+     energy and cost reduction.
+·
+Stay Current with Industry
+Trends:
+Stay updated with advancements in computational modelling
+& simulation technologies, optimization methodologies to bring cutting-edge
+solutions to the team.
+Cross-functional
+     Collaboration
+:
+Work closely with process experts, design engineers, and
+     stakeholders to define requirements, share findings, and trial / implementation
+     of recommended solution.
+·
+Technical Documentation
+:
+Prepare detail documentation of simulation
+analysis, observations, and results for internal records and technical reports.
+Education
+Qualifications
+:
+·
+Master’s degree in mechanical /
+chemical / metallurgical engineering.
+Skills
+:
+Strong expertise in
+     computational modelling tools such as ANSYS, Fluent, COMSOL, MATLAB, or
+     equivalent software.
+Experience with developing
+     mathematical models and numerical techniques (e.g., FVM, FEM, Multiphysics,
+     CFD modelling etc).
+Knowledge in
+     optimization techniques, including DOE, gradient-based, or evolutionary
+     algorithms.
+Strong analytical
+     thinking and problem-solving abilities, attention to detail and a
+     proactive mindset toward continuous improvement.
+Excellent communication (written and verbal) and
+collaboration skills with cross-disciplinary teams
+Place of posting
+Accomodation details
+Taloja Navi Mumbai
+Temporary
+Bond applicable
+No

@@ -1,0 +1,99 @@
+Job Details
+About
+Accenture :
+Accenture is a global professional services company with
+leading capabilities in digital, cloud and security. Combining unmatched
+experience and specialized skills across more than 40 industries, we offer
+Strategy and Consulting, Technology and Operations services, and Accenture
+Song-- all powered by the world's largest network of Advanced Technology and
+Intelligent Operations centers. Our 699,000 people deliver on the promise of
+technology and human ingenuity every day, serving clients in more than 120
+countries. We embrace the power of change to create value and shared success
+for our clients, people, shareholders, partners and communities. Visit us at
+www.accenture.com
+About the
+Role :
+You will be
+part of Accenture Operations global data science group, an energetic,
+strategic, high-visibility and highimpact team, to innovate and transform the
+Accenture Operations business using machine learning, advanced analytics and
+data-driven AI. You will have the unique opportunity to be exposed to a wide
+diversity of exciting business problems and data and create machine learning
+methods and data-driven AI solutions to deliver the nextgeneration Accenture
+Operations offerings. The objectives of the team include but are not limited to
+:
+o
+Conceptualizing,
+designing and developing innovative machine learning / data AI solutions for a
+wide range of Accenture Operations business towers: Finance & Accounting,
+Procurement, Cloud, Infrastructure, Customer Analytics, etc.,
+o
+Integrating
+the outcomes as real-time analytics to elevate the Accenture’s ability to
+create value for clients in areas and through means not immediately apparent to
+clients
+Data
+Scientists in Operations follow multiple approaches for project execution from
+adapting existing assets to Operations use cases, exploring third-party and
+open source solutions for speed to execution and for specific use cases to
+engaging in fundamental research to develop novel solutions. They also leverage
+the vast global network of Accenture to collaborate with Accenture Tech Labs,
+Accenture Open Innovation and Accenture Analytics for creating solutions.
+Basic
+Qualifications :
+o
+Education
+: Masters in Computer science , Statistics or Mathematics
+o
+Strong
+statistical programming experience - Python, R, SAS, S-plus, STATA or SPSS
+o
+Solid
+knowledge in at least one of the following – Supervised and Unsupervised
+Learning, Classification, Regression, Clustering, Neural Networks, Ensemble
+Modelling (random forest, boosted tree, etc), Multivariate Statistics,
+Non-parametric Methods, Reliability Models, Markov Models, Stochastic models,
+Bayesian Models
+o
+Development
+experience working under Linux / Unix systems
+o
+Proficient
+verbal and written communication skills in English
+Desired
+Skills and Experience :
+o
+Experience
+in multiple statistical and machine learning models, data mining, unstructured
+data analytics in corporate or academic research environments
+o
+Strong
+programming experience in general purpose languages (C, C++, Java, etc.)
+o
+Familiarity
+with relational databases and intermediate or advanced level knowledge of SQL
+o
+Experience
+working with large data sets and big data tools like Spark, Hadoop, Hive,
+Flink, etc.
+o
+Ability
+to think creatively to solve real world business problems
+o
+Ability
+to work in a global collaborative team environment
+Joining Location :
+Bangalore
+CTC Range :
+19.34 LPA
+Skills :
+DS, AI, Python
+Qualification :
+Msc & M.Tech {Computational Sci., Data Sci.,
+IEOR, Maths, Stats, etc.}
+Place of posting
+Accomodation details
+Bangalore
+Temporary
+Bond applicable
+No

@@ -1,0 +1,67 @@
+Job Details
+Job Title-
+SDE 1 (Front-End)
+Division & Major Function-
+Corporate, Technology
+Who we Are?
+Axis Asset Management Company Ltd (Axis AMC) was founded in 2009 and is amongst India ‘s largest and fastest 
+growing mutual fund. We serve 1.3+ Cr customers and associates with highest humility across 100+ cities. 
+Our success is attributable to 3 founding principles- Long Term Wealth Creation, Outside-in (Customer) View & 
+Sustainable Relationships. Our investment philosophy embraces culture of risk management. It encourages our 
+partners & investors to transition from transactional investing for quick gratification to investing for fulfilment of 
+critical life goals. 
+Thus, our endeavour is to offer a basket of investment solutions which helps customers create a financially 
+independent & happier tomorrow.
+Our recent accolades:
+ Great Place to Work Certification (Feb 2024- Feb 2025)
+ Brandon Hall Group HCM Excellence Awards for Learning & Development 2022 - Silver Award
+ Morningstar Awards 2022: Best Fund House: Equity, Debt & Overall
+ Outlook Money Awards 2021: GOLD in Equity AMC of the Year 2021
+ World Leadership Congress & Awards 2022: Business Transformation Leadership Awards – Digital 
+Transformation Project (Mobile App)
+At Axis, our constant endeavour is to provide a career path for job seekers which is laden with learning & winning. We 
+foster a culture where success is celebrated. 
+We want to build a mind-blowing experience for anyone who wants to invest in mutual funds.
+What will you Do?
+Engineering and Product management at Axis MF define a new paradigm of making an impact in the larger 
+ecosystem through technology. With us, you have an excellent opportunity to create something from scratch the 
+solves a real problem of access to simplified investments. 
+With us, you will be working to build a digital platform that knows the customer, reaches out to the customer, and 
+fulfils their investment needs from on-boarding to purchase within seconds. And once on board, the customer gets 
+unparalleled experience by access to service bots, learning resources, goal planning resources and much more. 
+With this team, you will build a platform that crunches thousands of data points, scales 10x from current user base 
+by acquiring customers using the rich network of distributors / partners and completes on-boarding in seconds.
+ Participate in UI development along with team members for as much as 95% of your time
+ Participate in peer code reviews and daily scrum discussions
+ Contribute to the existing front-end design – across different digital assets – and reduce the tech debt – across 
+Android/iOS mobile apps (B2C, B2B) and websites (B2C, B2B)
+ Own up key Technical KPIs such as Page Speed, Conversion Ratio, TTFB, etc.
+ Align with Product and Project Managers to understand the functional requirements and assist in backlog 
+grooming through on-time sprint delivery
+ Leverage open source tech stack where relevant – e.g. MEAN stack (Angular, MySQL), Docker, Kubernetes, 
+Linux, NGINX, etc.
+Candidate should have hands on knowledge of Angular Typescript
+ Respond to technical issues in a professional and timely manner.
+ Be responsible for adherence to best practices and quality UI development / front end engineering
+ Work with external vendors in the delivery of ongoing and project related work
+What makes you a Great Fit?
+ BE/BTech Computer Science or equivalent from recognised institute
+ Must-have skills - Angular 11 Typescript/ JavaScript, NextJS / NodeJS
+ Experience in HTML5, CSS3, Proficient in one of the frontend design frameworks: Bootstrap, Material UI, 
+Semantic UI or Ant Design
+ Proficient in using frontend testing: Jest, React Testing Library, Enzyme
+ Translating design in Figma and photoshop to reusable components
+ Understanding of mobile/web authentication methods and security protocols required
+ Active participant in technology forums (such as Scaler, HackerEarth etc.)
+ Familiar with PWA, Google Analytics, NGINX a plus.
+ Understand micro-service architecture, event driven development, caching strategies etc.
+ Excellent programming skills – Passionate about the user experience
+ Self-starter with growth mindset
+ Good presentation, communication, and training skills
+ Good interpersonal skills with ability to articulate clearly and concisely
+Place of posting
+Accomodation details
+Mumbai
+Temporary
+Bond applicable
+No

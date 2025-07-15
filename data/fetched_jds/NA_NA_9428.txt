@@ -1,0 +1,90 @@
+Job Details
+【
+Technology Field
+】
+System Architecture / Processor
+Computer Vision
+【
+Position Summary
+】
+Products or
+services in this decade needs to be
+‘
+intelligent
+’
+.  To be more intelligent, such products or
+services would need devices to percept its surroundings even better than they
+do now.  In such world, they would be
+carrying multiple sensors or visual image sensors, to understand the
+surrounding environments / human beings / obstacles or other information
+better.  For such area Sony owns very
+strong position on image sensors and Sony also have created Vision processing
+SoCs.
+Our team are working together with both
+production teams of such future products and core research engineer teams in
+machine vision domain, from computational systems and system architecture point
+of view.
+【
+Responsibilities
+】
+■
+Develop low latency / high bandwidth / high performance
+per watt computation system on edge computers. 
+Also collaboratively work with related team that are responsible for
+wireless communications and cloud side computation.
+■
+Port Sony's in-house algorithms to build assets on
+Sony's internal hardware.
+■
+Design and propose software systems, based on required
+scenarios of future products and services based on Sony's technical assets --
+and of course, help to realize them as PoCs or business units.A25
+【
+Required qualifications
+】
+■
+Bachelor's degree in Computer Science, a related
+technical field or equivalent practical experience.
+■
+5+ years of experience with one or more general
+purpose programming languages.
+■
+Familiar in working, debugging / trouble shooting in
+software systems
+■
+A person who can proactively work with his ideas and
+who can propose new features with actual implementations.
+【
+Preferred qualifications
+】
+■
+Master degree in Computer Science
+■
+Hands on experience on performance optimizations
+(CPU, GPU, DSP, memory)
+■
+Hands on exeperience of implementing / fixing
+low-layer bugs (low layer = operating system Kernel or its driver or compiler)
+■
+Have good experience of 5+ programming language
+(including scripting language).  Best if
+having assembly language experience.
+■
+Have experience in working in two of: Operating
+System, Programming language implementation, Robotics SW (either algorithmic
+part or operating system), Visual algorithms, Machine Learning
+【
+Product, Service
+】
+Robotics, Game(PlayStation), Entertainment, Camera and
+other cloud based services including new business domains for Sony
+【
+Development Environment
+】
+Mainly Linux PC and Embedded Linux
+Place of posting
+Accomodation details
+Tokyo, Japan
+Temporary
+Bond applicable
+No

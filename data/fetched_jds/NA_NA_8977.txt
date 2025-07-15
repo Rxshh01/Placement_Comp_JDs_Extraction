@@ -1,0 +1,86 @@
+Job Details
+Job Role: Researcher
+Greetings from Fujitsu Research Lab
+Product and
+Services -
+·
+Developed technologies would be incorporated in
+Fujitsu's products and customers' systems in various fields such finance,
+telecommunications, manufacturing, healthcare, social infrastructure and so on.
+Role
+Purpose-
+·
+A researcher carries out his/her own research in
+the field of AI and creates new technologies according to Fujitsu’s AI
+strategy.
+·
+The researcher’s duties also include writing
+patents and research papers, which can be published at top-tier ML/CV/NLP
+conferences/journals.
+·
+Our research aim is to achieve advancements in
+AI, specifically in Generative AI, Cognitive AI, Point Cloud, Graph ML, and
+related technologies.
+Roles and
+Responsibilities- Followings are Researcher’s duties:
+·
+Identify research problems and propose new
+approaches/framework to possibly solve the problems. Survey the technical
+landscape to differentiate the proposed approaches.
+·
+Develop new technologies (algorithms, architecture,
+computing methods, …) based on the proposed approaches.
+·
+Implement required computer code, perform
+experiments to establish proof-of-concepts, provide theoretical & empirical
+support to proposed approaches.
+·
+Collect, record, and analyse data. Interpret
+data analysis results and draw inferences and conclusions.
+·
+Present research results to group leaders,
+Research Managers and Project Directors.
+·
+Use research results to write reports, patents,
+papers and reviews and present findings in journals and conferences.
+·
+Interface with academic partners
+·
+Interact with applied researchers to discuss
+possible future applications of core research.
+·
+Interact with applied researchers to help
+abstract “underlying research problems” form real-world problems.
+·
+Support transitioning the technology to business
+unit. Also, demonstrate technology to external client.
+Technical
+Skills required-
+·
+Machine Learning with publication in top-tier
+conferences like ICML, ICLR, NeurIPS, AAAI, IJCAI, AISTATS, ICDM, SIGKDD (or
+KDD), PAKDD.
+·
+Computer Vision with publication in top-tier
+conferences like CVPR, ICCV, ECCV.
+·
+Natural Language Processing with publication in
+top-tier conference or journal such as ACL.
+·
+Proficient in coding and use of AI/ML
+libraries, platforms are must.
+Additional
+Expectations
+·
+Excellent communication skills, report writing
+and presentation skills.
+·
+Adaptable, willing to learn new fields and
+develop new skill sets.
+Masters or PhD in a relevant field preferable
+Place of posting
+Accomodation details
+Bangalore
+None
+Bond applicable
+No

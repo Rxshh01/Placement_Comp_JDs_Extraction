@@ -1,0 +1,26 @@
+Job Details
+As a Software/Firmware Engineer in the team, you will be working on development of platform software for
+next generation automotive or radar devices. You will also have the opportunity to work in exciting areas that TI
+works on like ADAS (Advanced Driver AssistanceSystems), Radar, Motor Control, DLP, Microcontroller etc.
+Your responsibilities will include:
+• Understand standard specifications/ functional specifications/ feature enhancements for the device
+accelerator or advanced peripheral subsystem and create detailed design documents and develop software
+and use-cases
+• Be an individual contributor in the software development domain – develop & maintain products, and support
+customers/field teams to integrate this functionality to end products
+What do we expect from you?
+• Bachelor or Master’s degree in Computer Science/ Electrical/ Electronics engineering
+• Strong technical knowledge of embedded C, computer architecture, operating systems (RTOS)
+• Strong C programming skills
+Preferred Skills
+• Experience with embedded software development
+• Experience in Embedded Linux development, Real Time Linux
+• Effective communication skills to interact with all stakeholders
+• Good team and people skills to work closely with the systems,
+apps, marketing and test teams
+Place of posting
+Accomodation details
+Bangalore
+None
+Bond applicable
+No

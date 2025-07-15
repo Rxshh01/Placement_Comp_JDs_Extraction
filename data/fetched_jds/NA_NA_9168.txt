@@ -1,0 +1,24 @@
+Job Details
+The Analytics and Innovation (Ai) team at United Airlines works to innovate, transform, and solve complex business problems resulting in significant and measurable enterprise impact through the application of deep cross-functional business expertise and advanced analytics. We work with business and technology partners across the enterprise (e.g. Airport Operations, Contact Centers, Network Planning, Revenue Management, Digital Products, Human Resources, etc.) to influence strategic decisions, enterprise strategy, business process, and to help connect the dots across the enterprise. We aim to be an organization with whom and within everyone loves to work! Data Scientists within Ai partner with business and technology leaders across the company to deploy AI & ML powered solutions to support and automate business processes. The team works closely with other teams in digital technology with complementing skills and capabilities. The key objectives are to drive incremental revenue, boost customer engagement and to automate manual processes by leveraging state-of-the-art ML techniques. Data Scientists contribute to developing smart and innovative solutions across many of United’s department
+Work with other data scientists and a variety of stakeholders (IT, DE, business etc.) to deliver high-quality models
+Gathering and analyzing data of United’s various operations to make fact-based, data-driven recommendations
+Execute solutions to business problems using data analysis, machine learning and optimization tools
+Enable data transfer between platforms and monitor model performance for scalable project deployment
+Research latest machine learning approaches and share the knowledge across the team
+Effectively structure communication of insights from work streams and deliver clear and professional presentations to the team/team leaders/manager
+Partner and engage with data engineering and operations teams to inform and support business stakeholders with day-to-day project updates
+Required
+Full time or internship experience in analytics/data science ·
+0-3 years relevant work experience
+Excellent analytical and problem-solving skills
+Proficiency in Programming Languages (Python/R), SQL, Excel and other Microsoft Office products Intermediate knowledge in machine learning algorithms like Bagging (Decision Trees, RF), Boosting (XGBoost, GBM) , Clustering (KMeans)
+Proven comfort and an intellectual curiosity for working with very large sets of data
+Understanding of probability & statistics
+Ability to bridge business context with technical details and explain and discuss mathematical and machine learning technicalities to a business audience
+Strong interpersonal skills with a focus on teamwork
+Place of posting
+Accomodation details
+Gurugram
+None
+Bond applicable
+No

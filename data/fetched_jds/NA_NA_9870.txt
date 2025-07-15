@@ -1,0 +1,63 @@
+Job Details
+"Join EDGE as a DSP Engineer and be part of an innovative team shaping the future of radio and satellite communications, where you'll drive complex signal processing solutions and pioneer advancements in Software Defined Radio across cutting-edge platforms."
+Job
+Purpose:
+DSP
+Engineers will be included in a design team that develops complex signal
+processing systems in various application areas, but essentially for
+radio and satellite communications.
+The
+candidate will be involved in all technology and product development stages, including definition, analysis, computational modelling, prototype design,
+laboratory testing, process development, and manufacturing.
+The
+candidate will participate in the development of a Software Design Radio that will be implemented using a variety of platforms, including embedded DSP, FPGA, and dedicated High-Level Software Applications.
+The
+candidate will contribute to and lead this ambitious project, working
+collaboratively in multi-disciplinary teams with a high degree of devolved
+responsibility.
+We
+are looking for someone who enjoys forward-thinking technologies and needs to apply complex problem-solving techniques to maximize the potential of new
+systems.
+Key
+Activities:
+Broad
+knowledge of radio communications theory, with particular expertise in radio
+transceiver concepts, digital modulation techniques, channel estimation,
+equalization and MIMO.
+Experience
+in modulation and demodulation design and implementation (PSK, COFDM),
+especially on FPGA
+Experience
+in the development of radio drivers and integration with modem baseband is highly
+desirable.
+Modem
+Algorithm development in simulation using MATLAB and fixed-point implementation
+in DSP or FPGA.
+Real-time
+embedded software development using C/C++
+Education:
+A
+bachelor’s (better master's) degree in electronic engineering or a related
+discipline. Prior working experience in modem development, e.g. Cellular (5G,
+LTE, GSM, 3G/HSPA), Broadcast (DVB-x) or Satcom.
+Broad
+knowledge of radio communications theory, with particular expertise in radio
+transceiver concepts, digital modulation techniques, channel estimation,
+equalisation and MIMO.
+Experience
+in modulation and demodulation design and implementation (PSK, COFDM),
+especially on FPGA
+Experience
+in the development of radio drivers and integration with modem baseband is highly
+desirable.
+Modem
+Algorithm development in simulation using MATLAB and fixed-point implementation
+in DSP or FPGA.
+Real-time
+embedded software development using C/C++
+Place of posting
+Accomodation details
+Abu Dhabi, UAE
+None
+Bond applicable
+No

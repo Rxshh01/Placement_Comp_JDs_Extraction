@@ -1,0 +1,51 @@
+Job Details
+ob Profile
+•
+Job Designation: Software Engineer
+• Place of Posting: Bangalore/ Remote
+ACHNET, the world's leading AI-driven marketplace that fosters professional growth and
+collaboration, and is made with love by IITians, also we have been loved by IITians as we have been
+hiring them with the utmost preference in building our employee ecosystems.
+We are seeking skilled and motivated Software Development Engineers (SDEs) to join our agile
+team and contribute to the development of robust and feature-rich web applications. As an SDE at
+ACHNET, you will be a crucial part of our mission to create exceptional user experiences and drive
+innovation in technology.
+Role and Responsibilities:
+As an SDE focusing on web application development, you will be responsible for the entire software
+development lifecycle, from requirements analysis to deployment. You will work collaboratively
+within an agile team, often as an individual contributor, to create, enhance, and maintain various
+modules that constitute our expansive product platform. Your key responsibilities will include:
+ Collaborating with cross-functional teams to understand design specifications and
+requirements for web applications.
+ Developing web applications using a technical stack that includes Microsoft Technologies,
+HTML, CSS, JavaScript, MongoDB, Redis, Python and other relevant open-source
+frameworks.
+ Conducting thorough requirements analysis, application development, documentation, and
+testing within an agile development environment.
+ Designing, coding, and debugging applications and systems using a variety of software tools
+and programming languages.
+ Ensuring the performance, security, and scalability of developed applications.
+Required Skills and Qualifications:
+To excel in this role, you should possess the following skills and qualifications:
+ Strong understanding of data structures and their application in software development.
+ Knowledge of Machine Learning Models like YOLO, LLM, NER etc. is good to have.
+ Experience or exposure to developing object-oriented programming (OOP) solutions.
+ Proficiency in styling front-end web pages using CSS, HTML, and JavaScript based on design
+specifications.
+ Knowledge or experience in interfacing applications with NoSQL databases like Redis or
+MongoDB is a plus.
+
+Qualifications and Experience:
+ Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's
+degree preferred).
+ Proven experience in web application development and a strong portfolio showcasing your
+projects.
+ Proficiency in relevant programming languages, tools, and technologies.
+ Prior experience working in an agile development environment is highly beneficial.
+Place of posting
+Accomodation details
+Remote
+None
+Bond applicable
+Yes
+24 months

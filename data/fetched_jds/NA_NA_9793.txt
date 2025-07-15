@@ -1,0 +1,62 @@
+Job Details
+About the Role
+● Work with the Product and Design teams to implement new, novel machine learning
+algorithms and workflows to build predictive models and developing learning algorithms
+with very high impact despite all nuances originating from the quality and quantity of
+data.
+● Help scale our Business Spend Management platform as we expand and find the right
+application of artificial intelligence to make human life better
+● Find creative and elegant solutions to complex problems
+● Work in an agile environment where quick iterations and good feedback are a way of
+life. Enforce best practices (unit/automation testing, code reviews, code quality, etc.).
+● Continually look for opportunities to improve our platform, process, and business
+● Communicate and coordinate with our support and professional services teams to solve
+customer issues
+About You -
+● A critical thinker, resourceful, problem-solver who has a passion for applying technology
+to make human life better
+● Excellent problem-solving ability, a forward-thinking personality, a leader, a pragmatic
+approach to decision-making, outcome-driven, open-minded, creative and consistently
+seek to innovate and raise the bar
+● Passion for keeping up with new trends and developments in the AI/ML community and
+is eager to find ways to incorporate these new ideas into our solutions
+● Demonstrable proficiency in probability and statistics, coding, machine learning, data
+structures, distributed computing and artificial intelligence
+● Strong communication skills and ability to work independently
+What you’ll do
+● Within 1 month, you'll
+o Complete the onboarding program.
+o Learn the nuts and bolts of the business, our tech stack, and where we’re going.
+o Learn about some of the existing major data science and machine learning
+challenges that the team has tackled
+o Get introduced with spark and parallel programming and start getting an idea of
+how “big” the data really is
+● Within 3 months, you'll
+o Be working on your first project and you would have faced a lot of challenges
+that come up with production data
+o Get comfortable with spark and handling huge data frames
+o Learn how to deal with data cleaning, manipulation and feature engineering
+according to the problem at hand
+o Positively contribute towards team discussions and see the importance of
+communication in cross cultural and cross border teams
+● Within 6 months, you'll
+o Finish your first data science project and implement the solution into the Coupa
+source code.
+o Understand the tech flow on software side and merge your first PR
+o Learn nuts and bolts of Natural Language Processing and scalability issues they
+present
+● Within 12 months, you'll
+o Have made a visible impact on the product for the users.
+o Be resolving bugs related to the old projects, hence developing an appreciation
+for maintenance processes
+o Be proficient in Spark and start supporting other team members in solving
+technical challenges that come with every new unique project
+o Implement Machine learning algorithms ranging from Logistic Regression to
+advanced Deep learning methodologies and understand which algorithm is more
+suitable for the kind of problem we deal with.
+Place of posting
+Accomodation details
+Pune/Hyderabad
+None
+Bond applicable
+No

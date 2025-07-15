@@ -1,0 +1,28 @@
+Job Details
+JD - OR Scientist
+About Lyric
+Here at Lyric, we’re building the future of Supply Chain AI, with the team best equipped to build it. Traditional supply chain software, often supplemented with ad hoc analysis, is too rigid for modern AI capabilities. Custom AI solutions are time-consuming, costly to develop in-house, and lack proper supply chain context. These issues make it hard for large supply chain organizations to fully leverage advanced data & decision science.
+Our platform, the "Lyric Studio", accelerates your ability to create and consume advanced supply chain models (e.g. stockout prediction & network optimization). A catalog of ready-to-use algorithms and optimization models makes it easy for business users to create sophisticated no-code applications. Lyric Studio also enables technical users to train prediction models & deploy custom algorithms to a private catalog for future reuse. Lyric allows for faster, more advanced supply chain decisions of all shapes and sizes, which is why dozens of Fortune 500 enterprises are saving millions with Lyric today.
+Position Overview
+We are seeking a highly motivated and talented Operations Research Scientist to join our team. This role is ideal for recent graduates passionate about using mathematics, optimization techniques, and statistical models to solve complex business challenges. You will work closely with cross-functional teams to design, develop, and implement advanced analytical solutions.
+Key Responsibilities
+Develop and implement mathematical models for optimization, simulation, and decision support.
+Analyze large datasets and derive actionable insights to drive operational efficiency.
+Collaborate with engineering, data science, and product teams to translate business requirements into analytical solutions.
+Use optimization algorithms and tools to solve complex business problems.
+Assist in the evaluation of existing processes and recommend improvements based on data-driven insights.
+Stay up to date with the latest advancements in operations research and optimization techniques.
+Qualifications
+Education: Bachelor's degree in Operations Research, Mathematics, Industrial Engineering, or a related field.
+Strong knowledge of mathematical modeling, optimization, and algorithm development.
+Proficiency in programming languages such as Python, R, or MATLAB.
+Familiarity with optimization tools like Gurobi, CPLEX, or similar.
+Strong analytical and problem-solving skills.
+Ability to work collaboratively in a team-oriented environment.
+Excellent communication skills, both written and verbal.
+Place of posting
+Accomodation details
+Chennai/Bangalore/Hyderabad/Pune
+None
+Bond applicable
+No

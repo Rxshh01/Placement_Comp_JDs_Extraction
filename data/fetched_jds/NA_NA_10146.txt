@@ -1,0 +1,62 @@
+Job Details
+WHAT YOU’LL DO:
+Rapidly
+     learn the latest modern data architecture platforms and patterns working
+     closely with solution architects and team leads.
+Assist
+     in the onboarding of new customer workloads to the NX1 platform including
+     data acquisition (ingest to landing zone and data transformation), data
+     outcomes (analytics, dashboards, AI ops), and application
+     modernization.
+Assist
+     in the development and deployment of new product features ensuring high
+     performance, quality, and responsiveness.
+Utilize
+     various technologies (Kubernetes, Spark, DBT, SQL, Trino, Airflow) to
+     develop data solutions
+Use
+     programming languages (Java, Python, .NET etc) to enhance/implement
+     product features and/or modernize customer workloads
+Analyze
+     complex datasets and models to identify trends, patterns, and anomalies;
+     participate in data review and contribute to team knowledge sharing and
+     continuous improvement.
+Troubleshoot
+     and debug data issues under the guidance of senior developers.
+Participate
+in product roadmap and rapid POC evaluations
+WHO YOU ARE:
+Bachelor's
+     degree in computer science, Engineering, Data Science or a related
+     field
+Fundamental
+     understanding of data structures, algorithms, and coding best practices
+     such as flow control, inheritance, separation of concerns, loose coupling,
+     error handling, etc.
+Proven
+     experience and/or course work with programing languages such as Python,
+     Java/Scala, and/or .NET languages
+Familiarity
+     with back-end concepts, including Object Oriented Design, ETL, REST API,
+     etc.
+Must
+     have a passion for learning and the desire to become SME on and
+     contributor to opensource projects. to learn new technologies and
+     continuously improve skill set.
+Experience
+     with database systems, such as SQL Server, MySQL, PostgreSQL, Snowflake,
+     etc.
+Strong
+     problem-solving skills, attention to detail, and self-learning initiative
+Excellent
+     communication skills and ability to work collaboratively in a team
+     environment.
+Preferred
+     knowledge of cloud infrastructure such as AWS, GCP or Microsoft
+     Azure
+Place of posting
+Accomodation details
+Pune, Maharashtra
+None
+Bond applicable
+No

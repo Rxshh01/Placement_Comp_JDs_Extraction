@@ -1,0 +1,101 @@
+Job Details
+【
+Technology
+Field
+】
+Data Analysis,
+Machine Learning
+【
+Position Summary
+】
+For this position, we are looking for researchers with
+strong expertise in data science and machine learning, including causal
+inference, recommender systems, sports analysis, or related fields. Candidates
+should be capable of developing and evaluating such algorithms using real data
+from commercial services.
+Sony group aims to engage with over 1 billion users through its
+direct-to-consumer (DTC) services. To achieve the goal as a research and
+development hub for the einter group companies, our team upholds the theme of
+"Human-Centered Data Science" and conducts research and development
+within the following scope:
+Human as a Data Source:
+- Acquiring customers and enhancing user engagement through personalization
+- Understanding behaviors and extracting insights both online and offline
+- Creating new experiences based on these technologies and insights
+Human as a Data User:
+- Developing AI and data science technologies that are user-friendly for data
+analysts and creators
+- Enhancing interaction technologies for improved usability and effectiveness
+【
+Responsibilities
+】
+■
+Research and develop machine learning algorithms
+■
+Propose novel customer value using machine learning
+and data science techniques
+■
+Design and develop prototype applications with
+development partners
+■
+Work closely with business divisions including
+entertainment, financial, and electronics domain in the Sony group
+■
+Publish research papers about these activities
+【
+Required qualifications
+】
+■
+Master's or doctoral degree in computer science,
+artificial intelligence, machine learning, statistics, econometrics or related
+fields
+■
+Proficiency in mathematics, statistical analysis, and
+data mining
+■
+Experience in data analytics projects on actual
+product data and applying machine learning models
+■
+2+ years experience with Python programming
+■
+Ability to speak and write in English fluently.
+【
+Preferred qualifications
+】
+■
+Experience with one or more of the following: causal
+inference, off-policy learning/evaluation, ITE/CATE estimation, multi-armed
+bandit problem, recommender algorithms, or similar.
+■
+Publishing research papers to top-tier conferences
+like NeurIPS, ICLR, ICML, KDD, WSDM, RecSys or similar.
+■
+Experience in applying machine learning to solve
+problems of marketing, user engagement, and user interaction in commercial
+services.
+■
+Experience in handling both research and development,
+especially with business organizations.
+■
+Having Kaggle expert/master/grandmaster status
+■
+Strong interest in Japanese language and Japanese
+culture
+【
+Product, Service
+】
+Online & hybrid services (entertainment, financial,
+sports, location based etc.),
+【
+Development Environment
+】
+OS : Windows/Linux/Mac
+programming language : Python, DNN frameworks
+Cloud : AWS, GCP, Azure
+BI/DA : Tableau
+Place of posting
+Accomodation details
+Tokyo, Japan
+Temporary
+Bond applicable
+No

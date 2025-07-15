@@ -1,0 +1,24 @@
+Job Details
+Company overview:
+As the equity execution services arm of the Kotak Securities, Kotak Institutional Equities provides independent, agency-only brokerage services to institutional clients throughout the world. Through its advanced suite of electronic trading algorithms, experienced high-touch trading group and unparalleled access research, helps institutions lower overall trading costs and ultimately improve investment performance.
+Job Description:
+As part of the Innovation team you will get the opportunity to work on state of the art technologies and solve complex problems in the area of trading equity and equity derivatives. You will implement solutions for mission-critical parts of the trading process; handle vast amounts of data using high-performance computing to deliver products around (but not limited to) trading algorithms, analytics/BI, exchange connectivity (market data, trading), risk management and more.
+Required skills:
+Must have:
+·         Exceptional & demonstrable programming skills in object-oriented languages like C++ and/or Java. Knowledge of Python is a plus
+·         Good handle on Algorithms & Data structure
+·         Experience in working on *nix systems
+·         Logical problem solver and a quick learner who can pick up new and complex concepts
+·         Good verbal and written communication skills
+·         Team player with a positive attitude and strong work ethic
+Good to have:
+·         Demonstrable skills in performance computing and/or algorithm optimization
+·         Working knowledge of at-least one SQL DB (MySQL, Postgres etc.) and at-least one NoSQL DB (Redis, Elasticsearch etc.)
+·         Participation in competitive programming/hackathon etc.
+·         Interest in financial markets (Equity & Derivatives) and a desire to learn more.
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+No
