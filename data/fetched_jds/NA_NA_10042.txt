@@ -1,8 +1,0 @@
-Job Details
-We are seeking a Blockchain Developer to join our dynamic team. In this role, you will assist in developing, testing, and deploying smart contracts and decentralized applications (DApps) on various blockchain platforms. You will collaborate with senior developers to improve our blockchain solutions, troubleshoot issues, and implement new features. Ideal candidates have a strong interest in blockchain technology, basic knowledge of programming languages like Solidity, and a willingness to learn and adapt in a fast-paced environment.
-Place of posting
-Accomodation details
-Delhi
-None
-Bond applicable
-No
