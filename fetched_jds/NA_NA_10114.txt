@@ -1,0 +1,39 @@
+Job Details
+Job Requirements
+1. Skilled and highly motivated Bioinformatician with experience in analysis and
+processing of genomic datasets with both biological and software expertise.
+2. Strong programming skills in either Python or R languages with preferably some
+open source code available for review on platforms such as Github.
+3. Experience in handling files and datasets from known genomic databases including
+COSMIC, OncoKB to name a few is also required.
+4. Responsible for running, optimizing and troubleshooting the existing bioinformatics
+pipeline with openness to new ideas and technologies.
+5. Required to keep updating the developments in genetics, mutations, NGS analysis,
+and related fields. Collaborate effectively with cross-functional teams and deliver
+compelling research findings.
+6. Experience in NGS analysis is an advantage.
+Qualifications
+1. Master or Ph.D. in Bioinformatics, Biotechnology, Genetics, Molecular Biology,
+Cancer Biology.
+2. Proficiency in multiple programming languages, including R, Python, Perl, Java,
+AWK, and Shell Script.
+3. Experience and/or knowledge in Machine learning (ML), and Artificial Intelligence (AI)
+and their application is an advantage.
+4. Experience and handling of NGS data processing and analysis
+5. English communication is preferred.
+What we offer
+1. A growing environment to learn and contribute.
+2. Salary as per current market standards.
+3. Annual leave and public holidays based on the Indian calendar.
+4. Performance bonus based on excellent performance.
+Working at OneCell TM Diagnostics
+Working at OneCell TM Diagnostics offers an equal platform with a large pool of skilled
+professionals in genomics and bioinformatics. Our goal is to provide effective and affordable
+genomic testing to all cancer patients for well-designed therapeutic decisions. A safe and
+growing start-up environment with continuous benefits and performance recognitions.
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+No

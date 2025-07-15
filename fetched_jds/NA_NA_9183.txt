@@ -1,0 +1,61 @@
+Job Details
+Application Development: C++
+1.
+Fluent
+with advance concepts of C++, e.g., constructs, strings, pointers,
+arrays, arrays & pointers, double pointers, function pointers,
+pointers to arrays, internal storage for various datatypes, creating
+in memory data-structures, bit-field operators, recursions, function call
+and stack formation, standard file I/O library, buffered IO, etc.
+2.
+Relational
+database (SQLite)
+3.
+Standard
+protocol implementation (TCP/IP, Serial etc)
+4.
+Knowledge
+of object-oriented concepts and programming
+5.
+Multi-Threaded
+development
+6.
+Good
+design skills, familiar with SOLID principles
+7.
+Experience
+with Make tools and cross compilation chains for ARM architecture.
+8.
+Strong
+debugging and profiling skills (gdb, gprof)
+9.
+Shell
+scripting, Python Scripting
+10.
+Good
+understanding of data structures and implementation knowledge such
+as Stacks, queues, trees, etc.
+Operating system:
+1.
+Operating
+system architecture (Linux, BSD flavours)
+2.
+Working
+with process, threads, memory management
+3.
+Locking
+mechanism in the OS
+Good to have (Operating System):
+1
+Networking
+stack knowledge
+Networking
+stack programming experience will be an advantage.
+Exposure to embedded systems interface
+(programming using in devmem, gpio, DMA)
+Place of posting
+Accomodation details
+Bengaluru
+None
+Bond applicable
+No

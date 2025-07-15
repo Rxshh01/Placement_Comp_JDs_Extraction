@@ -1,0 +1,98 @@
+Job Details
+Sprinklr is the unified platform for all customer-facing functions. We call it unified customer experience management (Unified-CXM). We help companies deliver human experiences to every customer,
+every
+time, across any modern channel,
+at
+a once impossible
+scale. Headquartered in New York City with over 2,400 employees globally, Sprinklr works with more than 1,000 of the world’s most valuable enterprises — global brands like Microsoft, P&G, Samsung and more than 50% of the Fortune 100. Learn more about our c
+ulture and how we make our employees happier through
+The Sprinklr Way
+What will you
+do:
+As an AI Operations (AI Ops) Engineer, you will
+be responsible for
+managing the operational aspects of deploying and
+maintaining
+AI systems. You will ensure that our AI models and solutions run efficiently, are scalable, and meet the performance requirements. This role involves working closely with data scientists, machine learning engineers, and IT operations teams to
+monitor
+, troubleshoot, and
+optimize
+AI systems in production.
+Key Responsibilities:
+Deployment and Monitoring:
+Deploy machine learning models and AI systems into production environments.
+Monitor the performance and health of AI systems, ensuring high availability and reliability.
+Implement automated monitoring and alerting solutions to detect and resolve issues proactively.
+Optimization and Scaling:
+Optimize
+AI systems for performance, scalability, and cost-efficiency.
+Collaborate with infrastructure teams to ensure AI systems are scalable and can handle increasing workloads.
+Identify
+and implement improvements to reduce latency and enhance system performance.
+Troubleshooting and Support:
+Investigate and resolve operational issues, including model performance degradation, system failures, and data pipeline problems.
+Provide support to data scientists and machine learning engineers to debug and troubleshoot issues in production environments.
+Develop and
+maintain
+documentation for operational procedures and incident response plans.
+Continuous Improvement:
+Analyze system performance metrics and
+identify
+areas for improvement.
+Implement best practices for AI system deployment, monitoring, and maintenance.
+Stay updated with the latest advancements in AI operations and recommend new tools and technologies to enhance the efficiency and reliability of AI systems.
+What makes you
+qualified?
+Education and Experience:
+Bachelor’s or
+m
+aster’s degree in Computer Science
+, Engineering, or a related field.
+Proven experience in deploying and managing AI systems in production environments.
+Strong background in DevOps, cloud computing, and system administration.
+Technical Skills:
+Proficiency
+in programming languages such as Python, Java, or C++.
+Experience with machine learning frameworks and tools (e.g., TensorFlow,
+PyTorch
+, Scikit-learn).
+Knowledge of cloud platforms (e.g., AWS, Google Cloud, Azure) and containerization technologies (e.g., Docker, Kubernetes).
+Familiarity with monitoring and logging tools (e.g., Prometheus, Grafana, ELK stack).
+Soft Skills:
+Strong problem-solving and analytical skills.
+Excellent communication and collaboration abilities.
+Ability to work in a fast-paced, dynamic environment and manage multiple priorities.
+Why
+you'll
+love Sprinklr:
+We’re
+committed to creating the kind of culture where you feel like you belong, are happier today than yesterday, and your contributions matter. At Sprinklr, our goal is to treat everyone like family and passionately, genuinely care. For full-time employees, we offer flexible paid time off and paid parental leave, medical plans, dental and vision plans, life insurance, 401(k) savings plans, employee stock options, gym and wellness discounts, Plum benefits,
+Lifemart
+discounts, and paid time off to invest in learning and career development.
+We focus on our mission:
+We founded Sprinklr with one mission: to enable every organization on the planet to make their customers happier. Our vision is to be the world’s most loved enterprise software compan
+y, ever.
+We believe in our product:
+Sprinklr was built from the ground up to enable a brand’s digital transformation. Its platform provides every customer-facing team with the ability to reach, engage and listen to customers around the world.
+At Sprinklr,
+we have many of the world's largest brands as our clients, and our employees have the opportunity to work closely alongside them.
+We invest in our people:
+At Sprinklr, we believe every human has the potential to be amazing. We empower each
+Sprinklrite
+in t
+he journey toward achieving their personal and professional best. For wellbeing, this includes daily meditation breaks, virtual fitness, and access to Headspace. We have continuous learning opportunities available with Audible for Business, LinkedIn Learni
+ng, and more.
+E
+EO - Our philosophy:
+Our goal is to ensure every employee feels like they belong and are
+operating
+in a judgment-free zone regardless of gender, race, ethnicity, age, and lifestyle preference, among others. We value and celebrate diversity and fervently believe every employee matters and should be respected and heard. We believe we are stronger when we belong because collectively,
+we’re
+more innovative, creative, and successful.
+Sprinklr is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. See also Sprinklr’s EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know.
+Place of posting
+Accomodation details
+Gurgaon
+None
+Bond applicable
+No

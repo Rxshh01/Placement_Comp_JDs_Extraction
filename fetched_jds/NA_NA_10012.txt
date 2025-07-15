@@ -1,0 +1,25 @@
+Job Details
+Key Responsibilities
+Collaborate with the team to research and develop solutions in:
+Large Language Models (LLMs) and Generative AI
+Multi-modal Learning and Reinforcement Learning
+Learn and contribute to optimizing AI models, including:
+Transformer Architectures, Model Compression, and Quantization Techniques.
+Assist in building and scaling ML systems using tools like PyTorch and Custom Training Pipelines.
+Explore techniques like efficient fine-tuning and architecture search to improve model performance.
+Required Qualifications
+Bachelor’s or Master’s degree in Computer Science, Mathematics, Engineering, or related fields.
+A solid understanding of AI/ML fundamentals, such as Transformer models or Generative AI.
+Familiarity with programming languages like Python and frameworks like PyTorch or TensorFlow.
+Eagerness to learn new concepts and solve challenging AI problems.
+Preferred Qualifications (Nice to Have)
+Academic projects or internships in AI/ML.
+Exposure to CUDA Programming, high-performance computing, or distributed training.
+Experience with ML tools like MLOps or vector databases.
+A strong foundation in advanced math and statistics.
+Place of posting
+Accomodation details
+Bengaluru
+None
+Bond applicable
+No

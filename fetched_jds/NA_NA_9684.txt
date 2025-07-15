@@ -1,0 +1,143 @@
+Job Details
+About Micron
+:
+We are an industry
+leader in innovative memory and storage solutions transforming how the world
+uses information to enrich life for all. With a relentless focus on our
+customers, technology leadership, and manufacturing and operational excellence,
+Micron delivers a rich portfolio of high-performance DRAM, NAND and NOR memory
+and storage products through our Micron® and Crucial® brands. At Micron India,
+you will be a part of one of the fastest ramps in Indian semiconductor history.
+We are ranked among Top 50 organizations for India's Best Workplaces in
+Manufacturing 2024 rankings by Great Place to Work Institute. In about five
+years, we have built an operations footprint with 20 centres of excellence and
+grown to over 3500 team members. We nurture a culture that is fair, fearless
+and fun that works to enhance personal and professional development at every
+level.
+Culture and Values at  Micron:
+As a leader in memory solutions our team members, partners, customers,
+and leadership work closely together to deliver — setting a high bar for
+ourselves and our industry. We believe transformation always starts within and
+our core values are driven by the following 5 pillars, namely:
+·
+People -
+We care about each other.
+·
+Innovation
+- We develop solutions that shape the world's future.
+·
+Tenacity
+- Nothing shakes our resolve.
+·
+Collaboration
+- We work as one team.
+·
+Customer
+Focus - We win by knowing our customers
+About profile – DEG_(Design)
+:
+As a Memory Circuit Design
+Engineer in our DRAM and Emerging memory Group (DEG) at Micron Technology,
+Inc., you will be responsible for designing and analyzing digital and analog
+circuits used in the development of memory products. This includes simulating,
+optimizing and floor planning DRAM circuits. In this position, you will
+collaborate with Micron’s various design and verification teams all over the
+world and support the efforts of groups such as Product Engineering, Test,
+Probe, Process Integration, Assembly and Marketing to proactively design
+products that optimize all manufacturing functions and assure the best cost,
+quality, reliability, time-to-market, and customer satisfaction
+Roles & responsibilities can include but are not limited to
+:
+·
+Contributing
+to the development of new DRAM and emerging memory product opportunities by
+assisting with the overall design, layout, and optimization of
+Memory/Logic/Analog circuits
+·
+Parasitic
+modeling and assisting in design validation, reticle experiments and required
+tape-out revisions
+·
+Overseeing
+the layout process including floor-planning, placement, and routing
+·
+Performing
+verification processes with modeling and simulation using industry standard
+simulators
+·
+Contributing
+to cross group communication to work towards standardization and group success
+·
+Working
+with Marketing, Probe, Assembly, Test, Process Integration, and Product
+Engineering groups to ensure proper manufacturability of product
+·
+Proactively
+solicit inputs from Standards, CAD, modeling, and verification groups to ensure
+the design quality
+·
+Driving
+innovation into the future Memory generations within a dynamic work
+environment.
+·
+Extensive
+knowledge of CMOS Circuit Design, Layout and Device Physics
+·
+Knowledge
+and exposure in Finesim and/or HSpice
+·
+Knowledge
+with power network analysis
+·
+Knowledge
+and exposure in verilog modeling and simulation tools
+·
+Knowledge
+of state machine logic / design verification techniques
+·
+Excellent
+problem-solving and analytical skills
+·
+A
+self-motivated, enthusiastic team player who enjoys working with others
+·
+Good
+communication skills with the ability to convey complex technical concepts to
+other design and verification peers in verbal and written form
+·
+Familiarity
+with a scripting language (Python, Tcl, Perl, etc)
+·
+Familiarity
+with memory design is a big plus
+Education
+Requirement & eligibility:
+·
+M.Tech in
+Electronics Engineering or related engineering field.
+·
+CGPA
+requirements = 7.0 CGPA & Above
+Location:
+Hyderabad/ Bangalore
+Micron by Numbers:
+·
+$25.11B FY24 annual revenue
+·
+264 on the 2024 Fortune 500
+·
+57,000 patents granted and growing
+·
+Operations in 18 countries
+·
+11 manufacturing sites and 12 customer labs
+·
+21 design center locations
+·
+~ 48,000 team members
+Place of posting
+Accomodation details
+Hyderabad
+Temporary
+Bond applicable
+No

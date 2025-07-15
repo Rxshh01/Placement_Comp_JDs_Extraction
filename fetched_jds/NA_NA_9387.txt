@@ -1,0 +1,20 @@
+Job Details
+Job Title : Research Analyst , Department : Equities Fundamental
+Reports to : Managing Director, Head of India Equities
+Location : Mumbai
+MAIN RESPONSIBILITIES: You will be assisting the PineBridge India Equities team in stock selection and be an integral part of the front 
+office. You will be expected to analyze large data sets (structured and unstructured), curate information, and 
+develop scalable API models that can generate absolute returns as well as alpha generation against the market 
+index. The role will eventually transition into researching and recommending companies for investments.
+You will eventually learn a valuable life skill of investing money in a judicious, rational, and profitable manner
+using quantitative and financial tools, finally leading to becoming a portfolio manager.
+Skills: Well versed with either Python or R and familiar with SQL
+• Financial knowledge (preferable)
+You will have to do a live coding project to demonstrate your ability to work with data, as part of the selection 
+process
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+No

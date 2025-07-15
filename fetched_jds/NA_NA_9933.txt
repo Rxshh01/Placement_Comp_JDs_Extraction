@@ -1,0 +1,41 @@
+Job Details
+Job Objective
+Automation of Test cases
+Reduce the manual testing
+Identify the test automation tools
+Write
+the automation Script and implement on real testing
+Primary
+responsibilities
+Strategic
+Identification of testing tools such as its suiting to our organisation
+and across all the application
+Core Functional
+Test case preparation & Execution · Designing test cases and
+reviewing them on a periodical basis · Managing defects and bugs and getting
+timely resolution to meet the release timeline · Exploring and introducing
+automation testing tools and methods to make the process stronger
+Planning
+Planning of designing the possible
+automation, execution of prototypes , training of team members to use the
+automations
+Key
+Result Areas
+·
+Creation
+of requirements by understanding from Testers
+·
+Identify
+the testing tools
+·
+Design
+the test scripts
+·
+Maintain
+test scripts as standard test execution cycles
+Place of posting
+Accomodation details
+Mumbai (Kandivali West)
+None
+Bond applicable
+No

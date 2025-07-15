@@ -1,0 +1,123 @@
+Job Details
+Engineer,
+R&D (Rnd-SysE-COE)
+The job profile has multiple
+tracks:
+1.
+R&D track
+(candidate is involved in
+“proof of concepts” for new technology development)
+2.
+Systems engineering trac
+k (candidate
+is product owners involved in designing products that go into production,
+especially for new product lines)
+3.
+Applications
+engineering track
+(the role is like systems
+engineering, but more relevant for scaling existing product lines to high
+volumes)
+4.
+Control
+systems architect track
+(candidate works on
+writing control-intensive software that goes into production)
+5.
+Center of Excellence track
+(candidate
+focuses on engineering verticals such as FEA / CFD simulations)
+All tracks will follow
+a common selection procedure, including a common written test. Once selected,
+the candidate will be assigned one of the above tracks based on the
+candidate's interests and the candidate's performance in the written tests
+and interviews.
+About the job
+The candidate is
+expected to participate in building technologies and products for automotive
+& off-highway powertrains such that the built products and technologies are
+deployed in large numbers world-wide.
+S/he is expected build
+technology differentiators and/or well-engineered robust products and work with
+a cross functional team to execute the same.
+Major Responsibilities
+The candidate will work on creating technology
+differentiators and/or robust products (at both software and electronic
+hardware levels) in domains such as engine controls, motor controls, battery
+technology, electric machines and inertial measurement systems. The candidate
+will also likely have to lead a team of engineers depending on the nature of
+problem statement / product line assigned to the candidate. Depending on the track
+the candidate is assigned when the candidate joins SEDEMAC, the candidate’s
+day-to-day job will be a suitable subset of the below activities:
+Develop a first
+principles understanding of the physics behind systems being considered;
+examples of systems being electric machines, IMUs, buck-boost converters, flux
+sensors, parasitic inductances of PCBs etc.
+Mathematically
+model the system; design and conduct experiments to validate the hypothesized
+mathematical model.
+Develop
+"methods/ strategies / circuits" to control / observe the system for
+desirable behaviour / insights. Examples being strategies and/or circuits for engine
+lambda control, inertial navigation etc.
+Develop
+proof-of-concept demonstration of methods / strategies / circuits developed, on
+prototype ECUs (Electronic Control Units) through coordination with cross
+functional teams (such as hardware & software).
+Develop
+electronics circuits, verify them in simulation domain, build the hardware, and
+test the built hardware for functionality and endurance.
+Perform
+high-fidelity simulations in the domains of thermal engineering, structural
+mechanics, electromagnetics such that design decisions are based on simulation
+results.
+Develop
+control-intensive embedded software that runs in the electronic control units
+which are deployed in mass volumes by SEDEMAC.
+Write
+white-papers to document the methods / strategies / circuits developed.
+Desired technical skills
+Strong command over engineering physics and mathematics
+     along with enthusiasm for potentially cross-domain ideas (mechanical,
+     electrical etc.).
+Skills in
+electronic instrumentation is desirable.
+Experience
+with software development is desirable.
+Experience
+with new product development is desirable.
+Desired soft
+skills
+Good written and verbal communication skills.
+Ability to work with a cross-functional team.
+Professional attitude towards work.
+Sense of ownership and urgency when working in
+     the company.
+Strong sense of ethics
+Education:
+Bachelor's
+     / Master's degree in Engineering (Any branch except branches like
+     Biomedical/ Biotechnology/ Chemistry/ Data Science) Engineering
+(CGPA
+     6.0+)
+Experience:
+NA
+Job Location:
+Pune (Baner)
+About SEDEMAC:
+At its core, SEDEMAC is the coming
+together of talented engineers with the zeal for development and large-scale
+deployment of innovative control technologies & products. Since our proposals
+tend to be fundamental control technology for large markets, our customers are
+large vehicle/motor/engine manufacturers with significant market presence. We
+pride ourselves on being an engineer run organization — responsible for
+creation of technologies and products that we offer. We have been able to
+institute a working environment that emphasizes respect for the individual,
+focus on what is being said as opposed to who is saying it, creativity, and
+honesty.
+Place of posting
+Accomodation details
+Pune
+Temporary
+Bond applicable
+No

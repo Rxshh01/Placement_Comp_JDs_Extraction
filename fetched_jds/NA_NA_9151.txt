@@ -1,0 +1,90 @@
+Job Details
+Engineer,
+Embedded Software
+About the job
+Our products are heavily reliant on embedded
+software, and hence we are inviting passionate
+individuals to join our team to contribute towards
+our pursuit of building world-class products for the future. You would be a key
+player of the team responsible for crafting world-class software that goes into
+high-scale products built by SEDEMAC. This is an opportunity to create impact,
+the code you write will go into millions of products we ship annually. You will
+be a part of a peer group that will encourage and inspire you to improve
+.
+Major Responsibilities
+“Engineer, Embedded Software” at
+SEDEMAC is responsible for end-to-end design, development and testing of embedded
+software stack within a particular product line in SEDEMAC. The candidate is
+required to:
+1.
+Be responsible for software
+development for product lines such as “traction controllers”, “fuel injection
+controllers”, “generator set controllers” etc.
+2.
+Ensure timely and high-quality
+software delivery, in co-ordination with system engineers and electronic
+engineers who are responsible for their respective domains of the product
+development.
+3.
+Act as the first point
+of contact for internal and external customers. Typically, the internal
+customers of software team would be the system engineering team who are product
+owners.
+4.
+De-risk crucial
+show-stoppers in the project, involving development of complex logics, and
+resolving complex defects (RCAs). This also includes the candidate
+participating in post-production failures of the product.
+5.
+Actively participate
+in improving software development process, workflows, technologies used at
+SEDEMAC and ensure compliance with software development standards as relevant
+to the product line that the engineer is driving.
+6.
+Perform code
+reviews; have a keen eye for suspecting and spotting potential errors.
+7.
+Ensure thorough,
+high-quality documentation of the software artefacts developed, and also
+participate in development of white-papers to improve the state of software
+team’s knowledge repository.
+Required Skills
+& Experience
+Software development experience in embedded software
+     development in C and preferably C++.
+Comfort with Python scripting is good to have.
+Experience with RTOS is a plus.
+Good knowledge and hands-on with IDEs, debuggers,
+     emulators etc.
+Comfort with Git is desired.
+Excellent spoken and written English communication.
+Information
+on Selection Process
+The selection process will be
+     multi-phased tests plus interviews.
+There will be focus on
+     evaluation of your understanding of embedded software skills, logical
+     & analytical skills.
+Education
+& Experience
+Bachelor's or Master's degree
+     in Electronics / Electrical / Mechatronics / Robotics / Instrumentation
+About
+SEDEMAC
+At its core, SEDEMAC is the coming together of talented engineers with
+the zeal for development and large-scale deployment of innovative control
+technologies & products. Since our proposals tend to be fundamental control
+technology for large markets, our customers are large vehicle/motor/engine
+manufacturers with significant market presence. We pride ourselves on being an
+engineer run organization — responsible for creation of technologies and
+products that we offer. We have been able to institute a working environment
+that emphasizes respect for the individual, focus on what is being said as
+opposed to who is saying it, creativity, and honesty.
+Job
+Location – Baner, Pune.
+Place of posting
+Accomodation details
+Pune
+Temporary
+Bond applicable
+No

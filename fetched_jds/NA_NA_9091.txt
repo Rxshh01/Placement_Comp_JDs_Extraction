@@ -1,0 +1,17 @@
+Job Details
+Strong coding skills in HTML5, CSS3, JavaScript/ES6, and experience
+with CSS preprocessors like SASS/LESS.
+Experience designing, refactoring, and implementing web apps, with a
+good understanding of React and React Native (Android & iOS).
+Excellent knowledge of web fundamentals and modern JavaScript
+frameworks. Strong analytical and problem-solving skills.
+Familiar with benchmarking, optimization techniques, and motion
+principles.
+Proficient in Agile methodologies (SCRUM) and DevOps tools (AWS, S3,
+API Gateway, CI/CD).
+Place of posting
+Accomodation details
+(Mumbai)
+None
+Bond applicable
+No

@@ -1,0 +1,30 @@
+Job Details
+# Data Scientist (Financial Markets Focus)
+## Position Overview
+We are looking for a Data Scientist specializing in financial markets analysis to conduct R&D on trade logs and market data. The ideal candidate will combine strong analytical skills with excellent communication abilities to produce high-quality research reports and white papers.
+## Key Responsibilities
+- Conduct in-depth analysis of financial market data and trade logs
+- Perform research and development activities focusing on market patterns and trading behaviors
+- Process and analyze both structured and unstructured financial data
+- Develop and implement statistical models and machine learning algorithms
+- Create and publish network reports and white papers
+- Present findings to stakeholders and technical teams
+## Required Skills & Qualifications
+- Strong background in financial markets and trading
+- Expertise in statistical analysis and machine learning
+- Proficiency in data manipulation and analysis
+- Excellence in technical writing and communication
+- Experience in publishing research papers or white papers
+- Strong presentation and stakeholder management skills
+## Technical Skills
+- Advanced statistical analysis tools and techniques
+- Programming languages for data analysis
+- Experience with large-scale data processing
+- Knowledge of financial market structures and trading mechanisms
+- Proficiency in data visualization tools
+Place of posting
+Accomodation details
+Pune
+Temporary
+Bond applicable
+No

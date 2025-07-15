@@ -1,0 +1,39 @@
+Job Details
+Job Responsibilities
+1. Understand the business requirements and translate these to data services to
+solve the business and data problems
+2. Develop and manage the transports/data pipelines (ETL/ELT jobs) and retrieve
+applicable datasets for specific use cases using cloud data platforms and tools
+3. Explore new technologies and tools to design complex data modeling scenarios,
+transformations and provide optimal data engineering solutions
+4. Build data integration layers to connect with different heterogeneous sources
+using various approaches
+5. Understand data and metadata to support consistency of information retrieval,
+combination, analysis and reporting
+6. Troubleshoot and monitor data pipelines to have high availability of reporting
+layer
+7. Collaborate with many teams - engineering and business, to build scalable and
+optimized data solutions
+Qualifications
+1. Over 0-1 years of experience with building the data pipelines or data ingestion
+for both Batch/Streaming data from different sources to data warehouse / data
+lake
+2. Handson experience/knowledge with SQL/Python/Java/Scala programming,
+understanding of SQL is a must
+3. Experience with any cloud computing platforms like AWS (S3, Lambda functions,
+RedShift, Athena), GCP (GCS, Dataflow, Dataproc, Pub/Sub, Bigquery), Azure
+(Blob/Azure, Synapse) etc.
+4. Experience/knowledge with Big Data tools (Hadoop, Hive, Spark, Presto)
+5. Data pipelines & orchestration tool (Ozzie, Airflow, Nifi)
+6. Any streaming engines (Kafka, Storm, Spark Streaming)
+7. Any relational database or data warehousing experience
+8. Any ETL tool experience (Informatica, Talend, Pentaho, Business Objects Data
+Services, Hevo)
+9. Good communication skills
+10. Experience in working independently and strong analytical skills
+Place of posting
+Accomodation details
+Mumbai, Pune, Ahmedabad, Rajkot, Gurugram, Noida, Hyderabad, Bangalore, Coimbatore
+None
+Bond applicable
+No

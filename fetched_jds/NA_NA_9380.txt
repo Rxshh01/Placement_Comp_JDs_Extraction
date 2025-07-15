@@ -1,0 +1,67 @@
+Job Details
+RESPONSIBILITIES
+●Optimize trajectories the launch vehicle will have to fly in to get to orbit.
+●Work with Propulsion and GNC Engineers to code engine characterization, carry out
+simulations, and integrate programs into flight control algorithms.
+●
+Work interdisciplinary trades (e.g. with Avionics, GNC, Thermal, and Structures) that
+result in the most optimal vehicle level configuration.
+BASIC QUALIFICATIONS
+●
+Bachelor’s degree in computer science, physics, electrical engineering, or equivalent
+engineering discipline.
+●Understands the basic physics behind projectile motion.
+●Applied experience coding in an object-oriented language.
+●Ability to work long hours, weekends etc. if needed (almost always!).
+PREFERRED SKILLS AND EXPERIENCE
+●
+Ability to design and implement robust and scalable systems with flexible and scalable
+UI.
+●
+Professional experience with standard front-end technologies like modern HTML, CSS,
+JavaScript (we use AngularJS, Polymer, Backbone.js, React, and more), REST, JSON.
+●Deep understanding of object oriented programming.
+●Deep understanding of distributed, horizontally scalable systems.
+●Experiences with cloud technologies such as AWS, Azure or Google Cloud Engine.
+●Focus on performance bottlenecks and performance improvement techniques.
+●Familiar
+with
+basic
+principles
+of
+compressible
+and
+incompressible
+flow,
+thermodynamics, thermochemistry, mechanics, materials, and electrical circuits.
+●A background in scientific computing, high-performance computing, or mathematics.
+●Strong skills with debuggers, profilers, and unit testing.
+●Interest in/competence with multiple languages and technologies (Python, C++,
+Simulation tools, SQL).
+●
+Familiar with Agile software development techniques, particularly Test-Driven
+Development, and Continuous Integration.
+●Knowledge with database management.
+●Able to prioritize and execute tasks in a high-pressure environment with ongoing drive
+for continuous improvement in all aspects of work.
+●
+Excellent communication skills and ability to succinctly present recommendations to
+stakeholders, the customer, and management.
+●
+Able to work well in an integrated collaborative team environment, including frequent
+interactions with technicians, other engineers, and managers.
+ADDITIONAL REQUIREMENTS
+●
+Must be available to work extended hours and weekends as needed.
+What you could take away?
+●Your work will directly impact the company's (and the rocket's) trajectory.
+●You will learn rocket science from some of the most senior and respected minds in
+ISRO.
+●You will work on shaping space policy in India.
+●You will dirty your hands in a global supply/chain optimization problem.
+Place of posting
+Accomodation details
+CHENNAI
+None
+Bond applicable
+No

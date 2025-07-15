@@ -1,0 +1,169 @@
+Job Details
+R
+OLE
+AND
+R
+ESPONSIBILITIES
+You
+will
+perform
+analyses,
+build
+models,
+and
+design/conduct
+experiments
+to
+improve
+road
+safety
+and
+reduce
+accidents.
+You will
+Design, develop and evaluate Generative
+  AI / LLM / Foundational multi-modal models to understand driving risk, driver
+  coaching and actionable insights.
+Build
+machine
+learning
+models
+and
+design
+product
+features
+to
+improve
+scores,
+compliance,
+and
+other
+key metrics.
+Develop,
+deploy
+and
+improve
+machine
+learning
+models
+in
+end-to-end
+ML
+pipeline
+for
+key
+features
+such
+as accident prediction.
+Design efficient architectures and use
+  techniques like model pruning, quantization, knowledge distillation for
+  real-time edge computing
+.
+R
+EQUIREMENTS
+:
+B. Tech
+in
+Computer Science, Electrical
+  Engineering, or other Q
+uantitative
+Fields.
+Strong
+knowledge
+of
+statistics,
+probability,
+ML,
+and
+estimation
+theory
+Good understanding of data-structures and
+  algorithms.
+Experience
+with
+deriving
+useful
+insights from
+large
+and
+complex
+datasets.
+Strong
+ability
+to
+communicate
+highly
+technical
+results
+to
+a
+diverse
+audience.
+Ability
+to
+develop quick
+proof
+of
+concept
+solutions
+in
+a
+fast-paced
+startup
+environment.
+Good
+hands-on
+experience
+of
+coding
+–
+Python
+(required)
+Experience
+with
+Mathematical/Statistical
+modeling,
+data
+visualization,
+and
+storytelling is a plus.
+Experience
+working
+with
+databases
+–
+Postgres,
+MongoDB,
+etc. is a plus.
+D
+ESIRED
+S
+KILLS
+:
+Experience
+  with prompt engineering and Generative AI foundation models is a plus.
+Signal
+  Processing experience
+working
+with
+time-series,
+rare-event
+detection
+and
+data
+from
+GPS/IMU
+sensors
+would
+be
+useful.
+Fundamental
+  understanding of deep learning and/or computer vision algorithms.
+Publications
+  in CVPR, NIPS, ICLR, ICCV and IEEE journals is a plus.
+Place of posting
+Accomodation details
+Bangalore
+Temporary
+Bond applicable
+No

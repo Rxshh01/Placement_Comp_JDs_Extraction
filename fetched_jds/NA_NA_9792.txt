@@ -1,0 +1,45 @@
+Job Details
+Job Title - Cloud Engineer
+Positions -
+About the Role -
+● Be responsible for engineering cloud infra platforms of Coupa, with opportunities to stretch more broadly. This will include working as cloud
+software engineer & infrastructure platform developers in creating services for provisioning, orchestration, monitoring, scaling & security of
+the infrastructure.
+● Develop softwares for Infrastructure as a Service (IaaS) and Platform as a service (PaaS).
+● Develop automations to address operationalization requirements
+● Develop CI/CD automations to make fastest and safest possible “application delivery”.
+● Communicate and coordinate with our support and professional services teams to solve customer issues/requests specific to Security
+domain
+About You -
+● Software experience building cloud based massive systems involving applications, services, IaaC, DevOps
+● Hands-on development experience using any programming language - Ruby, Go, C/C++, Java, Python or equivalent. Development
+experience using OOPS & Design patterns.
+● Passion with taking a software to production. Jenkins, Infra As A Code IaaC, PaaS
+● Knowledge of Cloud/SaaS architecture using AWS/ Azure/ CloudStack/ OpenStack/ Google Cloud Platform a must.
+● Demonstrable proficiency in coding, data structures, networking,virtualization, design principles, and programming concepts
+● A critical thinker, resourceful, problem-solver who has a passion for applying technology to make human life better
+● Excellent problem-solving ability, a forward-thinking personality, a leader, a pragmatic approach to decision-making, outcome-driven,
+open-minded, creative and consistently seek to innovate and raise the bar
+● Passion for keeping up with new trends and developments in the programming community and is eager to find ways to incorporate these new
+ideas into our solutions
+● Strong communication skills and ability to work independently
+●
+What you will Do -
+● WITHIN 1 MONTH, YOU'LL
+1. Complete the onboarding program.
+2. Learn IaaC, provisioning, configuration management, operationalization
+● WITHIN 3 MONTHS, YOU'LL
+1. Learn about the development and release process used with Coupa Cloud Operations
+2. Develop services on AWS, Azure for automation, integration
+● WITHIN 6 MONTHS, YOU'LL
+1. Become a expert on one of the cloud platform & it’s services
+2. Develop skills as Cloud Software Engineers with DevOps tools.
+● WITHIN 12 MONTHS, YOU'LL
+1. Develop complete end-to-end solution for PaaS, application delivery
+2. Become a SME on one of the cloud platform & it’s services
+Place of posting
+Accomodation details
+Pune/Hyderabad
+None
+Bond applicable
+No

@@ -1,0 +1,47 @@
+Job Details
+Responsibilities
+● Design, develop and test (space hardened) avionics firmware that will support the
+functions of our launch vehicles and test systems.
+●
+Schematic design, generate Bill Of Materials (BOM). Be able to debug the PCB after
+fabrication.
+●Support through the production and testing phase is expected.
+●Review design guidelines to create PCB layouts including PCB footprints.
+●Support firmware engineers with optimal hardware designs.
+Basic Qualifications
+● Diploma/Bachelors in Electrical Engineering or equivalent areas of focus
+● Knowledge in 4-6 layer PCB design, worked with BGAs.
+● Professional experience with experience in fast-paced projects (non-aerospace is
+okay); CPU-based circuit cards, consumer electronics, wireless devices, and/or low
+power platforms.
+● Professional experience with analog, digital or mixed-signal design principles
+including designs using operational amplifiers, filters, and transistors.
+● Knowledge in PCB design software.
+● Knowledge in High-Speed Digital interfaces such as memory buses( eMMC, LPDDR,
+NAND, etc.)
+Preferred Skills and Experience
+● Masters of Science Degree in Electrical Engineering, Computer Engineering or
+equivalent area of focus.
+● Ability to work in a fast paced, autonomously driven, and demanding start-up
+atmosphere
+● Excellent communication skills both written and verbal.
+Additional Requirements
+● Must be available to work extended hours and weekends as needed
+What you could take away?
+●
+You might have created one of the densest PCBs in the world!
+●
+Your work will directly impact the company's (and the rocket's) trajectory.
+●
+You will learn rocket science from some of the most senior and respected minds in
+ISRO.
+●
+You will work on shaping space policy in India.
+●
+You will dirty your hands in a global supply/chain optimization problem.
+Place of posting
+Accomodation details
+CHENNAI
+None
+Bond applicable
+No

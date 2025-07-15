@@ -1,0 +1,32 @@
+Job Details
+Data Analyst
+Roles & Responsibilities:
+Develop insights to identify opportunities and drive product strategies. Gain insight into customer use of current products, untapped opportunities and buyer personas.
+Partner with product/business teams to define goals and identify key metrics for existing features and new releases
+Build automated dashboards and reports, craft analyses and tell stories with data to help our teams make better decisions
+Drive awareness and understanding of key metrics and experiment results
+Monitor the performance of new features and recommend iterations based on your findings
+Deep dive into assessment of key drivers for KPIs by drawing relevant business hypothesis and quantify the impact of these drivers on the relevant KPI
+Execute deep & complex quantitative analyses that translates data into actionable insights
+Drive data driven decision making through the stakeholders.
+Work with complex, non-routine analytical problems, applying advanced methods when needed.
+Influence data-driven decisions across the business spectrum - product/data science /engineering/finance / partnerships - through end-to-end ownership of projects
+Collaborate and coordinate across functions to dissect business, product, growth, acquisition, retention, and operational metrics.
+Required skills & Qualifications:
+Bachelor's degree in Computer Science, Engineering or related field from top tier (IIT/IIIT/NIT/BITS)
+The ability to clearly and effectively communicate the results of complex analyses
+Is detail oriented, with a strong passion for analytics and problem solving
+Is excited to work in a fast paced environment, is comfortable with making decisions in ambiguity, and has a strong bias for action.
+Knowledge of data mining principles: predictive analytics, mapping, collecting data from multiple data systems, along with strong programing and SQL skills.
+Strong understanding of probability & stats and experience using analytical concepts and statistical techniques: hypothesis development, designing tests/experiments, analyzing data, drawing conclusions, and developing actionable recommendations for business units.
+Experience and knowledge of statistical modeling techniques: GLM multiple regression, logistic regression, log-linear regression, variable selection, etc.
+Experience with Excel, Word, and PowerPoint.
+Background in statistical modeling and experience with statistical tools such R, Python, Spark is desired.
+Able to self-manage your priorities and deliverables while working in a fast-paced, startup environment
+Having hands-on experience with visualization tools (Tableau, PowerBI, Qlikview) is a huge plus.
+Place of posting
+Accomodation details
+Bangalore
+None
+Bond applicable
+No

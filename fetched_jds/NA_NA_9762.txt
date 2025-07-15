@@ -1,0 +1,89 @@
+Job Details
+Associate Consultant – ITAS- Analytics (Data Science/Data Engineering)
+The opportunity
+If you join one of our service lines, you'll be working with leading client organizations, including some of the
+world's top and most entrepreneurial businesses. If you join us as a member of support services, you'll play a vital
+role in maintaining the quality of our internal business operations. Whatever path you choose, you'll be
+encouraged and supported to succeed and to help others to do so too.
+We offer a broad range of development opportunities. From day one we'll encourage you to define your
+aspirations and help you achieve them. We do this through formal training, on-the-job support, coaching, and
+rewarding challenges that will stretch you and help you grow.
+As your career develops, we offer numerous ways to move up, move on or change direction – all within the EY
+organization. It's important to us that our people are empowered to use their skills and experience in a range of
+areas, not just across services and sectors but around the world.  Wherever your aspirations meet the needs of  our
+clients and our business, we will support you in making a change. You can take your career wherever you wish
+– whether through varied internships, continuing education or extended positions overseas.
+Your key responsibilities
+• The job role requires a balanced combination of business and domain expertise and ability to map
+them business requirements and user analytic requirements to IT solutions and help design,
+develop and configure IT solutions
+• The candidate gets to implement scenario analysis as well as stochastic analysis for Supply Chain
+Planning scenarios and propose solutions to improve the client’s processes
+• Involvement in building appropriate mathematical models relevant to the BFS, Retail, CPG, Life
+science, Health, Power & Utility industry vertical
+• Manage client’s expectations and work with team in developing the analytical solution.
+• Hands on involvement in building appropriate mathematical models relevant to the BFS, Retail,
+CPG, Life science, Health, Power & Utility industry vertical
+• Contribute to existing solution by revisiting it with open source approach
+• Ability to communicate complex data analysis in simple plain language
+• Ability to present information professionally & concisely with supporting data
+• Ability to understand the complex data relationships, knowledge on data extraction mechanisms
+such as SQL, Excel etc
+• Hands on involvement in extracting, collating, performing data integrity checks, manipulating and
+analysing data
+• Contribute to advisory engagements in the capacity of a team member - deliver quality output
+within assigned timelines
+• Attend L&D programs and exhibit through knowledge of advisory methodology and consulting
+attributes
+• Keep abreast with developments in business related areas and assist team leaders/managers/seniors in
+preparing client decks
+• Exhibit initiative and participate in corporate social and team events. Skills and attributes for
+success
+• Broad consulting and project management skills, effective written and oral communication skills
+• Strong problem-solving skills with an analytical bent of mind, & willingness to travel to meet client
+• A logical/analytical/mathematical way to approach problems and proposing solutions
+• Inclination towards robotics & cognitive automation, machine learning and deep learning
+In addition to core competencies in analytics and management, an understanding of some or all of the following
+would be an asset:
+• Optimization/Analytical models used in different Supply Chain Management Processes
+• Knowledge of different IT tools used in Supply Chain Management process area
+• Exposure to data management tools like SQL, SSIS
+Tools and techniques:
+• Hands-on experience in one or more Statistical tools – Python, SAS and R (preferable)
+• Data mining and manipulation experience
+• Preferable Mainframe experience to extract data Soft Skills:
+• Excellent written and oral communication skills
+• Displays interpersonal, and leadership ability across all levels coupled with effective
+• Problem solving, conceptual thinking, quantitative and analytical skills.
+To qualify for the role, you must have:
+• Degree in Engineering with good academic track record.
+• Experience working on Big Data platforms (Hadoop, Mongo Db etc.) preferable
+• Must have data visualization experience (preferably Tableau, QlikView or Power BI)
+Ideally, you’ll also have:
+• Strong communication, facilitation, relationship-building, presentation and negotiation skills.
+• Be highly flexible, adaptable, and creative.
+• Comfortable interacting with senior executives (within the firm and at the client) Strong leadership
+skills and supervisory responsibility.
+What we look for
+People with the ability to work in a collaborative way to provide services across multiple client  departments
+while adhering to commercial and legal requirements. You will need a practical  approach to solving issues
+and complex problems with the ability to deliver insightful and practical solutions.
+What working at EY offers
+EY  is  committed  to  being  an  inclusive  employer  and  we  are  happy  to  consider  flexible  working arrangements.
+We  strive  to  achieve  the  right  balance  for  our  people,  enabling  us  to  deliver excellent  client  service  whilst
+allowing  you  to  build  your  career  without  sacrificing  your  personal priorities. While our client-facing professionals
+can be required to travel regularly, and at times be based at client sites, our flexible working arrangements can help
+you to achieve a lifestyle balance.
+About EY
+As a global leader in assurance, tax, transaction and advisory services, we hire and develop the most passionate people
+in their field to help build a better working world. This starts with a culture  that believes  in  giving  you  the  training,
+opportunities  and  creative  freedom  to  make things better. So that whenever you join, however long you stay, the
+exceptional EY experience lasts a lifetime.
+If you can  confidently  demonstrate  that  you  meet  the  criteria  above,  please  contact us as soon as possible.
+Join us in building a better working world. Apply now.
+Place of posting
+Accomodation details
+PAN India
+None
+Bond applicable
+No

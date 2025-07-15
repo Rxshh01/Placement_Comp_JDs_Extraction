@@ -1,0 +1,43 @@
+Job Details
+Are you a recent graduate with a passion for technology and innovation? Join our team as a Software Engineer I, where you will have the opportunity to work on challenging projects, develop your skills, and contribute to the creation of impactful software solutions. This role is designed for fresh graduates eager to start their career in a dynamic and collaborative environment.
+Responsibilities:
+•
+Develop and Implement: Write clean, efficient, and maintainable code for various software applications and systems.
+•
+Collaborate: Work closely with product managers, designers, and other engineers to understand requirements and deliver high-quality software solutions.
+•
+Debug and Test: Participate in debugging, testing, and optimization of software applications to ensure reliability and performance.
+•
+Learn and Grow: Engage in continuous learning and improvement by attending workshops, participating in code reviews, and staying up-to-date with the latest industry trends and technologies.
+•
+Document: Assist in creating and maintaining technical documentation for software applications and systems.
+Requirements:
+•
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+•
+Proficiency in at least one programming language such as Java, Python, C++, or JavaScript.
+•
+Strong understanding of computer science fundamentals, including algorithms, data structures, and software design principles.
+•
+Excellent problem-solving skills and a proactive attitude.
+•
+Good communication and teamwork skills, with a willingness to collaborate and learn from others.
+•
+Conceptual understanding of Front-End/Back-End components as well as microservices
+•
+Growth mindset: Ability to adapt and learn with changing situations.
+Preferred Qualifications:
+•
+Internship experience in software development or related fields.
+•
+Familiarity with software development tools and methodologies, such as version control systems (Git), integrated development environments (IDEs), and agile practices.
+•
+Basic understanding of web technologies, databases, and cloud services.
+•
+High ownership and accountability mindset
+Place of posting
+Accomodation details
+Noida
+None
+Bond applicable
+No

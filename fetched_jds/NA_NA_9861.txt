@@ -1,0 +1,39 @@
+Job Details
+Apple’s IS&T team is looking for highly motivated and talented engineers to build the next
+generation of software services that power several mission critical applications. We are
+looking for extraordinary individuals with strong communication and interpersonal skills
+and ability to work effectively across multiple business and technical teams.
+As a part of this dynamic team, you will build cutting edge software service, one that is
+continually innovating & is proud of making a difference and help us build the Apple
+experience on a global scale. You should be a self starter, motivated, with exceptional
+interpersonal skills as well as a positive and flexible approach to problems. Your ability to
+thrive in a fast-paced environment is what we are looking for.
+Key Responsibilities
+• Develop and Maintain Code: Write clean, efficient, and well-documented code for
+assigned projects and tasks.
+• Collaborate with Teams: Work closely with cross-functional teams to understand
+requirements, design solutions, and execute project tasks effectively.
+• Test and Debug: Perform unit testing, debugging, and code reviews to ensure
+high-quality code and resolve issues promptly.
+• Learn and Apply New Skills: Engage in continuous learning to stay current with
+industry trends, technologies, and best practices.
+• Participate in Agile Practices: Contribute to Agile ceremonies (e.g., stand-ups,
+sprint planning) and understand Agile workflows.
+• Problem Solving: Assist in identifying and resolving technical issues, providing
+fresh insights and innovative solutions.
+Minimum Qualifications:
+• Pursuing a Graduate or Masters degree
+• Related internship experience
+• Graduating in the year 2025
+Desired Skills
+• Excellent problem-solving and communication skills
+• Strong programming knowledge in Java, Python, C/C++, SQL or other high level
+languages
+• Related internship experience
+• Desired Majors include: CS, CE, ECE, EECS, IS, IT and other related fields of study
+Place of posting
+Accomodation details
+Hyderabad
+None
+Bond applicable
+No

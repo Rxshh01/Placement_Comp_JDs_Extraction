@@ -1,0 +1,44 @@
+Job Details
+Position – Software Development Engineer -1
+Job Role – Engineering
+Team – Technology
+Location – Gurgaon/Bangalore/Chandigarh
+About Tata 1mg
+Tata 1mg is India’s leading consumer health platform. It aspires to be the trusted health partner for all Indians and
+its mission is to make healthcare accessible, understandable, and affordable. Leading the chart as one of the top
+consumer health platforms through e-pharmacy, e-diagnostics, e-consulting and offline stores, it is also one of the
+most preferred pharmacy and diagnostic partners for the leading hospitals in India. It enables consumers to learn
+more about their medicines and find more cost-effective substitutes.
+Tata 1mg is an initiative taken in the spirit of public service with a vision to empower Indian consumers and
+caregivers to select the most appropriate healthcare service at the best possible prices.
+Brief about the Team :
+The Engineering team at Tata 1mg is a skilled and dedicated group responsible for developing and maintaining the
+robust infrastructure that powers the company's platform. With expertise in backend technologies, they
+seamlessly integrate systems, databases, and APIs to improve and help in users' healthcare journey. Their focus on
+security and reliability ensures high performance and data protection. The team's attention to detail and
+problem-solving abilities contribute to Tata 1mg's reputation as a leading health tech platform.
+What we are looking for:
+● Someone with hands-on with any one of these :
+❖ Python Web Frameworks (Django, Flask, etc.), Ruby on Rails, Nodes or any other programming
+language .
+❖ Android/iOS app development.
+❖ MERN stack.
+● Strong foundation in data structures & algorithms.
+● Good problem solving skills.
+● Knowledge of Non Relational Databases and/or relational databases.
+● Knowledge of System design and architecture is a plus.
+● Knowledge of service-oriented architectures is a plus.
+What will you do:
+● Taking ownership of modules development to production.
+● Own nonfunctional aspects of the modules.
+● Contribute to architecture and tech stack-related tasks.
+Why Join Us?
+Tata 1mg provides one of the most exciting and high growth environments to work. You get the added
+benefit of working in a prestigious legacy brand like Tata and a highly dynamic and versatile startup like
+1mg. The leadership of tata 1mg is determined to make it one of the best places to work.
+Place of posting
+Accomodation details
+Bangalore/Gurgaon/Chandigarh
+None
+Bond applicable
+No

@@ -1,0 +1,36 @@
+Job Details
+Company Overview:
+Geminus Tech is a dynamic and innovative software company specializing in providing cutting-edge solutions for startups in the fields of Enterprise Networking and Storage, Kubernetes/Cloud, Satellite, and Software-Defined Vehicles (SDV). We are dedicated to pushing the boundaries of technology and driving advancements in various domains.
+Position Overview:
+We are seeking a highly motivated and talented Fresh Graduate to join our team as a Software Engineer. As a key member of our development team, you will have the opportunity to work on exciting projects that leverage Linux OS, Enterprise Networking, Storage, Kubernetes/Cloud, Satellite, and SDV technologies.
+Responsibilities:
+Software Development:
+Collaborate with cross-functional teams to design, develop, and maintain software solutions.
+Write clean, efficient, and well-documented code.
+Contribute to all phases of the software development lifecycle.
+Programming Skills:
+Possess strong programming skills in at least one language such as C/C++, Golang, Python, or Java.
+Ability to learn and pick up new programming languages.
+Linux OS Expertise:
+Demonstrate proficiency in Linux operating systems.
+Good knowledge of Linux commands and tools like shell scripting, sed, awk, Tcl, python
+Analytical Ability:
+Exhibit strong analytical and problem-solving skills.
+Debug and optimize code for performance.
+CS Fundamentals (for candidates with CS background):
+Understanding internals of OS, networking, storage
+Understand and implement data structures and algorithms effectively.
+Qualifications:
+Bachelor's or Master’s degree in Engineering.
+Strong programming skills in at least one language (C/C++, Golang, Python, Java or any other programming language).
+Familiarity with Linux operating systems.
+Good analytical and problem-solving abilities.
+For candidates from a CS background: Understanding of Computer Science fundamentals, data structures, and algorithms.
+Preferred Skills:
+Familiarity with containerization technologies like Docker and orchestration frameworks like Kubernetes.
+Place of posting
+Accomodation details
+Pune
+Temporary
+Bond applicable
+No

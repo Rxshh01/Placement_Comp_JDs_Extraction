@@ -1,0 +1,96 @@
+Job Details
+【
+Technology Field
+】
+Machine Learning,
+Software Engineering
+【
+Position Summary
+】
+Sony is developing advanced AI that operates in various
+use cases and environments, such as autonomous driving and game AI. While it is
+necessary to prepare vast amounts of data for different scenarios, the
+preparation of the data itself and its annotation pose challenges. Our team is
+at the forefront of developing new AI learning technologies, leveraging a wide
+array of training data, including annotated, unannotated, and synthetic data.
+We are in search of engineers eager to innovate in AI learning technologies and
+advanced AI systems. Our projects span from autonomous driving and generative
+AI in gaming and imaging to focusing on large-scale computing and distributed
+processing.
+As a software engineer on our team, you will engage in projects critical to
+Sony's diverse needs, contributing directly to the advancement of AI
+technology. Moreover, you will have the opportunity to integrate these AI
+technologies across various Sony business domains, ranging from gaming to
+finance. This role not only allows you to contribute to the development of
+cutting-edge AI training technologies but also offers a pathway to grow into a
+versatile engineer, akin to a full-stack developer, grounded in a broad
+understanding of software development.
+【
+Responsibilities
+】
+■
+Develop AI learning technology utilizing various
+datasets such as unannotated, synthetic data, etc.
+■
+Launch products showcasing the developed technology.
+■
+Fully utilize AI learning frameworks such as PyTorch.
+■
+Fully utilize GPUs for development and software
+optimization.
+■
+Present technology capabilities through academic
+papers.
+■
+Become a world-class engineer by mastering the most
+advanced technologies in machine learning and AI.
+■
+Become a leader or a key contributor in a team that
+introduces original technologies to the market as products/services, in
+collaboration with other departments such as marketing, product design,
+manufacturing, etc.
+■
+Collaborating with global Sony group companies, you
+can create business value as a data scientist across various business units,
+including electronics, finance, gaming, entertainment, medical, and more.
+【
+Required qualifications
+】
+■
+Master's degree in Computer Science, a related technical
+field, or equivalent practical experience.
+■
+2 years of experience with one or more general-purpose
+programming languages, including but not limited to: C/C++, or Python.
+■
+2 years of experience in the field of Machine
+Learning.
+■
+Ability to speak and write in English fluently and
+idiomatically.
+【
+Preferred qualifications
+】
+■
+Experience in developing software using GPUs and
+parallel processing.
+■
+Experience with AWS and/or other cloud services.
+■
+Ability to speak and write in Japanese.
+【
+Product, Service
+】
+Autonomous Driving System
+3D world generation for Game and Virtual Production
+【
+Development Environment
+】
+PC: desktop PC and GPU-based supercomputer.
+OS: Windows and Linux
+Place of posting
+Accomodation details
+Tokyo, Japan
+Temporary
+Bond applicable
+No

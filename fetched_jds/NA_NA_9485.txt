@@ -1,0 +1,11 @@
+Job Details
+1. Block level Physical Design from floorplan, CTS, P&R.
+2. Performance/Power/Area Optimization, Timing Closure, EM/IR and Physical Verification fixes, and design signoff.
+3. PD using leading edge technology node with high design complexity including multi-million instance count and multi power domains.
+4. Need self-motivated person with strong ownership and commitment. A quick learner with out of the box thinking and good at teamwork is a plus.
+Place of posting
+Accomodation details
+Hsinchu, Taiwan
+Temporary
+Bond applicable
+No

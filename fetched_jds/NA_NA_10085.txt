@@ -1,0 +1,26 @@
+Job Details
+Role 10 – Python Developer
+Job Summary: -
+We are seeking a highly skilled and experienced Python Developer to join our team. As a Python Developer, you will be responsible for designing, developing, testing, and maintaining software applications using Python programming language. You will work closely with cross-functional teams to identify and prioritize project requirements, and develop high-quality software solutions that meet business needs
+Key Responsibilities: -
+•        Design, develop, test, and maintain software applications using Python programming language
+•        Collaborate with cross-functional teams to identify and prioritize project requirements
+•        Develop high-quality software solutions that meet business needs
+•        Ensure that all solutions are aligned with the company's coding standards
+•        Troubleshoot and resolve issues related to Python applications
+•        Work with data scientists and data analysts to develop data-driven solutions
+•        Develop and maintain APIs using Python frameworks such as Flask or Django
+•        Implement data storage solutions using databases such as MySQL or MongoDB
+•        Participate in the development of automated tests and ensure that all solutions are thoroughly tested
+•        Stay up to date with industry trends and emerging technologies
+Soft Skills:
+•       Problem-Solving: Efficiently resolve technical issues.
+·        Communication: Strong verbal and written communication skills.
+·        Continuous Learning: Passion for learning new technologies and frameworks.
+·        Collaboration: Ability to work collaboratively with development teams and project managers.
+Place of posting
+Accomodation details
+Pune, Bangalore, Kochi
+None
+Bond applicable
+No

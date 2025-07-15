@@ -1,0 +1,123 @@
+Job Details
+JOB DESCRIPTION
+What will you be Doing?
+We are in process building of India’s Blockchain Infrastructure to cater to India’s 
+financial institutions.
+You will be working with world class system designers, domain specialists, developers 
+to solve core engineering problems in the area of Blockchain, Distributed Systems, 
+DevOps/Cloud that impact the financial services ecosystem of the nation. 
+As an intern/employee in the Innovation/Blockchain team, you get an opportunity to 
+work in the following capacity:
+• As an engineer, building core Blockchain components and decentralised applications
+• Designing technical components with functional and non-functional requirements
+•Solving core engineering challenges around scalability, optimising throughput and low 
+latency of distributed systems, databases with data replication and consistency for 
+population scale 
+It would be desirable if you are:
+• Equally comfortable working in teams and as an individual contributor
+• Knowledge of 
+one of the following programming languages: GoLang / Typescript / Angular JS / Nodejs / 
+Rust
+• Knowledge in Distributed Systems, NoSQL Databases, DevOps/Cloud 
+What can you expect? 
+You will be part of the Market Innovation group and get exposure working with a high
+performance team on productionized blockchain platform designed to be consumed at 
+national scale
+JOB DESCRIPTION
+It would be desirable if you have:
+• Have knowledge in Statistics, Quantitative Economics, Operations Research (OR), 
+Bayesian Modelling or any similar fields
+• Exposed to Supervised and Un-supervised Learning methods/algorithms from all 
+genres viz. Statistical (e.g. Logistic, Discriminant, K-means etc), Machine Learning 
+(e.g. Random Forest, SVM etc), or Deep Learning (e.g. NN, CNN etc)
+• Some Python and SQL skills – have the flair to pick-up any language/technology/tool 
+in quick time
+• Passion in solving business problems with data
+• Good storytelling and articulation skills
+• Good teaming skills
+• Proactive and can figure out things on his/her own attitude
+• Should have good sense of ownership
+Good-to-have
+• Some banking/finance knowledge
+• External conference presentations / White Papers / Articles Publishing / Patents
+• Some exposures using Google OR, IBM ILOG etc OR tools
+• Some exposure to NLP (Natural Language Processing)
+JOB DESCRIPTION
+Any IT Analyst who joins NPCI gets to work on projects and platforms that impact the payments and 
+financial services ecosystem of the nation.
+As a recruit in the AI team, you shall be working in one of the following capacities:
+o Data Engineer
+You would be responsible for:
+• Interacting with cross-functional teams to foster a data driven payments 
+organization
+• Creation of data pipeline for models which include data preparation, data cleaning, 
+• transformations using open-source tools such as DBT, Feast, Kubeflow, Mlflow etc
+• Working on big data systems such as Hive, Trino and spark for feature generation 
+and data processing
+• Development of data streaming applications and REST services for model serving in 
+Production
+• Compilation of complex predictive model packages for production deployment, 
+support model installations, and monitor and calibrate production models
+• Performing analysis on various data sources and generate reports and deeper 
+insights at the aggregate level, as well as at the model level. Interpret and present 
+these results to a non-technical audience
+• Kafka, Spark, Scala and Flink skill sets for streaming jobs
+o Data Scientist
+You would be responsible for:
+• Working on exploratory data analysis such as fraud prediction
+• Finding opportunities to create and automate repeatable analyses or build selfservice tools for business users
+• Building traditional machine learning models and deep learning models - which 
+would work on tabular data, images, voice, and text -- all of which are related to use 
+cases in the payment’s domain
+• Designing experiments, test hypotheses, and build, train and deploy various models 
+utilizing the traditional datasets and graph data
+• Scripting in Python and SQL.
+o ML Ops Engineer
+You would be responsible for:
+• Creation of ML models for data pipelines and engineering infrastructure to support 
+the machine learning systems at scale
+• Building docker images of the machine learning models and deploy them onto 
+production systems
+• Development and deploying of scalable tools and services to satisfy the needs of 
+the team
+• Identification and evaluation of new technologies to improve performance, 
+maintainability, and reliability of the ML systems
+• Development of CI/CD pipelines and enable automation using ArgoCD, Jenkins, etc
+• Maintenance of versioning of the artifacts deployed on the systems using Git
+• Deployment and configuration of tools on Kubernetes along with administration of it
+• Deployment & maintenance of the BigData storage (Ceph,etc..) and their interfaces 
+like Rook & S3.
+• Exposing models as services
+• Exposure/ skills on Redis, Gunicorn, Ngnix, Kafka, Druid, MinIO and Trino etc
+o Insight Analyst
+You would be responsible for:
+• Working with the Analytics leads to define clear business requirements for data 
+analysis projects
+• Extracting, cleaning and preparing data for analysis using PL/SQL, Python
+• Performing exploratory data analysis (EDA)
+• Interpreting data, formulating hypotheses and developing an analytical approach to 
+generate data driven insights
+• Presenting insights in a concise and consumable form including business impact 
+and key visualizations
+• Developing reports and dashboards using Superset or any visualization tool
+• Create >= 4 snippets covering data insights a month
+• Work on data insights using statistical methods like hypotheses testing, regression, 
+classification, forecasting
+o Statistics
+You would be responsible for
+• Development of Supervised and Un-supervised Learning methods/algorithms from 
+all genres viz. Statistical (e.g. Logistic, Discriminant, K-means etc), Machine 
+Learning (e.g. Random Forest, SVM etc), or Deep Learning (e.g. NN, CNN etc)
+• Scripting in Python and SQL skills – have the flair to pick-up any 
+language/technology/tool in quick time
+• Solving business problems with data
+• Good storytelling, articulation and documentation.
+• Taking the ownership and figure out things proactively.
+• Should have knowledge in Statistics, Quantitative Economics, Operations Research 
+(OR), Bayesian Modelling or any similar fields
+Place of posting
+Accomodation details
+Mumbai / Hyderabad/ Chennai (to any location within India as per business requirement)
+None
+Bond applicable
+No

@@ -1,0 +1,77 @@
+Job Details
+Quadeye is one of the largest proprietary trading firms. Since inception, we have consistently 
+grown at a handsome rate and have a distinct track record of success behind us. We run a stable 
+business spread globally across various asset classes. Our greatest strength is our work culture 
+which takes a collaborative and non-hierarchical approach against an opposing prevalence in 
+the industry. We strive as one team to stay ahead of the competition all the time.
+Daskh Trading is a fast-growing high-frequency trading team specializing in automated market 
+making strategies. We strive to be at forefront of low-latency execution, financial modelling 
+and risk management.
+We are looking for a smart young individual willing to work in a multi-disciplinary role. The 
+role offers the individual an exciting opportunity to learn about financial markets and cuttingedge technologies and to grow with the company. You will learn about the dynamics of 
+automated trading, market microstructure, modelling and pricing financial derivatives, risk 
+management, and the technical skills needed to implement your ideas.
+Primary responsibilities:
+1. You will be responsible for delivering and controlling end-to-end product development.
+a. Work directly with traders who have a deep respect for technology.
+b. Collect and analyse data.
+c. Prototype solutions and models in order to confirm the validity and effectiveness of the 
+proposals.
+d. Develop, test and back-test production-ready solutions
+2. You will write code for
+a. New features
+b. Latency and stability improvements
+c. Analysing huge volume of data
+d. Implementing and testing new design ideas
+3. You will be responsible for managing your time and tasks on development, analysis 
+and experimentation.
+4. You will be required to keep a variety of systems and technologies up-to-date 
+and improve them for business operations
+Requirements:
+1. Bachelors in electrical engineering, Computer Engineering, Computer Science or related 
+technical field
+2. Understanding of Computer Architecture
+3. Knowledge of Algorithms and Data structures
+4. Strong Quantitative skills
+Coding/IT Skills:
+1. Ability to work in a Linux environment
+2. Ability to write clean, reliable and highly scalable code
+3. Experience of development in C++
+4. Experience with high-transaction, low-latency optimisation
+5. Some networking experiences
+6. Understanding of CPU architecture
+Must be Interested in:
+1. Achieving maximum performance from available hardware and software
+2. Attracted to the dynamics and fundamentals of the financial markets
+3. Eagerness to learn and broaden one's skill set is a must, also outside your department
+Communication Skills:
+1. Must be Fluent in English
+2. Ability to communicate with technical and business colleagues
+Personality Traits:
+1. Ability to work independently and also in a small team
+2. Can take initiative and be pro-active
+3. Highly analytical & problem-solving qualities
+4. Detail-oriented and precise
+What we offer:
+1. Competitive package
+2. Learn about the top-of-the-class trading system.
+3. Quick feedback loop. There is nothing like seeing your ideas/solutions make an impact 
+on business. We release early and often to get incremental benefits as they are developed
+4. We operate at the bleeding edge of technology, which keeps us on the toe and always 
+excited about technology shaping our business.
+5. Opportunity to learn as we really believe in sharing knowledge and technology, helping 
+individuals in their personal growth.
+6. To see and learn up close how financial markets work.
+7. Getting to know, learn and share ideas and solutions with other smart people.
+Benefits:
+1. Group Health Insurance
+2. Visa sponsorship
+3. Snacks and drinks in the office
+4. Monthly Team parties
+5. Gym
+Place of posting
+Accomodation details
+HongKong
+Temporary
+Bond applicable
+No

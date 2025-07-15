@@ -1,0 +1,59 @@
+Job Details
+Position Title
+: C++ Developer
+Summary
+We are building
+MFT (Medium Frequency Trading
+) and
+HFT (High Frequency Trading)
+systems which are scalable, automated, and extremely fast. We want passionate developers to be part of this journey with us. As early team members, you will have exposure to a lot of different modules and would be part of building something from grounds up.
+As a C++ Developer, you will be responsible for designing, implementing, and maintaining scalable software solutions. The ideal candidate should have a strong understanding of C++ and low latency coding, be proficient in low level design, and possess a passion for delivering high-quality code. You will work on building low latency frameworks, processing large amount of real time data, and building scalable automated trading platforms.
+The position holder shall be responsible for
+•
+Design and develop low-latency trading software in C++ for high-frequency trading systems.
+•
+Optimize code and algorithms for maximum performance and minimal latency.
+•
+Work closely with the quantitative research team to understand and translate trading strategies into code.
+•
+Collaborate with other developers to integrate new features and enhancements into existing systems.
+•
+Troubleshoot and debug issues in production environments.
+•
+Explore and adopt new technologies that can improve trading efficiency and execution quality.
+•
+Stay abreast of advancements in trading technology and implement improvements to enhance efficiency.
+Knowledge, Competency and Skill requirements
+•
+Strong knowledge of data structures and algorithms.
+•
+Experience with database management systems.
+•
+Passion for financial markets.
+•
+Entrepreneurial, enterprising and an agile mindset.
+•
+Ability to adapt to a dynamic work environment and show exceptional prowess at managing large impact situations.
+•
+Keen to learn, hungry for growth.
+•
+Flexibility to work independently and as a part of the team.
+•
+Strong quantitative aptitude and high EQ.
+Preferred Skills
+•
+Understanding of core C++ concepts.
+•
+Knowledge of OS, networks, and system architecture.
+•
+Strong data structures and algorithms understanding.
+•
+Knowledge of low latency design.
+•
+Understanding of security principles and best practices in software development.
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+No

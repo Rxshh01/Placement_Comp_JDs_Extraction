@@ -1,0 +1,42 @@
+Job Details
+About the Role:
+As a Software Developer at WinZO,
+your primary focus will be to learn the codebase, gather user data. You will also work on delivering critical code to help ensure  applications are up-to-date and fully functional. Y
+ou will be designing and developing APIs, working on designing
+storage solutions. Involved in doing code automation and implementation of codes. Working on new and
+innovative ideas to enhance the tech stack.
+What you will do:
+Learning the codebase and improving your coding skills.
+Writing and implementing efficient code.
+Maintain and improve the performance of existing software.
+Experiment with new & relevant technologies and tools, and drive adoption while measuring yourself on the  impact you can create.
+Designing and developing scalable APIs for different clients used by our users.
+Collaborate with multiple stakeholders to define, design, and ship new features
+Document development phases and monitor systems
+Code Optimization from time to time to enhance performance
+Write clean and thoroughly tested code that is reusable
+Come up with innovative ideas or suggest new/emerging technologies to enhance our tech stack
+What you should have:
+Sound familiarity with at least one of the programming languages such as C#, JAVA, Javascript
+Ability to work with a relational database
+Good to have knowledge of MongoDB/Redis/ElasticSearch/Kafka
+Proficiency with Git
+Must have good OOPS fundamentals
+Good to have Computer Science fundamentals in operating systems, networks
+Strong algorithm/data structures design and problem-solving skills
+Ability to diagnose and solve complex problems.
+Excellent organizational and leadership skills
+Ability to work independently
+What we offer you:
+A flat and transparent culture with an incredibly high learning curve
+A swanky informal workspace which defines our open and vibrant work culture
+Opportunity to solve new and challenging problems with a high scope of innovation
+Complete ownership of the product and chance to conceptualize and implement your solutions
+Opportunity to work with incredible peers across departments and be a part of the Tech revolution
+Most importantly, a chance to be associated with big impact early in your career
+Place of posting
+Accomodation details
+New Delhi
+None
+Bond applicable
+No

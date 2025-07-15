@@ -1,0 +1,30 @@
+Job Details
+Job Description:
+We are seeking ten highly motivated PhD candidates with strong backgrounds in Computer Science and specialized expertise in areas including but not limited to Natural Language Processing, Computer Vision, Data Science and Data Engineering, Speech Recognition and Synthesis, Cryptography and Blockchain, Database Optimization, and Cyber Security. The successful candidates will be part of a dynamic research team working on the latest innovations and research areas in fintech, aiming to publish ground-breaking papers and develop implementable, futuristic solutions.
+Key Responsibilities:
+✓ Conduct innovative research in your area of expertise.
+✓ Collaborate with a multidisciplinary team to design and implement new technologies in the fintech space.
+✓ Analyze and improve existing platform functionalities using advanced technologies.
+✓ Publish research findings in top-tier journals and conferences.
+✓ Stay abreast of the latest developments in your field and propose novel research directions.
+✓ Mentor junior team members and contribute to their professional growth.
+Required Qualifications:
+✓ PhD in Computer Science or a closely related field from IITs/NITs.
+✓ Proven expertise in one or more of the following areas: NLP, Computer Vision, Data Science, Data Engineering, Speech Recognition, Cryptography, Blockchain, Database Optimization, Cyber Security.
+✓ Strong programming skills in languages such as Python, Java, C++, or similar.
+✓ Track record of published research in relevant fields.
+✓ Excellent problem-solving and analytical skills.
+✓ Excellent written and verbal communication skills.
+✓ Experience with cloud platforms like AWS, Azure, or Google Cloud.
+✓ Familiarity with fintech regulations and compliance standards will be preferred.
+✓ Previous experience in a research role within the financial services industry will be preferred.
+Job
+Job Location: Chennai
+Designation:  Research Scientist
+CTC : 20-25 LPA depending on the calibre of the candidate
+Place of posting
+Accomodation details
+Chennai
+Temporary
+Bond applicable
+No

@@ -1,0 +1,12 @@
+Job Details
+Build and deploy RESTful APIs with high uptime, low latency, and seamless integration.
+Use versioning, caching, and security; manage data with Postgres,NoSQL, Redis, and Firebase.
+Build scalable and reliable backend infrastructure using AWS services such as Elastic Beanstalk, CloudFront, S3, EC2, Lambda, API Gateway, and SQS.
+Follow best practices, write clean code.
+Stay updated on industry trends and mentor junior team members.
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+No

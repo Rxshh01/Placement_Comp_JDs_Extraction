@@ -1,0 +1,23 @@
+Job Details
+Who Should Apply?
+❖ You have the makings of an ace developer - impressive problem-solving skills, sharp reasoning and a logical bent. You are passionate about programming
+and delivering, clean, test-covered, well-designed, scalable code. You have a good grasp on programming fundamentals including OOPs, Design Patterns,
+algorithms, data structures, networking etc and are not rigid with respect to choose of technology, are relatively platform agnostic, and open to adopting the
+right technology for the task at hand.
+Skills –
+❖ You are acquainted with / have mastered a few of the below skills/tools - Java, C#, PHP, Ruby, Python, C++, Javascript, WPF, Erlang, Haskell, LISP, Linux,
+Flex, XUL, Bash, Advanced Networking, Async IO, Routing, TCP/UDP, Postgres, Data structures, Advanced RDBMS, MySQL, MSSQL, neo4j, BDB,
+REST, SOAP, IPC, RPC, HTML, CSS, Ajax, Agile, TDD, XP, Scrum, caching, Load Balancing, Horizontal Partitioning, memcached, Multi-threading,
+Concurrency, Scalability, Unicode, Usability / Ux, MVC, Spring, Titanium, Ant, Watir, Selenium, Git, CVS, SVN, JIRA, ... ad infinitum
+Bonus points –
+- Knowledge of Agile development methodologies (XP, Scrum etc)
+Active Blogger - Contribution to Open-Source projects
+You wrote your first program on a ZX Spectrum (Add extra points if you still own the wicked cool box)
+Ability to rattle off the names of every planet from Issac Asimov's Foundation
+Trilogy in reverse alphabetical order Location : Mumbai/Bangalore
+Place of posting
+Accomodation details
+Mumbai
+Temporary
+Bond applicable
+No

@@ -1,0 +1,38 @@
+Job Details
+Role -1
+SDE-1 Backend
+As a Software Developer at Purplle.com, you will play a key role in designing, developing, and maintaining high-performance
+software solutions. You will work with a cross-functional team of engineers and collaborate on projects that leverage your expertise
+in Golang, Node.js, PHP, MySQL, MongoDB, Redis, Kafka and Google Cloud Platform.
+Key Responsibilities:
+● Design, develop, and maintain software applications using Golang and Node.js.
+● Create and optimize database schemas and queries using MySQL and MongoDB.
+● Implement caching solutions with Redis.
+● Integrate and work with event streaming platforms like Kafka.
+● Collaborate with team members to design and implement complex product solutions.
+● Take ownership of projects from inception to deployment.
+● Write clean, efficient, and maintainable code.
+● Collaborate with DevOps and infrastructure teams to deploy applications on GCP, and Kubernetes.
+● Work both independently and as part of a team to meet project goals.
+● Solve complex technical challenges and contribute to the continuous improvement of our software development practices
+Role - 2
+SDE1- Frontend
+1. Translate designs and wireframes into high quality code.
+2. Design and implement new features and enhancements for our iOS/Android applications.
+3. Collaborate with cross-functional teams to define, design, and ship new features.
+4. Write clean, maintainable, and efficient code while adhering to software development
+best practices.
+5. Conduct code reviews and provide constructive feedback to peers.
+6. Participate in the full software development lifecycle, including testing, debugging, and
+deploying applications.
+7. Stay up-to-date with the latest iOS/Android development trends, tools, and technologies.
+8. Troubleshoot and resolve issues reported by users or internal teams.
+9. Unit-test code for robustness, including edge cases, usability, and general reliability.
+(Good to have)
+10. Contribute ideas and innovations to improve product performance and user satisfaction.
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+No

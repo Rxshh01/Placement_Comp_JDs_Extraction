@@ -1,0 +1,51 @@
+Job Details
+Job Summary: (PWR PAS for NCG’s
+We are seeking highly motivated and talented New College Graduates to join our R&D team in Bengaluru to be a part
+of the 2.7B$ Power Business Unit. As a global leader, Renesas shipped >4 Billion ICs last year powering the next
+generation of Automotive, Industrial and Consumer Applications. With company level growth projections of a 1000
+people in India by end of 2025, we are heavily investing in Bengaluru, making the site a critical hub for expanding
+Power R&D footprint.
+As a key contributor, you will work on designing, simulating, and validating circuits that meet specific technical
+requirements. You will collaborate with senior engineers and cross-functional teams to bring innovative electronic
+solutions from concept to production.
+Key Responsibilities:
+ Circuit Design: Design and develop Analog and/or Digital circuits for various applications, including
+consumer electronics, automotive systems, or industrial devices.
+ HDL Coding: Develop and verify hardware designs using Hardware Description Languages (HDLs) such as
+VHDL or Verilog. Ensure that designs meet performance, power, and area requirements.
+ RTL Simulation and Verification: Perform simulations at different levels of abstraction (e.g., RTL, gatelevel)
+to verify design correctness and adherence to specifications. Utilize testbenches and other
+verification techniques to ensure robust designs.
+ Circuit Simulation and Analysis: Perform circuit simulations using industry-standard tools (e.g., SPICE,
+Cadence, etc.) to ensure designs meet performance and reliability criteria.
+Problem Solving: Troubleshoot and resolve design-related issues, making adjustments as necessary to
+meet project goals and timelines.
+ Continuous Learning: Stay up-to-date with the latest technologies and industry trends to incorporate new
+ideas and techniques into your work.
+Qualifications:
+ Education: Bachelor’s or Master’s degree in Electrical Engineering, Electronics Engineering, or a related
+field.
+ Knowledge: Strong understanding of analog and digital circuit design principles, semiconductor device
+physics, IC fabrication processes, and layout design principles. Familiarity with microcontrollers, FPGAs,
+and other embedded systems is a plus.
+ Skills: Proficiency in circuit simulation tools (e.g., SPICE, Cadence), HDL coding (VDHL, Verilog) and EDA
+tools for layout design (e.g., Cadence Virtuoso, Synopsys IC Compiler). Experience with PCB layout tools
+(e.g., Altium, Eagle) is desirable. Basic programming skills (e.g., Python, C/C++) are beneficial.
+ Automation: Develop scripts and automated flows to improve the efficiency of the verification process.
+Utilize tools such as Perl, Python, or Tcl for scripting tasks.
+ Experience: Relevant coursework, internships, or projects in circuit design. Hands-on experience with
+laboratory equipment such as oscilloscopes, multimeters, and soldering tools.
+ Communication: Excellent verbal and written communication skills. Ability to work well in a team-oriented
+environment.
+ Attitude: A proactive, detail-oriented, and results-driven mindset. Eagerness to learn and adapt to new
+challenges.
+Benefits:
+ Competitive salary and benefits package.
+ Opportunities for professional development and career advancement.
+ Collaborative and innovative work environment.
+Place of posting
+Accomodation details
+Bangalore
+None
+Bond applicable
+No

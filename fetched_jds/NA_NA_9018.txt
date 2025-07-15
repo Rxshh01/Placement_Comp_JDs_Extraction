@@ -1,0 +1,172 @@
+Job Details
+【
+Technology
+Field】
+Natural Language Processing,
+Computer Vision
+【
+Position Summary
+】
+Join our team of R&D engineers to embark on an
+exciting journey of applied research and prototype development! Within our diverse
+and innovative project portfolio, you will have the opportunity to take on
+real-world challenges related to the fields of natural language processing,
+computer vision, machine learning, human-computer interaction, cloud services,
+computer graphics, data analysis, and their intersections. As such, you will
+have the opportunity to propose cutting-edge user and creator experiences that
+contribute to a range of businesses within Sony Group, including Sony Pictures
+Entertainment, Sony Music Entertainment, Sony Interactive Entertainment, and
+Sony Life Insurance.
+Below are examples of ongoing projects you may contribute to:
+■
+Content Creation Support
+Technology: Develop technology for the automatic generation of dialogue and
+live commentary in entertainment (such as movies), animation, games, and music.
+Our goal is to enhance content creation workflows and collaborate with various
+divisions to explore automatic content creation for "virtual
+productions".
+■
+Multimodal AI Application Technology: Dive into the
+exciting field of multimodal AI, combining different modalities such as images
+and text to solve complex tasks. Here, we contribute to the development of
+practical multimodal AI application technologies for Sony Group's businesses,
+with a focus on vision-based lightweight gaze estimation, video-based
+play-by-play commentary generation, and dialogue-based non-verbal gesture
+generation.
+■
+Financial Consulting Assistant AI: Help revolutionize
+remote financial consulting to support Sony Life's life planners and our other
+financial services. Develop AI-powered solutions to complement nonverbal
+information, generate consultation summaries, and provide relevant information
+during customer interactions.
+■
+Healthcare Services: Contribute to the improvement of
+healthcare services by leveraging Sony's strengths in sensing, UX, data
+analysis, and machine learning. Our goal is to provide doctors and patients
+with accurate and non-invasive data to reduce the need to utilize traditional
+data-collection methods such as questionnaires. In this project, we expand the
+scope of services to include digital therapeutics (DTx), telemedicine, and
+remote monitoring.
+■
+Telepresence: Work on a telepresence system that
+transcends distance limitations, enabling seamless and natural communication
+between individuals across different spaces. Experience the feeling of being in
+the same physical space as your colleagues, no matter where you are.
+■
+Agent Platform: Contribute to the construction of an
+agent platform that integrates our team`s cutting-edge technologies and aims to
+create an ecosystem where end-user creators can generate revenue and foster
+thriving communities.
+If you are passionate about applying deep learning technologies to real-world
+problems and want to contribute to our groundbreaking projects, we are eager to
+hear from you. Join our team to unleash your potential and to make a meaningful
+impact on the world!
+【
+Responsibilities
+】
+■
+Conduct groundbreaking research and development on
+cutting-edge machine learning technologies in our target domains, including
+multimodal AI, vision & language, and human-machine interaction.
+■
+Engage in problem formulation, hypothesis
+verification, experiment design, simulation, error analysis, data collection,
+and advanced technology research (among other essential tasks).
+■
+Utilize your expertise in software design,
+architecture design, interface design, implementation, evaluation, and
+technology release to create exceptional solutions to proposed problems.
+■
+Lead projects aimed at the development of
+groundbreaking technologies.
+■
+Deliver comprehensive reports that encompass
+development plans, progress updates, and tangible outcomes achieved throughout
+the development process.
+■
+Foster close collaboration with members of the
+development team, and maintain strong communications with stakeholders
+responsible for products and services.
+【
+Required qualifications
+】
+■
+Master's Degree in Computer Science or a related
+technical field, specializing in computer vision, natural language processing,
+or machine learning, OR equivalent practical experience.
+■
+5+ years of hands-on experience with one or more
+general-purpose programming languages, such as Python, C/C++, and JavaScript.
+■
+2+ years of research experience in machine learning,
+specifically related to computer vision or natural language processing.
+■
+Cross-Disciplinary Collaboration: Effective team
+player and capable of collaborating with professionals from various
+disciplines. High motivation to make contributions to our business endeavors by
+working closely with colleagues in marketing, sales, design, and other
+departments to ensure that our research and development efforts align with our
+overall business goals.
+■
+Keen interest in, and aptitude for, devising
+creative, unconventional, and innovative solutions.
+■
+Proficient verbal and written communication skills in
+English.
+【
+Preferred qualifications
+】
+■
+Qualification at the Ph.D. level or higher in Computer
+Science.
+■
+Research experience relating to algorithms,
+applications, software architecture design, computer graphics, databases, data
+mining, cloud services, and/or user interfaces.
+■
+Practical experience applying machine learning
+techniques to real-world problems.
+■
+Expertise developing commercial machine learning
+services.
+■
+Willingness to learn Japanese.
+【
+Product, Service
+】
+■
+Financial Services (Sony Life Insurance, Sony
+Assurance, Sony Bank)
+■
+Games (PlayStation, smartphone applications)
+■
+Entertainment (Sony Pictures Entertainment, Sony
+Music Entertainment)
+■
+Sports (Hawkeye Innovation)
+■
+Character Agent Services
+■
+Companion Robots (aibo, poiq)
+■
+Healthcare Services
+■
+Telepresence
+【
+Development Environment
+】
+■
+Platforms: Windows, Linux, AWS, GCP
+■
+Programming Languages: Python, JavaScript, Rust, etc.
+■
+Computing: private GPU clusters for deep learning,
+multi-GPU PCs
+■
+Communications: Slack, GitHub, MS Teams, etc.
+Place of posting
+Accomodation details
+Tokyo,Japan
+Temporary
+Bond applicable
+No

@@ -1,0 +1,30 @@
+Job Details
+About the Role:
+As a part of the Data Science team at WinZO, you will be working on building models to solve business use cases, generating insights from data. We have problems ranging from Recommender systems to Computer vision to social network analysis. You will be working in a fast-paced environment which will require you to take initiatives with complete ownership, manage multiple projects, and drive execution with stakeholders.
+What you will do:
+Build highly scalable models using ML techniques for solving various business use cases like churn prediction, fraud detection, image processing, recommendation systems, user segmentation
+Interpret data, analyze results using statistical techniques and effectively communicate actionable insights to grow the product
+Conduct A/B experiments, identify and tweak growth levers and measure impact statistically
+Come up with data products and solutions to improve the overall economy of the app
+What you should have:
+We’re looking for people with a hustler mindset, who are curious, eager to learn new things, with a passion for innovation, and work to be a little better every single day. This is not solely based on whether a candidate has previously done similar work or not. We’re looking for someone dynamic with below qualities in generous quantities to perform well in this role-
+Knowledge of classical ML, Python, SQL
+Strong logical, mathematical and analytical abilities
+Strong verbal & written communication skills
+Knowledge on Big data tools, CV, DL is a plus
+Prior history of ML courses/kaggle projects is a plus
+A learning attitude, curiosity and enthusiasm for working with data and readiness to get their hands dirty
+What we offer you:
+A flat and transparent culture with an incredibly high learning curve
+A swanky informal workspace which defines our open and vibrant work culture
+Opportunity to solve new and challenging problems with a high scope of innovation
+Complete ownership of the product and chance to conceptualize and implement your solutions
+Opportunity to work with incredible peers across departments and be a part of the Tech revolution
+Most importantly, a chance to be associated with big impact early in your career
+At our core, we’re a creative company. Ideas are where we live, and we love building magical products. It’s not just about features, it’s also about how they make people feel. So, we build at the intersection of the technical and the romantic. And it all starts with people, the right team that cares deeply about our mission, values, and our users. We value diversity. We are an equal opportunity employer: we do not discriminate based on race, color, religion, gender, ethnicity, or disability status.
+Place of posting
+Accomodation details
+New delhi
+None
+Bond applicable
+No

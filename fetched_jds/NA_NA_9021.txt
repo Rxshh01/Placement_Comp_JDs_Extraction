@@ -1,0 +1,15 @@
+Job Details
+Your Role:
+Owning features end-to-end, addressing issues and future development
+Collaborating with cross-functional teams to ship new features
+Understanding and implementing Product Requirement Documents (PRDs), hypothesis, and data assumptions behind feature requests
+Operating and supporting software services in production based on on-call schedules
+Qualifiers:
+Hands-on coding expertise in any programming language, preferably Java / Javascript(Node.js)
+Basic knowledge of SQL and NoSQL databases
+Place of posting
+Accomodation details
+Mumbai
+Temporary
+Bond applicable
+No

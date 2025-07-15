@@ -1,0 +1,52 @@
+Job Details
+Job Description: Electronics Engineer
+We are seeking a talented Electronics Engineer, preferably
+an IIT graduate, to join our team in developing cutting-edge electronics for
+UAV/UAS systems and their supporting ecosystems. This role offers the
+opportunity to work with world-class technologies in a dynamic and innovative
+environment.
+Key Responsibilities:
+As an Electronics Engineer, you will gain hands-on
+experience and contribute to the following areas:
+-
+Autopilot Systems & Computer Modules: Design
+and develop advanced autopilot systems and computer modules for UAVs.
+-
+Battery Management Systems & Battery Packs:
+Work on the development and optimization of efficient battery management
+systems and high-performance battery packs.
+-
+Brushless Motors & Motor Control: Design and
+implement control algorithms for brushless motors and their associated drives.
+-
+Wireless Communication Systems: Develop and
+integrate reliable wireless communication systems for UAVs.
+-
+GNSS Systems & Associated Technologies: Work
+with GNSS technologies, including PPK/RTK, to enhance navigation and
+positioning accuracy.
+-
+Smart Charging Systems: Develop smart charging
+solutions for batteries, ensuring efficient and safe energy management.
+-
+Payloads & Opto-Electronic Systems: Design
+and integrate advanced payloads and opto-electronic systems for UAVs.
+-
+Firmware Development: Utilize programming
+languages like C and Embedded C to develop firmware for UAV electronics.
+Qualifications:
+- Graduate from IIT with a focus on Electronics Engineering
+or a related discipline.
+- Strong foundation in electronics design and development.
+- Proficiency in C and Embedded C firmware programming.
+- Hands-on experience or strong interest in UAV systems is a
+plus.
+This position offers the opportunity to work on the
+forefront of UAV technology and contribute to the development of
+next-generation aerial systems.
+Place of posting
+Accomodation details
+Navi Mumbai
+Temporary
+Bond applicable
+No

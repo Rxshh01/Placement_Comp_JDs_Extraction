@@ -1,0 +1,33 @@
+Job Details
+Job objectives
+:
+As a Data Analyst, you will be responsible for collecting, cleaning, and analyzing large datasets to uncover insights and inform data-driven decisions. You will work closely with cross-functional teams to understand their data needs and provide actionable recommendations.
+Roles & responsibilities:
+Data Collection and Cleaning:
+Gather data from various sources, clean and validate data for analysis.
+Data Analysis:
+Use statistical techniques and data mining tools to analyze data.
+Data Visualization
+:
+Create clear and informative visualizations to communicate insights.
+Data-Driven Insights:
+Identify trends, patterns, and anomalies in data.
+Collaboration:
+Work closely with business stakeholders to understand their data requirements.
+Problem-Solving:
+Use analytical skills to solve complex problems.
+Required skills:
+Strong analytical and problem-solving skills.
+Proficiency in data analysis tools (
+Excel, SQL
+).
+Knowledge of data visualization tools (Power BI, Tableau, etc.).
+Understanding of statistical concepts and techniques.
+Excellent communication and presentation skills.
+Strong attention to detail.
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+No

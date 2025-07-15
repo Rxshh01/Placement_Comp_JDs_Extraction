@@ -1,0 +1,28 @@
+Job Details
+About the Role
+Flipkart is made of people who love being themselves and their independence of thoughts pave way for disruptive innovation on tech, biz and ops fronts. We are looking for engineers who are well rounded - quality conscious, product thinkers, and business cognizant and smart – not mere coders. Engineers get to significantly amplify their impact with the scale that Flipkart operates at. The same scale also demands the engineers to produce super-efficient solutions.
+Flipsters’ area of work includes advanced information-retrieval algorithms, massive scalability, elastic storage, predictive analytics, fraud detection, inventory planning, supply chain planning, and large-scale applications that enrich the user experience, to name a few.
+The Software Engineer's core responsibilities will be to develop object-oriented models and design data
+structures for new software projects and implement business logic and data models with suitable class design. You will work on collaborating with peers on all elements of the development process. It requires you to follow industry coding standards and create appropriate technical documentation.
+To succeed in this role, you should have the following:
+Coding / PS / DS / Algo
+●
+Strong problem solving skills.
+●
+Ability to work with abstractions and comprehend fuzzy problem statements.
+●
+Should have the penchant for solving complex and interesting problems.
+●
+Strong foundation in computer science, with strong competencies in Data Structures and Algorithms
+●
+Ability to apply knowledge of DS and Algorithms in solving real world problems. Design data structures and craft algorithms to solve complex business problems.
+●
+Excellent coding skills. Strong command over at least one general programming language (Java / C / C++ / Ruby / Clojure / Scala etc)
+●
+Application of programming language constructs in building highly complex and scalable business applications.
+Place of posting
+Accomodation details
+Bangalore
+Temporary
+Bond applicable
+No

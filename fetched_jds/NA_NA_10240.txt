@@ -1,0 +1,83 @@
+Job Details
+Key
+Responsibilities:
+Product
+Strategy and Roadmap:
+·
+Develop and execute the product strategy for the Kotak Mutual Fund
+website, aligning with business goals and customer needs.
+·
+Define the product roadmap, outlining key features, enhancements,
+and optimizations based on market trends, user feedback, and competitive
+analysis.
+User
+Experience and Design:
+·
+Collaborate with UX/UI designers to create intuitive, engaging,
+and user-friendly interfaces for investors and distributors.
+·
+Conduct user research, usability testing, and gather feedback to
+iterate on website designs and functionalities
+Feature
+Development and Implementation:
+·
+Work on the end-to-end product development process, from concept
+to launch, ensuring timely delivery and quality execution.
+·
+Work closely with Developer teams to prioritize features, define
+requirements, and oversee development sprints.
+·
+Defining user stories/BRDs, acting as a bridge between the
+business teams & product team; Act as primary liaison between multiple
+teams to achieve the product vision keeping customer centricity alive
+Analytics and
+Optimization:
+·
+Utilize data-driven insights to monitor website performance, user
+behaviour, and conversion rates.
+·
+Implement A/B testing, analytics tools, and other measurement
+techniques to optimize the website for key metrics such as engagement,
+retention, and acquisition.
+Stakeholder
+Management:
+·
+Collaborate with internal stakeholders, including marketing,
+sales, operations, and compliance teams, to ensure alignment and support for
+product initiatives.
+·
+Act as the primary point of contact for external partners,
+vendors, and agencies involved in website development and maintenance.
+Regulatory
+Compliance:
+·
+Ensure compliance with regulatory requirements, in all aspects of
+website development and operations.
+Requirements:
+·
+Bachelor’s degree, preferably in tech discipline
+·
+4-6 years of professional experience in managing customer centric
+products
+·
+Must have knowledge of
+Google suite GTM & GA4
+(Mandatory), Big Query, Google cloud (Any 1)
+·
+Good knowledge of PM tools like, Microsoft Project, Jira, Backlog,
+PMO tools etc (Any 1 – MUST)
+·
+Understanding of BFSI / Mutual Fund space
+·
+Ability to ideate, conceptualise, manage & prioritise the
+tasks
+·
+Communicate effectively with internal & cross-functional teams
+·
+Excellent presentation, written & verbal skills
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+No

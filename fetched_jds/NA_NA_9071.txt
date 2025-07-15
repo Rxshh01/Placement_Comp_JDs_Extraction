@@ -1,0 +1,30 @@
+Job Details
+Quadeye is one of the largest India-based proprietary trading firms. Since inception, we have consistently grown at a handsome rate and have a distinct track record of success behind us. We run a stable business spread globally across various asset classes. Our greatest strength is our work culture which takes a collaborative and non-hierarchical approach against an opposing prevalence in the industry. We strive as one team to stay ahead of the competition all the time.
+We are looking to hire Quantitative Strategists who are excited to develop automated strategies for proprietary trading. The strategies would be targeted to explore different exchanges, asset classes and frequencies. You will be working with other exceptional software and quantitative professionals and solve some of the most challenging engineering problems.
+Your responsibilities will include:
+- Using cutting edge statistical and machine learning techniques to identify opportunities from terabytes of data
+- Design and implement trading strategies into a highly-optimized and nimble code
+- Productionize your strategies; investigate, observe and devise new ideas for better and faster predictions
+Ideal candidate should have:
+- Engineering degree in Computer Science or equivalent from Premier Institutes
+- Good problem solving skills and quantitative aptitude
+- Strong background in data structures, algorithms and object-oriented programming, preferably in C++ or C
+- Ability to multitask and thrive in a fast-paced environment
+- Strong work ethics and communication skills
+- Working knowledge of Linux
+- Knowledge of Python or Perl is a plus
+Benefits:
+- Competitive Compensation
+- Annual Team Vacation at international locations
+- Group health insurance and term insurance
+- Relocation Assistance
+- Team Parties
+- Inhouse physiotherapist
+- Temporary accommodation of 2 weeks and ticket reimbursement for relocation
+- 35 days paid leaves in a calendar year
+Place of posting
+Accomodation details
+Gurgaon
+Temporary
+Bond applicable
+No

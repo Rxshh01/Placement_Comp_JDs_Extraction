@@ -1,0 +1,45 @@
+Job Details
+Job Title:
+AI Strategist / Creative Technologist
+Company Overview:
+Entomo is an Equal Opportunity Employer. We promote and support a diverse workforce at all levels across the company. We ensure that our associates, potential hires, third-party support staff, and suppliers are not discriminated against based on color, creed, caste, race, nationality, ethnicity, marital status, pregnancy, age, disability, religion or philosophical beliefs, sexual orientation, gender, or gender reassignment.
+Job Description:
+We are seeking an innovative and collaborative
+AI Strategist / Creative Technologist
+to empower and enable engineering teams across various Entomo entities. With a strong development background and creative mindset, you will work closely with cross-functional teams to integrate AI-driven solutions into engineering workflows, enhancing the performance, creativity, and efficiency of our systems. With 2 years of development experience and a completed Master’s degree, you will act as a strategic enabler, helping engineering teams leverage the latest AI technologies and creative approaches to solve complex problems and drive innovation.
+Responsibilities:
+AI Strategy Enablement:
+Collaborate with engineering teams across different Entomo entities to develop and implement AI strategies that align with business goals, ensuring AI solutions are fully integrated into the engineering process.
+Empowering Engineering Teams:
+Serve as a strategic partner to engineering teams, providing them with the tools, technologies, and AI models they need to innovate, optimize workflows, and deliver cutting-edge solutions.
+Creative AI Solutions:
+Develop and deploy creative AI-driven solutions that support various engineering projects, pushing the boundaries of AI applications across multiple domains (e.g., NLP, computer vision, predictive analytics).
+Cross-entity Collaboration:
+Facilitate communication and collaboration between different teams (engineering, data science, creative teams) across various Entomo entities to ensure seamless integration of AI solutions.
+Prototyping & Experimentation:
+Rapidly prototype AI-powered solutions and creative technologies that engineering teams can adopt and scale, enhancing efficiency and performance.
+Performance Monitoring & Optimization:
+Continuously monitor the performance of AI solutions in different entities, making data-driven adjustments to meet the unique needs of each team.
+Research & Innovation:
+Stay up-to-date with the latest trends and advancements in AI and creative technologies, proactively applying new insights to empower engineering teams to adopt innovative practices.
+Skills & Qualifications:
+Development Expertise:
+Minimum 2 years of experience in AI model development, with proficiency in programming languages such as Python, Java, or C++.
+Machine Learning Frameworks:
+Strong experience with frameworks and libraries like TensorFlow, PyTorch, and scikit-learn, along with experience in creative technologies (e.g., WebGL, Unity, or p5.js).
+Collaborative Leadership:
+Proven ability to collaborate across diverse teams and entities, aligning AI strategies with engineering needs and business objectives.
+Creative Thinking & Technical Expertise:
+Ability to design and implement innovative, AI-driven solutions that combine technical rigor with creative problem-solving.
+Cloud Experience:
+Familiarity with cloud platforms (AWS, Google Cloud, Azure) and their AI services.
+Prototyping & Iteration:
+Experience with rapid prototyping, experimentation, and iteration to develop and test creative AI solutions for engineering teams.
+Qualification:
+Master’s degree in Computer Science, Artificial Intelligence, Creative Technology, or a related field.
+Place of posting
+Accomodation details
+Bengaluru
+None
+Bond applicable
+No

@@ -1,0 +1,45 @@
+Job Details
+Project 2 (1) - B. E. / B. Tech/ME/ M. Tech. OR 
+First Class Post Graduate Degree in 
+Science - Branch - Electronics/ Electronics & 
+Telecommunication/communication /Electrical/ Electrical & 
+Electronics
+OR First Class Post Graduate Degree 
+in Science - Desired Skill sets - •Electronic Hardware Design principles
+•Embedded System Design
+•Hardware Description Language
+•Excellent knowledge of digital and analog system designs, 
+•Overall knowledge of System Design with 32/64-bit 
+Microcontrollers/SOCs/ Processors, DDRx memories, PCle, 
+LVDS, SPI, I2C, Ethernet, USB etc. 
+•Testing, debugging and Board bring up with hardware 
+software co-design 
+•Know-how of PCB Design will be more desirable
+•All phases (Schematic capture, Component engineering, 
+Library creation, Place and route, Manufacturing data, Drawing) 
+for Board designs, Simulation and Signal integrity applications 
+on industry standard toolsets like Cadence Allegro, Mentor, etc. 
+Multi –layer High Speed PCB Design DFM and DFT, EMI/ EMC 
+etc.
+•Team player, co-ordinating between team members to 
+complete the activity -
+Proposed Job profile - System Design Engineer
+1. System design of Supercomputers / HPC systems
+2. Design of Compute servers, High Speed Switches, Network Interface cards
+3. The design includes working with latest server class processors from Intel, 
+ARM etc. and Switch SOCs with serial links of 200 Gbps (56 Gbps X4) or more 
+b/w, along with DDR4/5, PCIe4/5, Ethernet, NVMe drive interfaces etc.
+4. Understanding, designing schematics for PCBs
+5. All phases of design (Schematic campture, Component engineering, Library 
+creation, Place nd route, Manufacturing data, Drawing) for Board designs, 
+Simulation and Signal Integity applications on industry standard toolsets like 
+Cadence Allegro, Mentor, etc. Multi-layer High Speed PCB design DFM and 
+DFT, EMI / EMC etc.
+6. Interaction with PCB and PCBA manufacturer to get the product 
+manufactured as per requirement
+Place of posting
+Accomodation details
+Pune
+None
+Bond applicable
+No

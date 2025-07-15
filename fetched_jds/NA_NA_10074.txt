@@ -1,0 +1,115 @@
+Job Details
+W
+e
+ar
+e
+s
+ee
+k
+in
+g
+a
+De
+v
+Op
+s
+Enginee
+r
+t
+o
+joi
+n
+ou
+r
+iND
+X
+team
+.
+The individual will be responsible for processes related to application programming, automation,
+an
+d deployments.
+This regular, full-time position will be office-based at our office in Powai.
+Responsibilities
+:
+•     Good
+knowledge of Linux/Unix OS.
+•
+Usin
+g automation/configuration management tools using either Jenkins, Hudson, Travis CI, or an equivalent.
+•
+Creatin
+g  and  managing  Kubernetes,  Mesosphere,  or  equivalent  container  orchestrations  / Microservices platform.
+•
+Buildin
+g and managing with container technologies like Docker, Rocket, etc.
+•
+Activ
+e use of any of the configuration management tools like Chef, Puppet, Ansible, SaltStack, etc.
+•
+Regula
+r utilization of provisioning tools like SSH, Vagrant, Puppet, Chef Knife, etc.
+•
+Usin
+g a wide variety of open-source technologies and cloud services (experience with GCP or AWS is required).
+•
+Frequen
+t dealing with SQL files and services (NoSQL experience is a plus, too).
+•
+Knowledg
+e of best practices and IT operations in always-up, always-available services.
+•
+Abilit
+y to code in multiple programming and scripting languages.
+•
+Bein
+g comfortable with frequent, incremental code testing and deployment.
+•
+Understandin
+g and focusing on business outcomes.
+•
+Understandin
+g and efficiency in collaboration, open communication, and reaching across functional borders.
+•
+Design
+, implement, and maintain a highly scalable application infrastructure with Google Cloud Platform or Amazon Web Services.
+•
+Design
+, implement, and maintain a continuous integration environment.
+•
+Deploy
+, maintain, and monitor product releases.
+•
+W
+or
+k as an active participant in an Agile development environment, attend daily stand-ups, sprint planning and retrospectives.
+Skill
+s (MUST HAVE)
+•
+Bachelor’
+s degree in Computer Science or related field (or equivalent experience).
+•
+Mus
+t have the ability to work in a dynamic, fast-paced environment.
+•
+Stron
+g communication skills to interact with Agile team members.
+•
+Flexibilit
+y and ability to manage multiple priorities simultaneously.
+Skill
+s (Good to Have)
+•
+Experienc
+e with Docker/Kubernetes is a big plus.
+•
+Experienc
+e in logging and monitoring tools like Logstash, Nagios, Kibana, etc.
+•
+An
+y experience in the health care Domain will be an added advantage.
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+No

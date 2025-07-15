@@ -1,0 +1,26 @@
+Job Details
+〈Software Defined Mobility Development Supervisory Unit, Advanced Safety and Intelligent Solution Development Division〉
+Honda's Software Defined Mobility Development Supervisory Unit is committed to pursuing innovative development and creation of “value” in mobility and life. We aim for “Zero traffic collision fatalities” involving Honda motorcycles or automobiles worldwide in 2050. The AD/ADAS division is responsible for the development of safety functions such as Honda Sensing Elite and Honda sensing 360 for this purpose.
+In this division, the engineers who realized the world's first LV3 automated driving system are constantly researching and commercializing the latest technologies. The Automobile Center (Tochigi), where the division is located, has test courses and simulation facilities nearby. Honda's engineers are committed to the "three actuals" principle: actual place, actual part, and actual situation, and the Automobile Center is the best place for them to test the results with the "actuals” of their development in these well-equipped facilities.
+Honda’s AD/ADAS Data Platform Group serves as a critical bridge between the Quality Assurance teams and AD/ADAS feature engineering teams across the business. Accurate and understandable analytics is the key to solving the right customer concerns as quickly as possible, and the Data Scientist plays a vital role in delivering analysis results with high accuracy and simplicity. In addition, as Honda is constantly bringing new safety features to our customers, it becomes imperative to understand customers' requests for future AD/ADAS products and their satisfaction with existing features through data analysis. The Data Scientist is responsible for analyzing the field data of the customer's vehicle and devising and implementing metrics to understand and optimize customer value.
+The successful candidate must have the ability to meet tight deadlines, have strong interpersonal and communication skills, be detail oriented, and have the ability to work independently and be a self-starter.
+<Responsibilities>
+Analyze field data and identify the concerns across all vehicle models we have already provided
+Summarize data analysis result of new concerns for engineering teams and quality teams to help prioritize solutions
+Work with additional data analysts/technicians to identify trends in data and service level of improvement
+Propose on how to better analyze and summarize the data and improve existing analysis approach continuously
+Develop an understanding of all customer usage and failure modes by analyzing field data to design and implement metrics about how our customers drive their cars and use AD/ADAS features in the drive from multiple aspects (vehicle motion and spatio-temporal behavior)
+Work with additional data engineers to help create better pipeline and high visibility dashboards across all AD/ADAS development team toward data ecosystem in Honda
+<Specific Goals>
+[1st -2nd year]
+Understand existing analysis approach and offer services to let in-house developers and QA engineers know about concerns and upward feedback for keeping safety and quality of AD/ADAS in the market
+2) Accomplish PoC of data analysis project to get an analysis method of better customer understanding
+3) Accomplish improved analysis workflow and create an effective way to share these data among stake-holders
+[3rd -5th year]
+The successful candidate will generalize his/her analysis method for wider scenes, and demonstrate it on a in-house system and provide to all-Honda members for data ecosystem.
+Place of posting
+Accomodation details
+4630, Oaza Shimo-Takanezawa, Haga- Machi, Haga-gun, Tochigi, Japan
+None
+Bond applicable
+No

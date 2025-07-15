@@ -1,0 +1,30 @@
+Job Details
+Imagine what you could do here. At Krutrim, new ideas have a way of becoming extraordinary products, technologies and customer experiences very quickly. Bring passion and dedication to your job with everyday learning, growth, creativity, and innovations. Dynamic, smart people and inspiring, innovative technologies are the norm here. We are building the future of AI, Supercomputers, and Autonomous driving, to be an integral part of it. Learn, contribute, create, and grow with us. You will have an amazing experience defining the frontiers of AI and Autonomous driving technologies and products. You will be closely working with a world class technology team. Looking forward to you being part of our journey.
+Job Description:
+As a fresh graduate in our Software and System Engineering team, you will tackle real challenges faced by the team and contribute to upcoming products. You should have a strong technical foundation, be proactive in learning new technologies quickly, and possess excellent interpersonal and communication skills. We are looking for self-motivated individuals who are ready to work independently and contribute meaningfully to our innovative projects.
+Position Overview:
+As a fresh graduate, you will work alongside some of the best engineers in the world on our Software and Systems Engineering team. We have open positions in the following areas:
+Firmware Design & Implementation
+Boot and Security Software
+CPU Software
+Linux Kernel for new CPU architectures
+AI/ML Model Optimizations
+Containerization and Orchestration
+AI/ML Workloads
+Automation methods for various Software & Systems validation
+Software Integration
+AI/ML-based Software Triaging and Debugging
+Qualifications:
+We are looking for candidates who meet the following qualifications:
+A strong foundation in Software development, scripting, and validation demonstrated through internships, academic projects, or personal endeavors.
+Strong teamwork skills with the ability to collaborate across various functional teams and disciplines.
+Proficiency in programming languages such as Assembly/C/C++, Python, Perl is advantageous.
+Experience or familiarity with AI/ML frameworks is beneficial.
+A recently completed undergraduate or graduate degree in Computer Engineering, Electrical/Electronics/IT Engineering, Computer Science, AI/ML, Data Analytics, or related fields.
+Prior experience through internships, academic projects, teaching assistance, or relevant work is a plus.
+Place of posting
+Accomodation details
+Bangalore
+Temporary
+Bond applicable
+No

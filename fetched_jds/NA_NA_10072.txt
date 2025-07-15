@@ -1,0 +1,92 @@
+Job Details
+We are looking for a qualified Junior Full Stack developer to join our development team. You will
+be responsible for building our web applications. You should be able to translate our company
+and customer needs into functional and appealing interactive applications.
+If you’re interested in creating a user-friendly environment by writing code and moving forward in
+your career, then this job is for you. We expect you to be a tech-savvy professional, who is curious
+about new digital technologies and aspires to combine usability with visual design.
+Ultimately, you should be able to create a functional and attractive digital environment for our
+company, ensuring a great user experience.
+The single line of code you write is going to impact someone’s life!
+Responsibilities
+●
+Use JavaScript to churn out APIs and create client applications consuming them
+●
+M
+a
+intain and improve website
+●
+Optimize applications for maximum speed
+●
+Collaborate with UI developers and web designers to improve usability
+●
+Write unit tests for the modules developed and maintain code quality
+●
+S
+t
+a
+y up-to-date on emerging technologies
+Technologies we use
+●
+Node Js
+●
+GraphQL
+●
+P
+ostgres
+●
+B
+ootstrap
+●
+GCP
+●
+S
+v
+e
+lte
+●
+Dockers
+●
+Git
+Requirements (Must Have)
+● Hands-on
+experience with Node.js / GQL / Svelte
+●
+E
+x
+p
+erience in building RESTful Web Services and APIs
+●
+K
+nowledge of integration and working with RDBMS like Oracle/Postgres/MySQL
+●
+K
+nowledge of best practices followed for maintaining code quality like lint and unit testing
+tools like karma/jest / mocha
+●
+K
+nowledge of git
+●
+A
+n ability to perform well in a fast-paced environment
+●
+E
+x
+cellent analytical and multitasking skills
+●
+Graduate with relevant experience/certifications
+Requirements (Good to have)
+●     In -
+depth understanding of the entire web development process (design, development, and
+deployment)
+●
+K
+nowledge of GraphQL
+●
+Working knowledge of TypeScript
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+No

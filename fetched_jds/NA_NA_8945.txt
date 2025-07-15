@@ -1,0 +1,12 @@
+Job Details
+Team Modem FW Engineer Organization Qualcomm Technologies, Inc.
+Job Area : Engineering
+Location : Hyderabad
+Educational Requirements: Master’s in Electrical Communications Engineering
+Overview : The Firmware Team at Qualcomm India: • Develops highly optimal drivers for the proprietary hardware that lies at the heart of all of Qualcomm’s leading-edge offerings • Contributes to hardware conceptualization and choices for optimal performance • Works closely with the Layer 1 protocol engineers to design protocol compliant state machines to control the hardware • Collaborates closely with hardware, systems and test engineers during all cycles of product development • Designs in new features to keep Qualcomm chips competitive in an ever-evolving marketplace It is expected that the engineers: • Are adept at C-programming and can develop real-time embedded software for proprietary DSPs • Understand capabilities of hardware blocks like codecs, RFICs and their interfaces with software • Appreciate 3GPP/IEEE spec requirements to develop drivers that program the hardware for 2G through 5G and for WLAN PHY • Develop signal processing algorithms which are essential for modem performance Knowledge of Digital Signal Processing Concepts Digital Communications Theory/C and MATLAB programming are essential
+Place of posting
+Accomodation details
+Hyderabad
+Temporary
+Bond applicable
+No

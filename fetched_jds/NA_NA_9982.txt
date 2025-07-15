@@ -1,0 +1,65 @@
+Job Details
+Tredence is a global analytics services company providing business solutions across industry verticals, including Manufacturing, Supply Chain, Retail & CPG, 
+Life Sciences, Energy & Utilities, and Engineering & Construction. For three consecutive years, we have been recognized as one of the fastest-growing 
+private companies in the country by the Inc. 5000. We distinguish ourselves by attracting top talent in data analytics and data science. Our unique, 
+academy-driven, structured learning and development programs foster disruptive skills in-house, blending technology and business analytics effectively.
+We leverage the “Tredence Studio” to co-innovate with our customers, offering on-the-job experiential learning to train new talent and future leaders. Our 
+sustainable, white-box solutions are built using scalable data engineering platforms, machine learning frameworks, and other proprietary accelerators, 
+which we transition to our clients at the end of engagements. Our ROI assurance framework and “Think Impact” core values drive our continuous curiosity 
+and commitment to value creation for our customers.
+Our global delivery methodology and agile execution models enable us to deliver cost-effective solutions, leveraging our ecosystem of partners and clients' 
+existing technology and data assets securely. Our expertise in AI and data analytics addresses challenges across industries, optimizing supply chains, 
+improving customer experiences, driving operational efficiencies, and enabling predictive analytics. By integrating Generative AI (Gen AI) and Large 
+Language Models (LLMs), we solve cutting-edge business problems, enhance decision-making, automate complex processes, and unlock new growth and 
+efficiency opportunities.
+Compensation:
+Your CTC will be INR 12 LPA
+© COPYRIGHT 2022, TREDENCE. ALL RIGHTS RESERVED 3
+Roles &Responsibilities:
+As an AssociateData Scientist, you willsolve someof the mostimpactful business problemsfor our clients using various AI and ML technologies. Youwill collaborate with
+business partners and domain experts to design and develop innovative solutions to achieve predefined outcomes.
+• Work with the team to define business requirements, come up with an analytical solution and deliver the solution with a specific focus on Big Picture to
+drive robustness of the solution
+• Design & develop custom models based on an in-depth understanding of underlying data, data structures, and business problems to ensure deliverables
+meet client needs.
+• Create interpretable and scalable models
+• Present results, insights and recommendations to a larger business audience with an emphasis on the “now what”, i.e. business impact
+• Participate in executive presentations with client leadership stakeholders.
+• Be part of an inclusive and open environment. A culture where making mistakes and learning from them is part of life
+• See how your work contributesto building an organization and be able to driveOrg level initiatives that will challenge and grow your capabilities.
+Qualification:
+• BE/BTech from a reputed University
+© COPYRIGHT 2022, TREDENCE. ALL RIGHTS RESERVED 4
+ 
+Required skills & interest areas:
+• Excellent programming skills in Python/R. Strong working knowledge of numerical, data analysis, AI/ML frameworks and libraries such as NumPy, Pandas,
+Scikit-learn etc.
+• Advanced SQL skills.
+• Strong understanding of the fundamental concepts of Statistical Modelling & Algorithms E.g. Hypothesis testing, Sample size estimation, A/B testing
+• Knowledge of predictive/prescriptive analytics including Machine Learning algorithms (Supervised and Unsupervised) and deep learning algorithms. 
+Expertise in ML – Regression, Classification, Clustering, Time Series Modeling, Graph Network, Recommender System, Deep Learning, Computer Vision,
+NLP/NLU, Reinforcement learning
+• Proficient in some or all the following techniques: Linear & Logistic Regression, Decision Trees, Random Forests, K-Nearest Neighbors, Support Vector
+Machines, ANOVA, Principal Component Analysis, Gradient Boosted Trees, ANN, CNN, RNN, Transformers.
+• Ability to solve complex business problems through a blend of logical and creative thinking.
+• Strong communication skills with an excellent ability to synthesize complex information.
+• A collaborative mindset to work with clients, ecosystem, and internal teams
+© COPYRIGHT 2022, TREDENCE. ALL RIGHTS RESERVED 5
+Why join Tredence?
+There is a reason we are one of the fastest-growing private companies
+in the country! You will have the opportunity to work with some of the
+smartest and fun-loving people in the data analytics space. You will
+work with the latest technologies and interface directly with the key
+decision stakeholders at our reputed clients, some of the largest and
+most innovative global business brands.
+Our people are our greatest asset, and we value every one of them.
+We are an equal opportunity employer who adhere to our core values 
+& reflect this in our day-to-day life. So, please come & see why we’re 
+so successful in one of the most competitive and fastest growing
+industries in the world
+Place of posting
+Accomodation details
+Bangalore
+Temporary
+Bond applicable
+No

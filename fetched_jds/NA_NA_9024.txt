@@ -1,0 +1,81 @@
+Job Details
+【
+Technology
+Field
+】
+Application Software,
+Network Service
+【
+Position Summary
+】
+Sony is developing advanced technologies to build a
+creator economy system that is attracting attention in the Web3 domain, and is
+also developing security technologies to protect the rights and privacy of
+creators and users. Sony is also conducting demonstration experiments to
+develop applications and implement blockchain technology in the entertainment
+and finance fields.
+【
+Responsibilities
+】
+Web3 Technology and Applicaiton development to support
+Sony's business in the Web3 era, where users manage their own content,
+including:
+■
+Developing a blockchain
+technology and application for copyright management tailored to music creators.
+■
+Developing technology for behavioral proofs that
+visualize and enhance fan engagement.
+■
+Developing Next-gen proof technologies that ensure
+authenticity for creative works such as music, image, video
+【
+Required qualifications
+】
+Experiences and skills that can be utilized:
+■
+Knowledge of blockchain
+application technology (Layer 1/2 technology, cryptography, blockchain
+applications)
+■
+Software coding experience (Python, Javascript, React,
+Solidity C + +, etc.)
+■
+Experience with Cloud OSS (AWS, GCP, etc.)
+■
+Experience data analysis techniques and learning
+datasets
+【
+Preferred qualifications
+】
+■
+Knowledge of system security techology, privacy
+preserving technology etc.
+■
+Experience of application development with AI and
+Machine Learning technology.
+【
+Product, Service
+】
+Entertainment business (music, movie, game etc.),
+financial service, consumer electronics, new business in Web3 area
+【
+Development Environment
+】
+■
+OS
+：
+Windows and Linux
+■
+Programing Language
+：
+C/C++,
+Python, Java, Solidity, etc.
+■
+Cloud Computing
+Place of posting
+Accomodation details
+Tokyo, Japan
+Temporary
+Bond applicable
+No

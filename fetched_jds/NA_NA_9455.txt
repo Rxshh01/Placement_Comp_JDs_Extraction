@@ -1,0 +1,36 @@
+Job Details
+About this Program
+Would you like to join a team where you are given the flexibility to select, explore & contribute to collaborative technical projects instead of being assigned to any project?
+Do you want to pursue a technical career path in an area that aligns with your long-term professional interests and subsequently transition to the area?
+How about working with managers who are invested in your success and will coach you to develop your leadership skills?
+If you are looking for one or more of the above, join the
+Engineering Development Group
+(EDG)
+to help kickstart your career.
+EDG is a leadership development program within the MathWorks Development organization. It is designed to enable success of team members by empowering them to develop and demonstrate their skills for a rewarding career.
+Below are a few of the focus areas in the Hyderabad and Bangalore locations.
+Areas of focus for the Hyderabad EDG team include:
+Full-stack Development, Software Engineering, Cloud Computing, Machine Learning, Deep Learning, Web & App Development, Algorithm Development in Autonomous Systems and Communication Systems spanning Signal Processing, Wireless, Image Processing, Computer Vision,  Sensor Fusion, Radar and Lidar Processing, Automated Driving, Robotics/UAV, FPGA/HDL, Wireless Protocols (5G, WLAN, Bluetooth), SIMD Optimization, Embedded Software, Sensors/Hardware, Automatic Code Generation, EM, RF, and Antennas.
+Areas of focus for the Bangalore EDG team include:
+Full-stack Development, Algorithm Development, Web Development, Automatic Code Generation, Software Engineering, Automated Driving, Agent-based Modelling, Machine Learning, Deep Learning, Embedded Vision, IoT, Code Infrastructure/Architecture, Code Coverage, Numeric Solvers, Embedded Targets, Compiler Technologies, UAVs/Drones, Communication Protocols, Control Systems, Motor Control, Controls for Power Conversion, Powertrain, Hardware Platforms, System Software, Data & Image Acquisition, Vehicle Network, Developing MATLAB interfaces for other languages and Audio/Video/Image/Scientific data formats.
+Responsibilities
+This role consists of components that include tailored technical training, personalized Customer Experience Curriculum and contribution to collaborative project work with technical team(s) of your choice. More specifically, you will:
+Explore, identify and transition to teams that match your professional interests and advance your career. Contribute by writing code or creating product demos via challenging technical projects with teams across Development and Customer-facing Engineering organizations.
+Develop & demonstrate customer experience/perspective & problem-solving skills by working on complex technical issues in MATLAB, Simulink and our entire suite of products. Specialize & develop deeper technical skills in your domain.
+Demonstrate proactive initiative, lead process improvement projects and coach & mentor others. Benefit from extensive learning opportunities through training, mentorship and knowledge sharing forums.
+Qualifications
+Bachelors
+(for our Undergraduate program) or
+Masters/Ph.D.
+(for our Graduate program) in Engineering or Computer Science
+Strong academic record
+Excellent communication and time management skills
+Strong programming skills
+A good understanding of Object Oriented methodologies
+Experience with MATLAB is a plus
+Place of posting
+Accomodation details
+Bangalore or Hyderabad
+None
+Bond applicable
+No

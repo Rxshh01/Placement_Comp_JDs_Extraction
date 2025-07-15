@@ -1,0 +1,33 @@
+Job Details
+Overview
+Every year, we welcome thousands of university students from every corner of the world to join Microsoft. You bring your aspirations, talent, potential—and excitement for the journey ahead. We’re a company of learn-it-all’s rather than know-it-alls and our culture is centered around embracing a growth mindset, a theme of inspiring excellence, and encouraging teams and leaders to bring their best each day. Does this sound like you? Learn more about our cultural attributes.
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+Those hired into this role are invited to participate in Microsoft Aspire Experience, a learning and development experience where you will build your network, cultivate intentional capabilities, and gain perspective into the career opportunities across Microsoft’s many exciting businesses.
+Come build community, explore your passions, and do your best work at Microsoft with thousands of university graduates from every corner of the world.
+Responsibilities
+•
+Understand Requirements - Contributes in partnership with stakeholders (e.g., project manager, technical lead) to determine user requirements for a feature. Begins to incorporate appropriate continuous feedback loops measuring customer value.
+•
+Design - Learns and contributes to processes for the architecture of a product/solution feature and learns to create proposals by testing design hypotheses and helping to refine code plans under the technical leadership of others. Produces code to test hypotheses for technical solutions and assists with technical validation efforts. Helps with and participates in the development of design documents for simple designs or user stories with oversight, helps to determine the technology that will be leveraged, and how they will interact.
+•
+Coding - With guidance, learns to create and implement code for a product, service, or feature reusing code as applicable. Writes and learns to create code that is extensible and maintainable. Learns about and applies diagnosability, reliability, and maintainability, and understands when the code is ready to be shared and delivered. Apply coding patterns and best practices to write code.
+•
+Implement - Learns to review work items to gain knowledge of product features in partnership with appropriate stakeholders (e.g., project managers). Assists and learns about breaking down work items into tasks and provides estimation.
+•
+Reliability and Supportability - Learns about and contributes to operations of live service as issues arise on a rotational, on-call basis. Identifies solutions and mitigations to simple issues impacting performance or functionality of Live Site services.
+•
+Engineering Excellence - Reviews current developments and proactively seeks new knowledge that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
+•
+Embody our culture and values.
+Minimum Qualifications
+•
+Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+•
+Understanding of Computer Science fundamentals, data structures, algorithms, operating systems, design patterns and related topics
+Visit our Careers FAQ Page to learn more about the interview process and answers to commonly asked questions.
+Place of posting
+Accomodation details
+Noida, Bangalore, Hyderabad, Pune
+None
+Bond applicable
+No

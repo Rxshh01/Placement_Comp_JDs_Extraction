@@ -1,0 +1,221 @@
+Job Details
+JD-1
+Job Description
+Section 1 : Identification
+Unique Job Code
+NA
+Job Title
+DevOps Engineer
+Department
+DIT
+Function
+Connected Platform & Products
+Written by
+Approved by
+Date
+Employment Type
+(Permanent/Fixed Term/Retainer)
+Section 2: Job Purpose Statement
+(Give in one or two sentences the basic reason/purpose of the Job)
+Hero team is looking for a DevOps engineer who can become a member of DIT’s connected core tech team. The role demands amazing coding skills with great analytical and problem solving thinking. As a core member of the tech team you would be involved in multiple product and platform developments which would strengthen the business presence of HMCL in Connected Platform domain.
+Section 3: Areas of Responsibility
+( A specific, permanent area that requires the role holder to be responsible for taking decisions, delivering results or carrying out a significant amount of activity)
+Key Responsibilities
+(Most significant responsibilities of the job along with key activities required to accomplish them)
+Key Performance Indices
+(Quantitative/Qualitative)
+*not the actual targets
+Weightage percentage
+(Total-100%)
+Design, automate and maintain secure DevSecOps platform(CI/CD/CT) in a hybrid cloud environment using the IaC stack. (Ansible/Terraform/CloudFormation or similar) in lower environments
+Deployment frequency
+Deployment time
+20%
+Build and maintain automated pipelines for Uat and production environments.
+Defect escape rate
+20%
+Deep collaboration with the engineering team to measure the KPI’s of applications quality gates and constantly finding opportunities to accelerate delivery velocity and productivity.
+Application uptime time
+Monitoring of Infra
+20%
+Design and build observability, monitoring and logging in all environments
+Time to detection
+20%
+Design and build deployment strategies to achieve zero-down time during roll-outs.
+Blue-green deployment strategy implementation
+10%
+Design and build Incident management, release management and change management processes.
+Release processes
+Incident resolution time
+10%
+Section 4:  A day in the life
+[This section is like the pen-picture of the role incumbent and should cover day to day work]
+Section 5: Job Requirements
+(State acceptable proficiency / threshold education, qualifications, training and experience are necessary to enable and perform the job fully and effectively. Note that this information should relate to the qualifications etc. required for the job. ( These are not necessarily the same as the job holder’s)
+Educational Background
+M.Tech Computer Science, Electronics & Electrical Engineering
+Relevant Experience
+2-3 years in relevant domain
+Technical Skills/Knowledge
+Experience as DevOps engineer using IaC stack on AWS.
+Deep competence in multi-cloud deployment templating such as API Gateways, Kubernetes Config Connector and/or Terraform Strong general programming experience in Python, Go, or Java to write automation scripts.
+Deep competence of containerization technologies.
+Deep competence in IAM.
+Highly proficient with Google Analytics APIs and observability/monitoring/logging platforms.
+Strong competence in scripting (e.g., Python, Bash, JavaScript, Ruby, PowerShell)
+Behavioral Skills
+Strategic Thinker: Ability to translate details into bigger picture implications driving the business forward, challenging the status quo. Aligns the right resources to the task at hand; foresees and plans around obstacles
+Talent Management: Has a passion for building great teams - proven ability to develop, motivate and champion talent beyond own organization
+Innovate for Growth: Technology Evangelist. Always thinking about how to make improvements; able to implement changes that map to business strategy. Stays abreast of cutting edge technology trends
+Lead & Adapt to Change: Thrives in a changing, dynamic environment and can drive operational efficiencies that map to changing needs
+JD 2-
+Job Description
+Section 1 : Identification
+Unique Job Code
+NA
+Job Title
+Mobile SDK Developer
+Department
+DIT
+Function
+Connected Platform & Products
+Written by
+Approved by
+Date
+Employment Type
+(Permanent/Fixed Term/Retainer)
+Permanent
+Section 2: Job Purpose Statement
+(Give in one or two sentences the basic reason/purpose of the Job)
+Hero  is looking for a Mobile SDK developer. We are looking for a strong mobile app developer who welcomes both engineering and maintenance tasks. The primary focus will be to implement new user interfaces and features together with automated unit and integration tests.
+You will be working with our candid and collaborative team, where your knowledge and advice about application architecture and the newest mobile technologies will be highly appreciated. The code you write will need to be cleanly organized and of the highest quality. You’ll also help ensure solid application performance and an excellent user experience.
+Section 3: Areas of Responsibility
+( A specific, permanent area that requires the role holder to be responsible for taking decisions, delivering results or carrying out a significant amount of activity)
+Key Responsibilities
+(Most significant responsibilities of the job along with key activities required to accomplish them)
+Key Performance Indices
+(Quantitative/Qualitative)
+*not the actual targets
+Weightage percentage
+(Total-100%)
+Review customer requirements, develop and implement EVS/GNSS/VOLD, Vehicle HAL, native and custom HAL development.
+Develop and implement custom HAL
+30%
+Develop, code, test and troubleshoot the system software
+Write code (simple with low churn)
+Write unit test cases and execute
+30%
+Analyze, monitor and improve efficiency, stability of the system
+Writing modular code with reusability of functions
+Optimization on Mobile device resource utilization
+20%
+Interface with hardware design and development
+Working with Hardware APIs provided by Android/iOS
+Understanding of necessary permissions and utilization
+20%
+Section 4:  A day in the life
+[This section is like the pen-picture of the role incumbent and should cover day to day work]
+Section 5: Job Requirements
+(State acceptable proficiency / threshold education, qualifications, training and experience are necessary to enable and perform the job fully and effectively. Note that this information should relate to the qualifications etc. required for the job. ( These are not necessarily the same as the job holder’s)
+Educational Background
+M.Tech Computer Science, Electronics & Electrical Engineering
+Relevant Experience
+2-3 years in relevant domain
+Technical Skills/Knowledge
+Good knowledge about mobile app development. This includes the whole process, from the first line of code to publishing in the store(s)
+Good knowledge of Android/iOS platforms
+Proficiency with writing automated tests {Unit, Espresso, Mocha, Jest, Enzyme, XCTest, etc.}
+Android Porting/Upgrade.
+Working on Android HAL layer and realizing various customer requirements on Android.
+Exposure to Android CTS/VTS test development and fixing of CTS/VTS issues
+Interface with Various Domains within Android Product Line to achieve Stability metrics.
+Features and enhancements for customers.
+Report status, issues and progress of the SW development to the SW project lead
+Ensure the implementation of defined test strategies and document the achieved results
+Development work experience on GNSS, camera , Aosp migration and software update
+Understanding of BT/WiFi qualification process and work experience on PTS/WFA
+Working Experience in Android AOSP/ Linux based infotainment and build environment
+Java programming experience GIT Usage
+Proficiency in  Kotlin/Java/Swift/Objective-C
+Usage of GIT tools and knowledge in Configuration management.
+Behavioral Skills
+To be a team player with good time-management skills.
+To be interactive and good in communication.
+Strategic Thinker: Ability to translate details into bigger picture implications driving the business forward, challenging the status quo. Aligns the right resources to the task at hand; foresees and plans around obstacles
+Talent Management: Has a passion for building great teams - proven ability to develop, motivate and champion talent beyond own organization
+Innovate for Growth: Technology Evangelist. Always thinking about how to make improvements; able to implement changes that map to business strategy. Stays abreast of cutting edge technology trends
+Lead & Adapt to Change: Thrives in a changing, dynamic environment and can drive operational efficiencies that map to changing needs
+JD 3-
+Job Description
+Section 1 : Identification
+Unique Job Code
+NA
+Job Title
+Embedded Firmware Engineer (Linux)
+Department
+Digital & Information Tech
+Function
+Connected Platform & Products
+Written by
+Approved by
+Date
+Employment Type
+(Permanent/Fixed Term/Retainer)
+Section 2: Job Purpose Statement
+(Give in one or two sentences the basic reason/purpose of the Job)
+Hero  is looking for a Firmware Embedded S/W Engineer (Linux) who can become a member of HMCL Digital Connected core tech team. The position utilizes software development skills to design, implement, and test Linux OS level software as well as firmware used in telematics control unit. The job entails working on kernel code and encompasses various protocols. The job also includes developing test scripts for lab tests and verification. The focus will be on development and sustaining of new and existing products for vehicle telematics unit.
+Section 3: Areas of Responsibility
+( A specific, permanent area that requires the role holder to be responsible for taking decisions, delivering results or carrying out a significant amount of activity)
+Key Responsibilities
+(Most significant responsibilities of the job along with key activities required to accomplish them)
+Key Performance Indices
+(Quantitative/Qualitative)
+*not the actual targets
+Weightage percentage
+(Total-100%)
+Design and development of our embedded softwares for vehicle telematics devices.
+Assist the lead engineer in the design and development process.
+Contribute in the firmware architecture.
+30%
+Maintain the complete Embedded software design cycle and documenting Software Design (flow charts, state diagram, logic design, analysis, implementation, debugging and testing etc)
+Writing the relevant documentation
+Gatekeeper for all the documentation and owning the complete process and workflow SoP and driving it
+30%
+Protocol understanding and debugging
+CAN understanding (Standard and Extended CAN)
+IoT Protocols such as MQTT, Websockets, BLE
+Understanding on Embedded comm protocols such as I2C, SPI, UART
+20%
+Write test scripts to verify functionality of code in a lab environment.
+Able to define the test scripts using Shell, Perl or python scripts
+20%
+Section 4: Job Requirements
+(State acceptable proficiency / threshold education, qualifications, training and experience are necessary to enable and perform the job fully and effectively. Note that this information should relate to the qualifications etc. required for the job. ( These are not necessarily the same as the job holder’s)
+Educational Background
+M.Tech Computer Science, Electronics & Electrical Engineering
+Relevant Experience
+Technical Skills/Knowledge
+Good hands-on programming in Embedded C, C++ in resource constraint systems.
+Experience developing for Embedded RTOS, Linux/POSIX, and/or Android system
+Must be extremely proficient with Linux kernel development, experience with Yocto linux is a plus.
+Must have a strong understanding of code development for microprocessors.
+Experience writing code for vehicle telematics control units.
+Experience with IoT technologies and concepts (MQTT, HTTPS, security, OTA software updates, telemetry, etc.)
+Experience developing and debugging drivers for microcontroller peripherals and systems (e.g. I2C, SPI, UART, USB, Ethernet, etc.).
+Experience in Linux OS level application programming.
+Experience with uBoot, Linux kernel, and Linux bash command line utilities.
+Experience with bootloaders and scripting languages such as shell, perl or python.
+Experience working in a collaborative team environment.
+Good to have experience in using AWS IoT Core/Azure IoT Hub IoT Client.
+Good to have understanding of Protobuf and data compression mechanism.
+Behavioral Skills
+Strategic Thinker: Ability to translate details into bigger picture implications driving the business forward, challenging the status quo. Aligns the right resources to the task at hand; foresees and plans around obstacles
+Talent Management: Has a passion for building great teams - proven ability to develop, motivate and champion talent beyond own organization
+Innovate for Growth: Technology Evangelist. Always thinking about how to make improvements; able to implement changes that map to business strategy. Stays abreast of cutting edge technology trends
+Lead & Adapt to Change: Thrives in a changing, dynamic environment and can drive operational efficiencies that map to changing needs
+Place of posting
+Accomodation details
+Pan India
+None
+Bond applicable
+No

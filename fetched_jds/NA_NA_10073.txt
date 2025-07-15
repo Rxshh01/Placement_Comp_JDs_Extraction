@@ -1,0 +1,32 @@
+Job Details
+Job Description:
+We are looking for 1-2 yrs experienced / Freshers for our AI Team who can develop cutting-edge AI/ML/DL algorithms dealing with multi-omics studies involving Imaging, Genomics, Transcriptome, and Clinical data to deal with generating AI-based support tools to assist Oncologists/Pathologists to derive useful findings towards diagnosis, prognosis, and treatment planning towards curbing Cancer disease.
+•
+Close interactions with data engineers, subject matter experts (SMEs), and business stakeholders to select, optimize, and apply algorithms to advance our digital pathology-based biomarker development activities
+•
+Maintain a keen awareness of developments in data and cloud infrastructures and state-of-the-art Foundation Models and AI/ML/DL algorithms and research results
+•
+Generating novel ideas to design, develop ML/DL algorithms, and dockerize the end-to-end AI pipelines to enable user-friendly product development.
+•
+Perform experimentations on various ML/DL algorithms targeting imaging data, text data, and other integrated multi-omics data generated from various clinical studies.
+•
+Should get acquainted with domain-specific knowledge and usage of specific bioinformatics hardware or software tools
+•
+Should be able to translate the work conducted into a publishable article that leads to IPR filings with the support of other team members
+•
+Should be capable of involving in technical interactions with other teams of the company such as development, bioinformatics, and testing for hassle-free product development.
+Must-Have:
+•
+Prior experience in Computer Vision, machine vision libraries, such as OpenCV, image processing techniques, pattern recognition, and feature extraction
+•
+Experience with Python and other general-purpose programming languages with the ability to process large-scale image datasets using Linux/Bash
+•
+Experience developing, training, and evaluating classical machine learning models such as SVMs, Random Forests, Gradient Boosting, CNN, FCN, ResNet, GAN, etc.
+•
+Experience developing, training, and evaluating deep-learning models using public deep-learning frameworks (e.g. PyTorch, Keras, and Tensorflow)
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+No

@@ -1,0 +1,28 @@
+Job Details
+Join the leader in entertainment innovation and help us design the future. At Dolby, science meets art, and high tech means more than computer code. As a member of the Dolby team, you’ll see and hear the results of your work everywhere, from movie theaters to smartphones. We continue to revolutionize how people create, deliver, and enjoy entertainment worldwide. To do that, we need the absolute best talent. We’re big enough to give you all the resources you need, and small enough so you can make a real difference and earn recognition for your work. We offer a collegial culture, challenging projects, and excellent compensation and benefits.
+Dolby’s research division is looking for an AI researcher to join Dolby’s research efforts to develop the next generation of AI based audio and video technologies. The candidate will work with Dolby’s world-class audio and vision experts to invent new multimedia analysis, processing and rendering technologies. As a part of an international team, the senior staff research engineer will work on ideas exploring new horizons in audio processing, analysis, replay and organization. The researcher is responsible for performing fundamental new research, transferring technology to product groups, and draft patent applications.
+Summary
+Dolby’s research division is currently looking for a talented, self-motivated AI researcher to push the boundaries of the state-of-the-art in audio and media technologies. An ideal candidate would have a strong background in deep learning, both in terms of conceptual understanding, as well as practical experience. A core aspect of this role involves being able to keep up-to-date with the literature, implement, and innovate with the bleeding edge in generative models, self-supervised learning, and multi-modal learning. Consequently, knowledge or experience in any/all of the following are helpful:
+Diffusion, autoregressive, or other generative models.
+Self-supervised, contrastive learning, auto-encoders.
+Audio, image, or text applications – Source separation, text-to-speech, music synthesis, image segmentation, image captioning, question answering, language models, etc.
+With the explosion of large language models and natural language processing, the candidate will work closely with Dolby’s Applied AI team, which actively pursues the integration of such models into audio and media experiences. Prospective candidates would be expected to hit the ground running, innovate, and contribute to such projects. Consequently, experience with language models, question answering, vision-language models, captioning, etc. would be highly beneficial.
+Main responsibilities
+Work closely with other domain experts to refine and execute Dolby’s technical strategy in artificial intelligence and machine learning.
+Use deep learning to create new solutions and enhance existing applications.
+Push the state-of-the-art and develop intellectual property.
+Transfer technology to product groups and draft patent applications.
+Advise internal leaders on recent deep learning advancements in the industry and academia to further influence research direction and business decisions.
+Requirements
+Ph.D. in computer science or similar, with a focus on deep learning. Knowledge in audio, video, or text processing is desirable.
+Strong publication record, with publications in major machine learning conferences (e.g. NeurIPS, ICLR, ICML). Publications in top domain-specific conferences is desirable (e.g., ACL, CVPR, ICASSP).
+Good knowledge about current machine learning literature.
+Highly skilled in Python and one or more popular deep learning frameworks (TensorFlow or PyTorch).
+Ability to envision new technologies and turn them into innovative products. Creativity.
+Good communication skills.
+Place of posting
+Accomodation details
+Bengaluru
+Temporary
+Bond applicable
+No

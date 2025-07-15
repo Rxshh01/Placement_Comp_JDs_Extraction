@@ -1,0 +1,23 @@
+Job Details
+'Researcher who can create innovative value for customers all over the world through the research and development of new technologies in machine learning, computer vision, media processing, and/or related fields. Current research focuses are listed below:
+- Machine Learning and Pattern Recognition
+- Video, Image, and Acoustic Processing/Recognition
+- Environmental Sensing and Understanding
+You will start as research staff, working in an international team with a majority of Japanese researchers. Future promotion to a senior researcher position and subsequent specialization as a technical expert or manager is possible depending on your achievements, experience, and skills, based on equal opportunity.
+Required:
+- Master's degree in Engineering or Science.
+- Expertise in machine learning, computer vision, media processing technology, or related fields.
+- At least one publication in journals or international conferences.
+- Over 3 years of experience in programming, along with skills in prototyping and performance evaluation.
+- Language skills in English and/or Japanese.
+Encouraged:
+- PhD is preferred.
+- More than 3 publications in journals or international conferences.
+- Over 5 years of experience in programming, along with skills in prototyping and performance evaluation.
+- Knowledge of foundation models such as Vision Language Models and Large Language Models.
+Place of posting
+Accomodation details
+JAPAN
+Temporary
+Bond applicable
+No

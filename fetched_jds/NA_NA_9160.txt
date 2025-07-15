@@ -1,0 +1,125 @@
+Job Details
+About the Role:
+The Jr. R&D Engineer will join the Innovations team, focusing on one of three core areas—hardware, firmware, or software—depending on expertise and interests. The role involves working alongside experienced engineers and researchers, contributing to groundbreaking projects and continuously expanding knowledge and skills.
+Responsibilities:
+Research & Development:
+Participate in the design, development, and testing of innovative hardware, firmware, or software solutions.
+Prototyping:
+Assist in the creation of prototypes to validate concepts and iterate based on feedback and testing.
+Data Gathering:
+Collect and analyze data from experiments, tests, and field studies to inform design decisions and improvements.
+Collaboration:
+Work closely with cross-functional teams, including senior engineers, project managers, and other stakeholders, to deliver high-quality products.
+Problem-solving:
+Identify technical challenges and contribute to innovative solutions to overcome them.
+Documentation:
+Maintain clear and detailed documentation of designs, experiments, and test results to support project development and knowledge sharing.
+Learning & Development:
+Continuously enhance technical skills through hands-on experience, training, and staying up-to-date with industry trends and best practices.
+Required skills:
+Education:
+Bachelor’s degree in Electrical Engineering, Software Engineering, Computer Science, or a related field.
+Technical skills:
+Proficiency in one of the following areas:
+Hardware:
+Knowledge of circuit design, PCB layout, and hardware debugging.
+Firmware:
+Experience with embedded systems, microcontrollers, and firmware development.
+Software:
+Familiarity with programming languages (e.g., Python, TypeScript) and software development methodologies.
+Passion for innovation:
+Demonstrated enthusiasm for learning and experimenting with new technologies and approaches.
+Team player:
+Ability to work effectively in a collaborative team environment.
+Communication:
+Strong verbal and written communication skills.
+Problem-solving:
+Analytical mindset with a proactive approach to identifying and solving technical challenges.
+Preferred Skills:
+Experience:
+Internship or project experience in a related field is a plus.
+Certifications:
+Relevant certifications in hardware design, firmware development, or software engineering.
+Tools & software:
+Familiarity with CAD tools for hardware, IDEs for firmware, or version control systems for software development.
+Dozee, India’s #1 AI-based
+contactless Remote Patient Monitoring (RPM)
+and
+Early Warning System (EWS)
+, continuously monitors patients and provides early warnings of clinical deterioration, enabling timely interventions and enhancing patient safety in Non-ICU wards. A true
+"Made in India for the World"
+solution, Dozee introduced the world’s first non-contact blood pressure monitoring system. Trusted by leading healthcare providers in India, the USA, and Africa, Dozee is transforming patient care by improving outcomes and reducing costs.
+Dozee is adopted by
+200+ hospitals
+and
+monitors 10000+ beds
+. Large hospitals like Apollo, Breach Candy, P D Hinduja, Wockhardt, SRM and many more have adopted Dozee Pan India among others.
+A third-party impact analysis, conducted by Sattva consulting to assess the impact of implementing the Dozee platform in public hospitals in India, has the following key highlights:
+80% less time
+taken by nurses in vital capturing.
+144 lives
+saved yearly for every
+100 Dozee bed
+by lifesaving alerts
+ALOS for ICU
+reduced by 1.3 days
+.
+Saving of
+INR 2.7 Cr / year
+for every
+100 Dozee beds
+Foundation :
+October, 2015
+Founders :
+Mudit Dandwate, Gaurav Parchani
+Headquarter :
+Bangalore, India | Houston, USA
+Key Investors & Backers :
+Prime Ventures, 3one4 Capital, YourNest Capital, Gokul Rajaram, BIRAC (Department of Biotechnology,
+State Bank of India, and Dinesh Mody Ventures.
+Stage :
+Series A+
+Team Strength :
+280+
+Business :
+Providing Continuum of care with AI-based contactless Remote Patient Monitoring (RPM) and Early Warning System (EWS) for Hospitals and Home.
+Certifications & Accreditations :
+ISO13485:2016 Certified, ISO27001:2013 Certified, CDSCO Registered, FDA510K Cleared for the flagship product Dozee Vitals Signs (VS) measurement system and SOC2 TypeII Certified
+Achievements : Awards
+Forbes India 30 under 30
+Forbes Asia 100 to Watch
+BML Munjal Award for Business Excellence using Learning and Development
+FICCI Digital Innovation in Healthcare Award
+Anjani Mashelkar Inclusive Innovation Award 2020
+Marico Innovation For India Award
+Republic India - Emerging Healthcare Technology Award
+TimesNow Bharat AI Healthcare Innovation Award
+Financial Express HealthcareTechnology Leader of the Year
+ET Innovation award
+Gold Award in the @Medicall Made in India Healthcare Innovations Awards
+CXO Innovations award for AI Driven Remote Patient Monitoring
+Dataworld award for best use of data science for impact
+Tech Start-up of the Year 2019 Award at Assocham's Emerging Digital Technologies Summit
+NASSCOM League of 10 I Emerge 50 Awards 2020
+Public Health Innovative Startup Award in PHIC Conclave
+Gold award in the 5th edition of the IHW Council CSR Health Impact Awards 2021 in the CSR COVID Indigenous Response Project category
+AEGIS Graham bell awards 2020
+Silver award in the 7th edition of the IHW Council CSR Digital Health Award
+IndiaCSR best healthcare initiative award for MillionICU Initiative
+Videos
+Science Behind Dozee : Ballistocardiography & Artificial Intelligence
+100 Dozee deliver 144 life saving alerts and INR 2.7 Cr of saving - Sattva Study
+Dozee saves life of a mother at home
+Dozee in News
+Republic World, June 25, 2024 -
+Harnessing AI and Early Warning Systems for Enhanced Patient Safety in Hospitals
+Economic Times HealthWorld, Oct 20, 2023 -  From Code Blue Reductions to Enhancing Nursing Efficiency: Dozee Setting the New Standard of Patient Safety
+Hindu Business Line, Nov 07, 2023 -  Bedside bots: Dozee’s AI-powered patient care
+Disclaimer:
+Dozee is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.” Dozee does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need. Dozee will not tolerate discrimination or harassment based on any of these characteristics.
+Place of posting
+Accomodation details
+Bangalore
+None
+Bond applicable
+No

@@ -1,0 +1,49 @@
+Job Details
+About the Role
+If reliability and scalability defined the previous decade of tech evolution, intelligence and adaptation (aka
+personalization) is going to define the coming decade. Systemic intelligence and data driven products are
+going to be most important aspects for creating unparalleled customer experience.
+The Data Science team at Flipkart is going forward with the mission of building systemic intelligence
+across Flipkart product and ecosystem. Being the largest e-commerce marketplace and the most used
+e-commerce app in India, exposes us to the richest possible data about the Indian consumer.
+Along with that we have data from huge product selection and a large number of sellers. The ~ 2.6
+Petabytes of data generated per day has a complete mix of data types in terms of numerical data,
+structured text, unstructured text, images, audio etc. which gives us an opportunity to explore a wide
+range of problems to solve.
+Problems we are solving?
+● Product discovery along with personalization and intent modeling,
+● Demand shaping and planning,
+● Heterogeneous networks for consumer, product &amp; seller interactions,
+● Customer insights,
+● Catalog enhancement and product insights,
+● Customer emotion detection and right response matching,
+● Fulfillment automation,
+● Optimization of last mile delivery,
+● Self-healing systems, and more.
+Data Science team is also leveraging partnerships with Indian and foreign universities like CMU, IIT’s, IISc
+and IIIT’s for pushing state of the art research for these problems.
+At Flipkart, Data scientists are embedded with the engineering and product team for the problem they are
+working on. This ensures that the data science solutions are envisioned along with product delivery.
+We have a very flat structure within the Data Science team, which enables us to focus on excellence and
+create a deep sense of ownership. Also, being a young team, we are able to democratize the process of
+problem selection. Our techniques span classification, clustering, matrix factorization, graphical models,
+networks and graph algorithms, topic modeling, image processing, deep learning and NLP, each one of
+them being exercised at a large scale.
+If you want to challenge the status quo and want to impact the wide-open landscape in India, then Flipkart
+Data Science team is the place for you!
+Why work with us?
+At Flipkart, we promise to maximize what you care about the most. You’ll get an opportunity to leave a
+mark and create your own legacy, you’ll have freedom to experiment, learn and grow, you’ll get to work
+with the best in our inclusive teams and experience our culture of care to ensure that you can focus on
+doing your best work.
+Every Flipster is a Maximiser - Curious, Audacious, Entrepreneurial, Purpose-Driven, Excited By Big
+Challenges, A Team Player and Inclusive. If this is who you are, then Flipkart is the place where you can
+thrive.
+We understand that your own aspirations and journeys are unique. So you choose what you want to
+maximise, and we provide you the platform for it. Because when you maximise, we maximise.
+Place of posting
+Accomodation details
+Bangalore
+Temporary
+Bond applicable
+No

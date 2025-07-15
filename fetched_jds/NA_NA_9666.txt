@@ -1,0 +1,13 @@
+Job Details
+At Hakimo, we care deeply about ensuring that our users have the best experience while using our product. This requires a major focus on building a modern and intuitive UI that empowers our users to use all of our functionality in a seamless and delightful way. If you're excited about building beautiful user interfaces to state-of-the-art AI algorithms - then this role is for you.
+Develop and maintain components that users will interact with via our web portal
+Develop data visualization and interaction components that will be used to explore data
+Interface with the backend algorithms that power Hakimo's core product offerings
+Incorporate feedback from end-users on improving our web interface
+Collaborate with backend engineers to build smooth end-to-end workflows
+Place of posting
+Accomodation details
+Bengaluru
+None
+Bond applicable
+No

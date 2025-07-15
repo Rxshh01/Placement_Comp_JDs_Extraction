@@ -1,0 +1,29 @@
+Job Details
+Who are we ?
+IDfy is an Integrated Identity Platform offering products and solutions for KYC, KYB, Background Verifications, Risk Mitigation, Digital Onboarding and Digital Privacy. We establish trust while delivering a frictionless experience for you, your employees, customers and partners.
+Only IDfy combines enterprise-grade technology with business understanding and has the widest breadth of offerings in the industry. With more than 12+ years of experience and 2 million verifications per day, we are pioneers in this industry.
+Our clients include HDFC Bank, IndusInd Bank, Zomato, Amazon, PhonePe, Paytm, HUL and many others. We have successfully raised $27M from Elev8 Venture Partners, KB Investment, and Tenacity Ventures!
+We are perfect match if you..
+Are passionate about machine learning and eager to kickstart your career in this field. Our ideal candidate is someone looking to apply their academic knowledge in a practical, real-world setting.
+Must Haves:
+Experience or coursework in applying machine learning or deep learning models to solve problems.
+Basic understanding of computer vision concepts, Generative Al (LLMs); exposure to projects involving computer vision is a plus.
+Familiarity with Python is essential, and exposure to libraries like Tensorflow and PyTorch is advantageous. Interest in learning about API development as it relates to deploying machine learning models. Enthusiasm for staying updated with the latest research in machine learning and Al.
+Good to Have:
+Exposure to languages like Ruby, Go, or Elixir, or a willingness to learn them.
+Familiarity with ML Ops practices such as Docker and Kubernetes.
+Experience with other platforms, frameworks, or tools used in machine learning projects.
+This role offers you the opportunity to contribute to impactful projects that affect billions of people globally. We are excited to welcome passionate individuals who share our vision.
+Here's what your day would look like...
+Be working on all aspects of a production machine learning system. You will be acquiring data, training and building models, deploying models, building API services for exposing these models, maintaining them in production, and more. Work on performance tuning of models
+From time to time work on support and debugging of these production systems
+Work on researching the latest technology in the areas of our interest and applying it to build newer products and enhancement of the existing platform.
+Building workflows for training and production systems
+Contribute to documentation
+While the emphasis will be on researching, building and deploying models into production, you will be expected to contribute to aspects mentioned above.
+Place of posting
+Accomodation details
+Mumbai
+Temporary
+Bond applicable
+No

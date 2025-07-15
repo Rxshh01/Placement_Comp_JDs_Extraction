@@ -1,0 +1,42 @@
+Job Details
+You will
+work on multiple domains like multichannel supply chain to complex retail
+systems in the point of sale, finance, logistics and transportation domains .
+You'll
+create game-changing solutions / applications using cutting-edge technology and
+streamline process through innovation.
+We're
+constantly reinventing how we save
+people’s money in our retail stores, online and through their mobile devices, and we
+do it in an unexpected ways. Whether
+you're
+analyzing data, simplifying the supply
+chain or creating solutions to make this planet more sustainable, what
+you'll
+be really
+doing is redefining the customer experience and making lives better.
+​
+​
+You get to work on a wide spectrum of technologies and heterogeneous platforms
+such as Java, Hadoop, Cassandra, ERP, Middleware tools, low latency messaging
+systems, machine learning and open-source frameworks
+​
+​
+Your Responsibility
+​
+You will
+have to work in a team of developers writing codes to build one of the these
+systems but not limited to : Largest private customer database, master data for Item,
+Supply Chain to support our online and offline channels, Mobile development to
+enhance user experience for our associates, Complex security frameworks and
+cryptology suites, Integration layer to interface with suppliers and B2B partners,
+World’s largest private cloud, Large Scale distributed Systems, Service Oriented
+Architecture, High Performance, Scalable and Reliable Systems & Massive in-memory
+databases ​
+​
+Place of posting
+Accomodation details
+Bangalore and Chennai
+Temporary
+Bond applicable
+No

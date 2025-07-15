@@ -1,0 +1,116 @@
+Job Details
+SoC Architecture
+Job Overview:
+As part of the Architecture team, you will play a crucial role in the architecture of our cutting-edge server chips, which have a strong emphasis on accelerators. Your contributions will include but not limited to end to end data and control paths for SOP/SoC  designs, performance and power analysis of CPU and accelerators, and documenting architectural specification.
+Location
+Bengaluru
+Education & Experience -
+CS/ EE/ EC Engineering Graduate or post-graduate
+SOC Frontend Methodology
+Job Overview
+As part of this team, you will play a crucial role in architecting, developing, deploying and supporting frontend methodologies for our cutting-edge server and Automotive SOC chips. Your contributions will include but not limited to -
+RTL2GDS create & validate CAD flows for sub-7nm silicon designs.
+Flows for SoP integration, validation and signoff.
+Location
+Bengaluru
+Education & Experience -
+CS/ EE/ EC Engineering Graduate or post-graduate
+SOC RTL Design and Microarchitecture
+Job Overview
+As part of this team, you will play a crucial role in SOC & IP RTL Design and Micro-architecture development for our cutting-edge server and Automotive SOC chips. Your contributions will include but not limited to -
+Micro architect, Design and Deliver RTL for (one of the following):
+Clock/ Reset/ Power Management
+SoC Fabrics, Protocol Bridges
+Fuse, Boot, Security
+Co-develop micro architecture with SoC architects to meet a specific requirement of the device.
+Write MAS document, drive alignment with reviews to signoff.
+Develop and deliver RTL, UPF, (co-develop) timing constraints with all QC checks.
+SoC RTL Integration, IP version and design bug management
+Work with SoC lead to integrate the design, review/ signoff Verification plan.
+Review DFT and PD implementation to signoff.
+Location
+Bengaluru
+Education & Experience -
+CS/ EE/ EC Engineering Graduate or post-graduate
+DFT Engineering
+Job Overview
+As part of this team, you will play a crucial role in implementing Design for Test (DFT)  for our cutting-edge server and Automotive SOC chips. Your contributions will include but not limited to -
+Create Verilog/System Verilog test benches to verify various DFT features in RTL such as SSN, compressed and uncompressed scan, memory BIST, JTAG, and boundary scan at block and SoC-level
+Verify top-level features such as power-on self-test, clock observation, clock stop and scan dump
+Run DV regressions & analyze coverage, triage & debug failures
+Run gatesims
+Work with the RTL designers on identifying design fixes as needed
+Work with test engineers on delivering pre-Si DV testcases for Si bring up
+Help/Participate in Si bring up
+Location
+Bengaluru
+Education & Experience -
+CS/ EE/ EC Engineering Graduate or post-graduate
+SOC Physical Design
+Job Overview
+As part of this team, you will play a crucial role in Physical Design implementation for our cutting-edge server and Automotive SOC chips. Your contributions will include but not limited to -
+Perform SOC full chip physical design; floor-planning, I/O, bump & RDL (Redistribution layer) planning, hard IP integration, partitioning, power/ground grid generation, pin assignment, partition hardening, chip-level clock, feedthrough, special interface, and interconnect planning, bus routing, sequential pipeline planning and full-chip design for testability (DFT) planning
+Collaborate with chip architects, package engineers, and block PD owners to converge on chip floorplan. Work on interconnect, IP integration, and floorplan improvement opportunities
+Run STA, PV, RV, and other signoff checks to achieve closure and tapeout
+Run physical verification at chip and block level. Fix design rule check/layout versus schematic/antenna/electrical rule check/design for manufacturing violations
+Location
+Bengaluru
+Education & Experience -
+CS/ EE/ EC Engineering Graduate or post-graduate
+SOC Backend Methodology
+Job Overview
+As part of this team, you will play a crucial role in architecting, developing, deploying and supporting SoC backend methodologies for our cutting-edge server and Automotive SOC chips. Your contributions will include but not limited to -
+Develop SOC physical design tool-flow-design methodologies augmenting Synopsys/Cadence/Mentor EDA tools for best in class power-performance and design efficiencies.
+Work with the physical design lead and physical design team to ensure quality execution.
+Location
+Bengaluru
+Education & Experience -
+CS/ EE/ EC Engineering Graduate or post-graduate
+Digital Verification Engineering
+Job Overview
+As part of this team, you will play a crucial role in SOC verification for our cutting-edge server and Automotive SOC chips. Your contributions will include but not limited to -
+Verification and Validation plan developments for complex SoC’s and multi-chiplet System on Packages
+Developing and updating UVM and C/Python based testbench environments and test suites for functional, netlist and power simulations
+Get involved in architecture modeling and pre and post silicon validation efforts
+Developing reusable verification IP’s.
+Developing reference models using System Verilog / SystemC / Python
+Debugging design units using simulation and formal tools and methodologies
+Location
+Bengaluru
+Education & Experience -
+CS/ EE/ EC Engineering Graduate or post-graduate
+Emulation & Prototyping Engineering
+Job Overview
+As part of this team, you will play a crucial role in the Emulation & Prototype engineering of our cutting-edge server and Automotive SOC chips. Your contributions will include but not limited to -
+HW design validation using emulation of design on emulation platforms.
+Prototyping the design to validate system use cases and work with the SW engineers to bring HW specific SW components alive before the Si arrives back from the lab.
+Developing methodologies and test plans for emulation and prototyping work.
+You would also be involved in replicating bugs that may be found in Si on emulation or prototyping platform environments to enable both HW and SW engineers to debug and fix such bugs
+Location
+Bengaluru
+Education & Experience -
+CS/ EE/ EC Engineering Graduate or post-graduate
+3DIC and Package Design
+Job Overview
+As part of this team, you will play a crucial role in the advanced 3DIC and Package design engineering for our cutting-edge server and Automotive SOC chips. Your contribution will include but not limited to -
+Perform SOP(system on Package) 2.5D/3D full chip physical design using 3DIC tool from Synopsys/Cadence
+Work with chip architects, package engineers, Chiplets team to ensure optimal SOP integration.
+Location
+Bengaluru
+Education & Experience -
+CS/ EE/ EC Engineering Graduate or post-graduate
+Platform Design Engineering
+Job Overview
+As part of this team, you will play a crucial role in the platform design engineering for our cutting-edge server and automotive SOC chips. Your contribution will include but not limited to -
+Platform level SI/PI analysis, PDN analysis and thermal analysis
+Platform design implementation including high speed PCB, Socket and Server Chassis design
+Location
+Bengaluru
+Education & Experience -
+CS/ EE/ EC Engineering Graduate or post-graduate
+Place of posting
+Accomodation details
+Bangalore
+Temporary
+Bond applicable
+No

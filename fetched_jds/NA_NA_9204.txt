@@ -1,0 +1,37 @@
+Job Details
+The Power Apps Developer will be responsible
+for designing, developing, and maintaining Power Apps solutions on the
+Microsoft Power Platform. The role involves implementing data models using
+Dataverse, managing security and access permissions, troubleshooting issues,
+and staying updated on the latest Power Apps and Dataverse advancements. The
+individual will collaborate closely with business stakeholders to translate
+their requirements into technical solutions, ensuring efficiency and
+high-quality outputs.
+Key Responsibilities: -
+1. Power Apps Development
+Develop and maintain custom Power Apps
+solutions on the Microsoft Power Platform to meet the business requirements.
+2. Data Modeling
+Design and implement scalable data models
+using Dataverse to ensure data integrity and accessibility.
+3. Security & Permissions
+Configure and manage security, roles, and
+access permissions for Power Apps applications to ensure data privacy and
+compliance.
+4. Issue Resolution
+Troubleshoot and resolve technical issues
+related to Power Apps and Dataverse, ensuring minimal downtime and user disruption.
+5. Stakeholder Collaboration
+Work closely with business stakeholders to
+gather and analyze requirements, translating them into effective technical
+solutions.
+6. Technology Updates
+Stay up to date with the latest features,
+technologies, and best practices related to Power Apps, Dataverse, and the
+broader Microsoft Power Platform.
+Place of posting
+Accomodation details
+Mumbai
+None
+Bond applicable
+No

@@ -1,0 +1,33 @@
+Job Details
+Roles and Responsibilities
+1. Consistently strive to acquire new skills on Cloud and DevOps, technologies
+2. Design, deploy and maintain Cloud infrastructure for Clients – Domestic &
+International
+3. Develop tools and automation to make platform operations more efficient,
+reliable and reproducible
+4. Create Container Orchestration (Kubernetes, Docker), strive for full automated
+solutions, ensure the up-time and security of all cloud platform systems and
+infrastructure
+5. Stay up to date on relevant technologies, plug into user groups, and ensure our
+client are using the best techniques and tools
+6. Providing business, application, and technology consulting in feasibility
+discussions with technology team members, customers and business partners
+7. Take initiatives to lead, drive and solve during challenging scenarios
+Qualification
+Is Education overrated? Yes. We believe so. But there is no way to locate you
+otherwise. So we might look for at least a Bachelor’s degree in Computer Science
+along with
+1. 0-1 years of experience with hands-on experience in Cloud Computing
+2. (AWS/GCP/Azure) and IT operational experience in a global enterprise
+environment.
+3. Would have worked hands on in infra migration projects
+4. Good analytical, communication, problem solving, and learning skills.
+5. Knowledge on programming against cloud platforms such as Google Cloud
+Platform and lean development methodologies.
+6. Experience in Linux platform and IaC tools like Terraform.
+Place of posting
+Accomodation details
+Mumbai, Pune, Ahmedabad, Rajkot, Gurugram, Noida, Hyderabad, Bangalore, Coimbatore
+None
+Bond applicable
+No

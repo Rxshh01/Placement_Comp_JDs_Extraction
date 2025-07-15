@@ -1,0 +1,112 @@
+Job Details
+【
+Technology
+Field
+】
+Computer Graphics,
+System Software
+【
+Position Summary
+】
+At present, we at Sony have various capturing
+and sensing technologies that differentiate us from others in the market.
+Additionally, as we develop playback devices, display devices, and services, we
+must connect them with one another through the technologies and systems in
+order to create more powerful 3D related products and services.
+Our mission is to develop the real-time rendering technology and system
+technology using it that realizes end-to-end systems from production of 3D
+digital contents based on the real world to distribution and display. Although
+playback and rendering technology is the main area of our development, we are
+also defining distribution format, converting data asset, and creating an
+end-to-end distribution system that connects the capturing technologies and
+displaying technologies.
+As a 3D Media System Engineer, you may work in the developments of real-time
+rendering technology of skeletal data/motion data, volumetric video and audio
+data from real-world capturing system, distribution/playback technology, and
+applications utilizing them for entertainment fields like sports, music, and
+location based entertainment. In addition to maximizing your expertise, you
+will have opportunities to deepen your knowledge of such a new field that
+sparks your curiosity.
+For decades, Sony has been delivering unprecedented values and creating
+services for customers throughout the world. With your passion for 3D contents
+and your engineering foundation, we hope you to join us to expand our values
+and to innovate new 3D interactive entertainments.
+【
+Responsibilities
+】
+■
+Technology exploration and problem
+extraction through system development in collaboration with global Sony Group
+business units
+■
+Solving technical issues and establishing technology
+through prototyping
+■
+Lead introduction of developed technological assets
+to business units or external partners
+■
+Investigating, designing and implementing of
+real-time rendering technology and end-to-end system including it from
+capturing to display
+■
+Become a leader or a core member of the team which
+provides original technologies into the world as a product/service with other
+departments
+【
+Required qualifications
+】
+■
+Technology Field Expertise
+- 3D Computer Graphics
+- Game engine technology (rendering pipelines, programmable shaders, lighting,
+etc.)
+- Machine Learning/AI (especially related to computer graphics or computer
+vision, neural rendering such as 3D Gaussian Splatting, and Explainable AI for
+commercial use)
+- 3D CG/video/distribution standards (USD, glTF, MPEG-DASH, V-DMC, MPEG-I,
+V-PCC)
+- Motion capture technology
+■
+Software Technology
+- Programming Languages: C++, Python, C#
+- Game Engine: UE5, Unity
+- 3D Frameworks: OpenGL, Vulkan, DirectX
+- GPU Programming Languages: CUDA
+- Server Development: AWS
+- Application Development: Windows/Android/iOS
+【
+Preferred qualifications
+】
+■
+Self-management skills (implementation
+of G-PDCA at the individual level, etc.).
+■
+Leadership ability and communication skills
+(experience leading teams).
+■
+Collaboration (Proven ability to work closely with
+cross-functional teams, including the business division, to align project
+objectives, manage expectations, and ensure smooth coordination throughout the
+development process).
+■
+Writing and presentation skills in English
+(experience presenting papers).
+【
+Product, Service
+】
+Metaverse services, 3D/XR services,
+entertainment (music, movies, location based entertainment), games
+(PlayStation), etc.
+【
+Development Environment
+】
+PC: x86/x64 Windows compatible PC, Mac
+(M1/M2/Intel)
+OS: Windows, MacOS, iOS, Android, Linux, and others
+GameEngine: Unreal Engine, Unity
+Place of posting
+Accomodation details
+Tokyo, Japan
+Temporary
+Bond applicable
+No

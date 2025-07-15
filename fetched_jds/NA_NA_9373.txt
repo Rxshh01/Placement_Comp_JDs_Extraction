@@ -1,0 +1,45 @@
+Job Details
+About the Role
+At KnowDis, you will move the world forward. Every day, we create innovative machine-learning solutions to help our clients across e-commerce, healthcare, and finance domains to solve their problems.
+We are a
+group of highly curious professionals dedicated to discovering and implementing new deep learning models
+. We work at the intersection of
+machine learning
+,
+statistical analysis
+,
+deep learning
+,
+natural language processing
+, and c
+omputer vision
+.
+We bring out the best in each other, and together, we work towards the vision of using this expertise to help society and make the world a better place.
+As a data scientist, you should be passionate about natural language processing, computer vision, statistical sampling, and analytical methods. You will develop machine learning systems, analyze performance, and refine models through hyperparameter tuning and experimentation to optimize results. You will also improve algorithm accuracy by iterating based on performance metrics and feedback. To succeed in this role, you need exceptional skills in statistics and programming. You will be part of an agile team and will be collaborating with engineers, data engineers, and fellow data scientists.
+Job Responsibilities
+Develop and Implement Machine Learning Models
+: Design, build, and deploy machine learning models and algorithms for various applications, ensuring they are robust and scalable for production use.
+Data Exploration and Preparation
+: Collect, clean, and preprocess large datasets, including feature engineering and data transformation, to create a strong foundation for modeling.
+Model Training and Optimization
+: Train models using state-of-the-art techniques, optimize performance through hyperparameter tuning, and conduct thorough experimentation to achieve desired results.
+Analyze and Evaluate Performance
+: Use appropriate metrics to analyze model accuracy, precision, recall, and other relevant performance indicators, and iteratively improve models based on findings.
+Experimentation and Research
+: Stay updated on the latest machine learning and data science advancements, and run experiments to identify potential new techniques and approaches for business challenges.
+Requirements for the Job
+Bachelor’s/Master's/Ph.D. in Computer Science, Mathematics, Statistics, or equivalent field.
+Strong proficiency in Python and machine learning frameworks like PyTorch, TensorFlow, Scikit-learn, and others.
+Solid understanding of statistical analysis, data modeling, and algorithmic techniques for various ML tasks.
+Experience in Natural Language Processing (NLP) and/or Computer Vision (CV) is required; any of the following is preferred:
+NLP
+: Strong understanding of RNNs and transformer-based architectures for tasks such as chatbots/dialogue systems, machine translation, named entity recognition, recommendation systems, and retrieval systems.
+Computer Vision
+: Hands-on experience with cutting-edge Vision Language Models (VLMs) like ViT, CLIP, Swin Transformers, DINO, GroundedSAM, SAM, YOLOv7/v8, and multimodal architectures like BLIP-2 and GIT-2. Skilled in Visual Question Answering (VQA), image classification, search, and object detection, with expertise in advanced techniques for complex vision and multimodal tasks.
+Practical experience in building production-ready systems using deployment frameworks such as FastAPI, NVIDIA Triton Inference Server, TorchServe, or TensorFlow Serving is a plus.
+Place of posting
+Accomodation details
+New Delhi
+None
+Bond applicable
+No

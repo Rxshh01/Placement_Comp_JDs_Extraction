@@ -1,0 +1,116 @@
+Job Details
+About Kotak Mahindra Group:
+Established in 1985, the Kotak Mahindra Group
+is one of India’s leading financial services conglomerates. In February 2003,
+Kotak Mahindra Finance Ltd (KMFL), the group’s flagship company, received a
+banking license from the Reserve Bank of India (RBI). With this, KMFL became
+the first non-banking finance company in India to become a bank – Kotak
+Mahindra Bank Limited.
+The consolidated balance sheet of Kotak
+Mahindra Group is over 1 lakh crore and the consolidated net worth of the Group
+stands at 13,943 crore (approx. US$2.6 billion) as on September 30, 2012.
+The Group offers a wide range of financial
+services that encompass every sphere of life. From commercial banking to stock
+broking, mutual funds, life insurance and investment banking, the Group caters
+to the diverse financial needs of individuals and the corporate sector. The
+Group has a wide distribution network through branches and franchisees across
+India, the international offices in London, New York, California, Dubai, Abu
+Dhabi, Bahrain, Mauritius and Singapore.
+What we
+offer
+Our mission is simple – Building trust. Our
+customers' trust in us is not merely about the safety of their assets but also
+about how dependable our digital offerings are. That’s why we at Kotak Group
+are dedicated to transforming banking by imbibing a technology-first approach
+in everything we do, with an aim to enhance customer experience by providing
+superior banking services. We welcome and invite the best analytical and
+technological minds in the country to come join us in our mission to make
+banking seamless and swift. Here, we promise you meaningful work that
+positively impacts the lives of many.
+Job Description – Kotak Data Labs:
+Kotak Data Labs plays a pivotal role in driving
+innovation and business growth at Kotak. The team collaborates with stakeholders
+and data providers, leveraging advanced analytics and Data Science / Machine
+Learning techniques to drive strategic decision-making across the bank. The
+core work charter includes supporting different products across the bank by
+developing solutions across the customer journey to drive Acquisition,
+Engagement and Retention using cutting-edge Data Science capabilities and Data
+platforms.
+The Data Scientist and Data Analyst role within
+the team involves deploying projects from conception to actionable insights,
+enabling data-driven marketing strategies, developing risk scorecards, building
+behavioral models and impact in the banking business. This role focuses on leveraging
+Data science techniques for model development, feature engineering, driving automation,
+process improvement, and operational efficiency while demonstrating innovative
+thinking, passion for data science and fostering cross-team collaboration.
+Establishing strong working relationship with stakeholders in the bank is also
+a key aspect of this role.
+Roles and Responsibilities:
+·
+Deliver end to end Data Science projects
+including understanding of business requirements, exploratory data analysis,
+data processing, aggregating data, feature engineering, building and validating
+predictive models, explaining model results & insights and deployment
+·
+Use AI, ML, DL techniques such as
+regression, classification, clustering, tree-based algorithms, support vector
+machine, and neural networks, recommender system, attribution modelling to
+address business problems.
+·
+Improve upon existing methodologies
+by developing new data sources/features, testing model enhancements, and
+fine-tuning model parameters.
+·
+Provide requirements to develop
+analytical capabilities, platforms, and pipelines.
+·
+Present insights and recommendations
+to audiences of varying levels of technical sophistication
+·
+Automate processes to ensure
+scalability of solutions by collaborating with cross-functional teams
+·
+Perform the data extraction,
+transformations, and loading from the source systems and the data lake to the
+analytics products using independently developed logic
+·
+Challenge the status quo with
+entrepreneurial innovation in curating new data sources, elevating analytics
+beyond data reporting and dashboarding to deliver actionable insights
+Skill requirements:
+·
+Master’s or Bachelor’s Degree in a
+quantitative discipline (Statistics, Economics, Mathematics, Computer Science,
+Engineering, etc.)
+·
+Coding skills in Python, SQL
+·
+Deep understanding and hands-on
+experience with ML/DL Algorithms
+·
+Experience of working with large
+data sets and developing scalable solutions
+·
+Knowledge of Marketing, Risk,
+Business, Banking and Financial services, E-Commerce is preferred
+·
+Ability to work independently and
+deal with ambiguity
+·
+Strong analytical and
+problem-solving skills
+·
+Excellent presentation and strong
+written & verbal communication skills
+·
+Knowledge of Banking products,
+Marketing strategies and Generative AI is a plus
+·
+Highly motivated and collaborative
+team player with strong interpersonal skills
+Place of posting
+Accomodation details
+PAN India
+Permanent
+Bond applicable
+No

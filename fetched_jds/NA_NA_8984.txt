@@ -1,0 +1,95 @@
+Job Details
+Job summary:
+We are a leading Software as a Service (SaaS) company that specializes in the transformation of data in the US healthcare industry through
+cutting-edge
+Artificial Intelligence (AI) solutions.
+We are seeking
+a Data Scientist
+I
+.
+HiLabs
+is looking for great problem solvers who can tap into the potential of data and deliver scalable and robust data products. Our potential member would work on developing and implementing machine learning algorithms
+for
+various
+HiLabs
+Products
+and
+S
+olutions
+Responsibilities
+:
+Leveraging AI/ML techniques and solutions to Identify and mathematically interpret complex healthcare problems
+.
+Deploy and
+optimize
+machine learning solutions on massive datasets using big data technologies.
+Work on Natural Language Processing (NLP) tasks and Large Language Models (LLMs) to enhance our capabilities in understanding and processing healthcare data.
+Implement enhancements to existing algorithmic / Machine Learning solutions.
+Conduct quantitative data analysis using a variety of datasets
+.
+Increase efficiency and improve the quality of solutions offered
+.
+Understand business use cases and pull the necessary data from various sources to
+provide
+key insights to stakeholders
+.
+Leverage recent advances in machine learning technologies and oversee the team’s training
+.
+Desired Profile
+:
+Bachelor’s
+in
+C
+omputer
+S
+cience
+, Mathematics, Electrical Engineering, Computer
+Engineering
+or related fields from
+a
+tier 1 college
+, with
+an excellent academic background
+Hands-on experience in
+classical machine learning techniques and algorithms
+with good grasp of the fundamentals
+.
+Proficiency
+in programming languages such as
+Python
+or
+Scala
+.
+Hands-on Software Development Skills
+.
+Have
+broa
+d knowledge of existing ML tools and technologies
+.
+Experience or educational courses/projects in Machine Learning,
+Deep Learning,
+and/or Text Mining Algorithms
+.
+Hands-on experience with Large Language Models (LLMs) or NLP projects
+is a plus.
+Knowledge of healthcare data and its unique challenges
+is
+a plus, but not
+required
+.
+Ability to work closely with Domain experts to develop tools/algorithms needed to answer research questions in their studies
+.
+Excellent Communication Skills (with the ability to explain developed tools and ML algorithms to a non-technical audience)
+.
+Ability to formulate operational problems in healthcare domain as technical problems that allows for reuse of leading research in the area.
+Proven ability to work independently to learn
+new technologies
+, techniques, processes, languages, platforms, systems
+.
+Strong analytical, inferential, critical thinking, and creative problem-solving skills
+Place of posting
+Accomodation details
+Bangalore/Pune
+Temporary
+Bond applicable
+No

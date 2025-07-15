@@ -1,0 +1,59 @@
+Job Details
+Quant Analyst for Algorithmic Trading Desk
+We trade actively in all Asset classes like equities, futures,
+options, commodities, currencies and fixed income taking advantage of our ultra-low
+latency infrastructure. We are looking for a Quantitative Analyst for our Algorithmic
+Trading Desk.
+Skills and
+Qualifications
+·
+Understanding of financial
+markets and market microstructure.
+·
+Exceptional analytical and
+problem-solving skills and a strong track record of using creativity to come up
+with new HFT/MFT trading strategies like Index Arbitrage, Statistical
+Arbitrage, Market Making, Portfolio Optimization, Vol Based Strategies etc.
+·
+Understanding in at least some
+of the following areas: Time-Series Analysis, PCA, Statistical Estimation, Probability,
+Bayesian Techniques, Scenario Analysis, Numerical Optimization and Optimal Control.
+·
+At least a bachelor's degree in
+Computer Science, Mathematics, Statistics, Data Science, or other quantitative
+disciplines.
+·
+Hands-on knowledge in applying
+statistical and machine learning methods to financial data using Python/R or
+other similar tools.
+·
+Knowledge of Python and/or C/C++ is essential
+·
+Any experience in developing
+HF/MF strategies is a big advantage
+Responsibilities
+·
+Design, develop and implement
+profitable mid/high frequency trading strategies
+·
+Working in a fast-paced,
+multi-tasking environment, analyzing large amount of data and developing
+prediction algorithms / regression models and implementing them in C++, R,
+MATLAB, Python or other suitable technologies
+·
+Research, design, financially
+engineer and test quantitative models for trading securities, indices and their
+derivatives across asset classes. The person will need to understand latest
+research in quantitative finance and implement the same.
+·
+Back-testing and implementing
+trading signals on different exchanges & instruments. Work as part of the
+team to determine which signals and trading strategies to go live with and under
+what scenarios.
+Place of posting
+Accomodation details
+Delhi
+None
+Bond applicable
+Yes
+12 months

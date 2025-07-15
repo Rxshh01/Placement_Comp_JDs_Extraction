@@ -1,0 +1,77 @@
+Job Details
+【
+Technology Field
+】
+Natural Language Processing,
+Machine Learning
+【
+Position Summary
+】
+Our team is building a wide range of natural language
+processing technologies intended to be applied to entertainment content
+creation and business data analysis.
+You will work on advanced research in natural language processing. Your main
+task will be the research and development of multilingual LLM and downstream
+task for content creation intended to reduce hurdles for content distribution
+and make workflow more efficient.
+We expect to utilize this technology in movies, anime and games and contribute
+to deliver Sony's content to more customers faster.
+【
+Responsibilities
+】
+Development of LLM itself and downstream task such as
+machine translation for movies/anime/games content and natural language
+generation for content creation.
+You will be responsible for a wide range of activities, including paper
+submissions to top conferences (e.g. ACL, EMNLP, ICLR, AAAI, etc.),
+collaborative research with overseas laboratories and/or business groups, data
+collection, library releases, patent proposals, improving efficiency in Sony`s
+business workflow, etc.
+【
+Required qualifications
+】
+■
+Master's degree in natural language processing,
+artificial intelligence, machine learning, or closely related areas OR
+equivalent practical experience.
+■
+3 years of experience with Python, C/C++, and
+Linux/Unix.
+■
+2 years of experience in machine learning fields and
+NLP, using common frameworks such as PyTorch/TensorFlow.
+■
+Research ability, as demonstrated by a track record
+of conference papers, open-source software, or other scientific activities.
+【
+Preferred qualifications
+】
+■
+Qualification at the Ph.D. level or higher in computer
+science, AI/ML, or a related field.
+■
+3 years of experience in computer science, AI/ML, or
+a related field.
+■
+Knowledge and experience in developing LLM itself or
+LLM-related technology is a plus.
+【
+Product, Service
+】
+Movies/Anime/Game (content translation, content creation
+support). Business data analysis( financial, call center, manufacturing, etc)
+【
+Development Environment
+】
+■
+OS: Linux and Windows
+■
+Programming Languages: Python, C/C++ etc.
+■
+PC, Server, Cloud Computing
+Place of posting
+Accomodation details
+Tokyo,Japan
+Temporary
+Bond applicable
+No

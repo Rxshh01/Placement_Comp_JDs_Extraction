@@ -1,0 +1,28 @@
+Job Details
+Svaya Robotics is seeking Post-Graduate Engineer Trainee to develop and implement high performance motion planning and real-time control of its novel human-centered robots and dexterous robotic arms. You will work closely with our multi-disciplinary team of passionate engineers pushing the cutting edge of robotics hardware and software. You will be involved in a rich variety of projects to implement our ongoing research and innovative ideas to make robots simple, convenient, and reliable to work with and alongside people in any environment. To excel, you need to possess strong background in robot kinematics and dynamics and passion for coding. If you enjoy being challenged, love learning, are detail-oriented, appreciate working with people from varied backgrounds, and love what you do, then we want to hear from you.
+Job Responsibilities:
+Develop and implement adaptive motion planning and control algorithms for dexterous manipulation of articulated single and dual 6-axis and 7-axis robotic arms in dynamic environments.
+Develop force sensing technics and algorithms for novel force-controlled applications
+Develop techniques for multi-robot collaboration and dual-arm task manipulation
+Develop multi-body dynamics models of robots to simulate and understand their dynamic behavior and help to optimize the robot electro-mechanical design.
+Collaborate with other cross-functional product engineering teams to provide feedback and input for future product development activities.
+Participate and assist with high-level analysis, design, test procedures and code reviews.
+Key Skills & Experience:
+Strong background and course work in rigid-body dynamics, linear algebra, and computational mechanics.
+Exposure to motion planning and dynamics of multi-degree of freedom systems like articulated robotic arms is a plus.
+Experience using MATLAB, SIMULINK or similar computational toolboxes is a plus.
+Good aptitude for programming in C/C++ is a must.
+Willingness to take on new challenges and solve unfamiliar problems
+Desire to work in a fast-paced startup environment
+Place of posting
+Medchal(Hyderabad, Telangana, 501401)
+Accomodation details
+None
+Bond applicable
+No
+Place of posting
+Accomodation details
+Hyderabad
+None
+Bond applicable
+No

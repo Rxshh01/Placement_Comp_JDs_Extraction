@@ -1,0 +1,22 @@
+Job Details
+As a Machine Learning Engineer at Mercari, you will apply your machine learning skills to develop the Mercari C2C (consumer to consumer), marketplace app. Advancements in machine learning and computational resources are leading to remarkable innovations in both technology and business.
+We are actively utilizing advanced machine learning technologies in order to provide a more convenient and fun marketplace. Using sales and transaction data, engineers in this position will utilize machine learning technology to handle a diverse set of tasks such as optimizing search features, image recognition, anomaly detection, and recommendations.
+You will also work together with our server-side engineers and data scientists to design algorithms and conduct implementation work on our services.
+In addition, members will use machine learning to work on tasks involving credit scoring, fraud detection, and recommendation engines.
+Members will be asked to work together with product managers to conduct a complete range of duties, including identifying business challenges, conducting mathematical modeling, implementation and feedback, and microservice development and operation.
+• Mercari is a C2C marketplace where individuals can enjoy buying and selling items. Through our unique payment deposit system and our use of AI to monitor for fraud, anyone can enjoy safe and secure transactions.
+• Merpay is a mobile payment service within the Mercari app. With Merpay, users can use their sales proceeds on Mercari or money loaded via their bank account to shop at countless places.
+• https://about.mercari.com/en/
+• Development languages: Python3, Go
+• Machine learning and statistical modeling libraries: scikit-learn, TensorFlow, PyTorch, etc.
+• Infrastructure: Google Cloud Platform, Amazon Web Service
+• Configuration management tool: Terraform
+• Analysis infrastructure: BigQuery
+• Other: Docker / Kubernetes / Circle CI / GitHub / Slack / JIRA
+• Development methods: Agile (Scrum, Kanban, etc.)
+Place of posting
+Accomodation details
+JAPAN
+Temporary
+Bond applicable
+No

@@ -1,0 +1,107 @@
+Job Details
+Engineer,
+Electronic Hardware
+About the job
+The
+candidate is expected to participate in building technologies and products for automotive
+& off-highway powertrains such that the built products and technologies are
+deployed in large numbers world-wide.
+S/he is expected build technology
+differentiators and/or well-engineered robust products and work with a cross
+functional team to execute the same.
+Major Responsibilities
+An Engineer
+in Electronic Hardware is responsible for designing, maintaining,
+troubleshooting and evolving existing and new electronic product variants under
+SEDEMAC's various product lines – such as motor controllers and fuel injection
+controllers. At SEDEMAC, a engineer in electronics hardware performs the below
+responsibilities:
+·
+Defines and manages changes to hardware
+product requirements and leads product feasibility assessment activities.
+·
+Drives selection of major components
+considering competing constraints such as costing, performance, reliability,
+availability etc.
+·
+Proactively assesses and de-risks high
+severity failure modes during the design phase to achieve industry leading
+product reliability
+·
+Performs worst case design simulations /
+calculations & prototype studies to ensure compliance to requirements
+·
+Defines and communicates HW-SW, HW-Mechanical
+interface requirements and constraints (for example PCB sizing constraints)
+·
+Assesses and communicates risks associated
+with design trade-offs
+·
+Supports development of manufacturing SOPs
+(standard operating procedures) and EOL (end-of-line) test rigs
+·
+Defines hardware verification plan and
+performs V&V activities
+·
+Leads design implementation activities working
+closely with ECAD/MCAD engineers
+·
+Represents HW team for RCA activities and
+ensures implementation of CAPA during the complete HW product lifecycle
+·
+Proactively identifies and
+implements opportunities to minimize BOM cost and improve product robustness
+and reliability
+Technically mentors team members
+Conducts internal product training
+& sharing of LLBP and technical knowhow
+·
+Desired technical skills
+Requirements analysis
+Product architecture definition, Component
+     selection
+Design calculation & simulation, Worst
+     Case Analysis, Component derating
+Thermal analysis, Signal Integrity Analysis
+Functional/Piece Part FMEA, DRBFM
+PCB design, DFM, DFT, DFR aspects
+Usage of lab equipment like DSO/MSO, Function
+     generators, Power supplies etc.
+Desired soft skills
+Good
+     written and verbal communication skills.
+Ability
+     to work with a cross-functional team.
+Professional
+     attitude towards work.
+Sense
+     of ownership and urgency when working in the company.
+Strong
+     sense of ethics
+Education:
+Bachelor's
+     / Master's degree in Electrical / Electronics Engineering
+(CGPA
+     6.0+)
+Experience:
+NA
+Job Location:
+Pune
+     (Baner)
+About SEDEMAC:
+At its core, SEDEMAC is
+the coming together of talented engineers with the zeal for development and
+large-scale deployment of innovative control technologies & products. Since
+our proposals tend to be fundamental control technology for large markets, our
+customers are large vehicle/motor/engine manufacturers with significant market
+presence. We pride ourselves on being an engineer run organization —
+responsible for creation of technologies and products that we offer. We have
+been able to institute a working environment that emphasizes respect for the individual,
+focus on what is being said as opposed to who is saying it, creativity, and
+honesty.
+Place of posting
+Accomodation details
+Pune
+Temporary
+Bond applicable
+No

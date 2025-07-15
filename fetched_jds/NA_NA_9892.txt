@@ -1,0 +1,54 @@
+Job Details
+What we want to accomplish and why we need you
+Suki is creating a new category in the health-tech space: the digital assistant. Our product will be the voice user interface for healthcare. What does that mean? Currently, doctors use electronic medical-record systems to take notes on patient encounters. This is a digital version of the paper charts that you may have seen in your doctor’s office or on TV. These systems can be hard to navigate and time-consuming to manage. Doctors would rather spend that time with patients. We are creating the solution. Doctors that use Suki already spend over 70% less time on administrative tasks, and we’re striving to do even better. Come and join us!
+We are a user-driven company and spend time with our customers to understand features that will truly make their lives better. We’re a team of technologists, clinicians, and industry experts working together to push the limits on technology used in medicine. We’re confident enough to move fast and talented enough not to break things.
+Our tech stack includes GCP, Kubernetes, Golang, Python, React, C++, TypeScript, JavaScript, Swift, Kotlin, gRPC, and Redis.
+What will you do everyday?
+Expertise:
+you know how to code.  You understand our tech stack and can be productive with it. In other words, you’ve done this before.
+Action oriented:
+You love to build.  You know that perfect is the enemy of the good – you like to ship fast and quickly iterate.
+Creativity:
+You enjoy listening to user feedback and then building products in novel ways. You’re resourceful and enjoy finding alternate paths to success.
+Problem solving:
+you use data to help point you in the correct direction. You optimize relentlessly.  You think business and engineering problems are like puzzles and you stick with them until they are solved.
+Humility:
+You’re humble and love working in a team without ego to deliver products
+Adaptability:
+You thrive in a fast-moving organization that uses light-weight processes and cutting-edge technology to have a huge impact.
+Confidence: You trust your abilities and you’re ready to push yourself to the next level.
+Responsibilities:
+Own design for essential parts of Suki’s innovative consumer/prosumer Web, mobile apps for doctors, enterprise web apps used by administrators and operations professionals, and buyer experiences like landing pages.
+Sweat the details: Lead the charge in optimizing Suki’s fit & finish.
+Work with Suki design colleagues to evolve and apply the team’s design systems to help create a unified look and feel across the company’s suite of products.
+Help development team members understand best practices for design systems and reusable components.
+Work on designing and prototyping innovative interactions for Suki’s assistant experiences.
+Collaborate with cross-functional teams of product management, engineering, marketing, and executive teams to create beautiful consumer experiences.
+Become an evangelist for Suki’s design principles within and outside Suki.
+Qualifications:
+Hybrid UX design
+Can point us to a portfolio of experiences or studies for which you made UX and visual design contributions
+Experience leading design for high-quality currently shipping mobile apps or web apps.
+Exceptional communication skills for conveying design concepts.
+Experience with motion design and animation.
+Fluency in modern design and prototyping tools like Figma, Protopie, Whimsical, etc.
+Experience with branding and marketing is a plus.
+Experience in designing voice interfaces is a plus.
+Tell me more about Suki
+On a roll:
+Named by Forbes as one of the top 50 companies in AI; named "Best New Startup" by Rock Health; announced a major partnership with Google.
+Great team:
+Founded, managed, and backed by successful tech veterans from Google and Apple and medical leaders from UCSF and Stanford. We have technologists and doctors working side-by-side to solve complex problems.
+Huge market:
+Disrupting a massive, growing $30+ billion market for transcription, dictation, and order-entry solutions. Our vision is to become the voice user interface for healthcare, relieving the administrative burden on doctors instead of adding to it.
+Great customers:
+Help our doctors save time on data entry so they can focus on providing excellent care.
+Impact:
+You’ll make an impact from day one. You’ll join a team working towards a shared purpose with a culture built upon deep empathy for doctors and passion for making their lives better.
+Suki is an Equal Opportunity Employer. We are dedicated to building a company that fosters inclusion and belonging and reflects the diverse communities we serve across the country. We know we are stronger this way, and we look forward to growing our team with these shared values.
+Place of posting
+Accomodation details
+Bengaluru
+None
+Bond applicable
+No

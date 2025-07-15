@@ -1,0 +1,33 @@
+Job Details
+Overview:
+Leading AI-driven Global Supply Chain Solutions Software Product Company and one of Glassdoor’s “Best Places to Work.”
+Seeking an astute individual that has a strong technical foundation with the additional ability to be hands-on with the broader engineering team as part of the development/deployment cycle.
+Scope:
+Understand the Cognitive Supply Planning Solver Product and Supply Planning solvers.
+Actively participate in team activities such as backlog grooming, sprint planning, daily stand-ups, retrospectives, and code review.
+Continuously improve coding practices, problem-solving approaches, and knowledge of the domain.
+Contribute to simple feature development and bug fixes. Provide matching test cases for new code, ensuring robust functionality. Write code that is maintainable and improve its readability over time.
+Analyze datasets and replicate issues reported by customers, pre-sales, support and implementation consultants. Identify root causes of problems and collaborate with the team to find solutions. Work with senior architects to debug and resolve performance and scalability issues. Test large datasets and detect performance bottlenecks.
+The product development team is currently based in India, however customers are global from US, Europe, Asia, so would need the flexibility to be able to work with support teams that are globally distributed.
+Our current technical environment:
+Software: Java, C++, Python, GIT, Rest API, SQL, databases, CPLEX
+Frameworks/Others: Kubernetes, Snowflake, RDBMS, MS Azure
+What you’ll do:
+Coding
+Follows the software development lifecycle.
+Coordinate with all cross functional teams to analyze all issues.
+Document unit test procedures and participate in software development process to perform all tests on designs and ensure compliance to all Object-Oriented Programming activities.
+Diagnose all root causes to recommend required actions and assist in defining and classifying all issues and projects to avoid reoccurrence of issues and prepare automation responses if required.
+What we are looking for:
+BE/B.Tech or MS/M.Tech in any Engineering Branch (non-Computer Science), with 7.0 CGPA and above. Background in Industrial Engineering and Operations Research may be preferred.
+Ability to troubleshoot and replicate problems reported by customers.
+High attention to detail
+Persistent and positive attitude
+Creative problem solver
+Strong communication and teamwork skills
+Place of posting
+Accomodation details
+Bangalore or Hyderabad
+None
+Bond applicable
+No

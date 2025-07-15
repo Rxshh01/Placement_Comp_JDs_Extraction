@@ -1,0 +1,8 @@
+Job Details
+A Software Developer for our Core Engineering group to help us in designing our in-house low latency software stack. A day-to-day work includes learning and supporting(but not limited to): - Designing, developing and testing proprietary software including - Low-latency high-throughput exchange connectivity layers - Distributed computation optimized backtesting and simulation systems capable of handling terabytes of data - Risk systems with real time trade management and risk analysis - Identifying complex problems, coming up with innovative solutions and communicating them with your team in order to advocate their implementation - Collaboration with other software developers, quantitative traders and researchers in cross-functional team environments Open for : CSE, EE
+Place of posting
+Accomodation details
+Bangalore/Gurgaon
+Temporary
+Bond applicable
+No
